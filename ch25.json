@@ -1,0 +1,3391 @@
+{
+ "kingdom": 3526,
+ "city_hall": 25,
+ "scanned": 1790109485,
+ "published": 1790110139,
+ "governors_seen": 1447,
+ "count": 358,
+ "power_total": 16838180573,
+ "no_alliance": 46,
+ "alliances": [
+  {
+   "tag": "IG26",
+   "count": 132,
+   "power": 10955038213
+  },
+  {
+   "tag": "26LS",
+   "count": 49,
+   "power": 1284304404
+  },
+  {
+   "tag": "LR26",
+   "count": 25,
+   "power": 578630174
+  },
+  {
+   "tag": "26DW",
+   "count": 14,
+   "power": 380453524
+  },
+  {
+   "tag": "ES26",
+   "count": 14,
+   "power": 282388270
+  },
+  {
+   "tag": "26GS",
+   "count": 9,
+   "power": 191680291
+  },
+  {
+   "tag": "26LF",
+   "count": 9,
+   "power": 148961988
+  },
+  {
+   "tag": "KS26",
+   "count": 7,
+   "power": 346724894
+  },
+  {
+   "tag": "G2F6",
+   "count": 7,
+   "power": 113778137
+  },
+  {
+   "tag": "JJ26",
+   "count": 6,
+   "power": 205313661
+  },
+  {
+   "tag": "V26V",
+   "count": 6,
+   "power": 194927007
+  },
+  {
+   "tag": "XZ26",
+   "count": 6,
+   "power": 96102272
+  },
+  {
+   "tag": "AE26",
+   "count": 4,
+   "power": 109681237
+  },
+  {
+   "tag": "Dc26",
+   "count": 3,
+   "power": 38319080
+  },
+  {
+   "tag": "KsT",
+   "count": 2,
+   "power": 86213103
+  },
+  {
+   "tag": "GV26",
+   "count": 2,
+   "power": 55860288
+  },
+  {
+   "tag": "Qwak",
+   "count": 2,
+   "power": 36682480
+  },
+  {
+   "tag": "DT26",
+   "count": 2,
+   "power": 30211328
+  },
+  {
+   "tag": "Dum6",
+   "count": 1,
+   "power": 122978548
+  },
+  {
+   "tag": "usr",
+   "count": 1,
+   "power": 60721418
+  },
+  {
+   "tag": "DA-S",
+   "count": 1,
+   "power": 34495530
+  },
+  {
+   "tag": "Aw26",
+   "count": 1,
+   "power": 31653664
+  },
+  {
+   "tag": "Btl",
+   "count": 1,
+   "power": 31417076
+  },
+  {
+   "tag": "ILL",
+   "count": 1,
+   "power": 28681227
+  },
+  {
+   "tag": "DH26",
+   "count": 1,
+   "power": 28635935
+  },
+  {
+   "tag": "CHin",
+   "count": 1,
+   "power": 25411346
+  },
+  {
+   "tag": "Ursu",
+   "count": 1,
+   "power": 23396044
+  },
+  {
+   "tag": "PYDR",
+   "count": 1,
+   "power": 21125916
+  },
+  {
+   "tag": "ESDA",
+   "count": 1,
+   "power": 21002125
+  },
+  {
+   "tag": "26RD",
+   "count": 1,
+   "power": 19993727
+  },
+  {
+   "tag": "BB26",
+   "count": 1,
+   "power": 13011521
+  }
+ ],
+ "accounts": [
+  {
+   "id": 3578288,
+   "name": "乄Tunga乄",
+   "power": 176939272,
+   "x": 569,
+   "y": 634,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 33357125,
+   "name": "ㄴSonny ㄱ",
+   "power": 169068303,
+   "x": 512,
+   "y": 602,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 34184453,
+   "name": "Atummys",
+   "power": 167031535,
+   "x": 512,
+   "y": 600,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 66312276,
+   "name": "ᴮᴬᴰBlade",
+   "power": 158882079,
+   "x": 563,
+   "y": 600,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 56592507,
+   "name": "DeadPoetic",
+   "power": 157919315,
+   "x": 520,
+   "y": 567,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 17190764,
+   "name": "Vize x҉",
+   "power": 143151901,
+   "x": 515,
+   "y": 552,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 4195079,
+   "name": "Fruitdealer",
+   "power": 140590235,
+   "x": 542,
+   "y": 567,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 62870564,
+   "name": "Madvillainy",
+   "power": 138574013,
+   "x": 518,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 146834648,
+   "name": "Manual Rowan",
+   "power": 135273510,
+   "x": 546,
+   "y": 618,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 2251922,
+   "name": "BloodツCrown",
+   "power": 131268980,
+   "x": 513,
+   "y": 583,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 3274469,
+   "name": "Just Agus",
+   "power": 129950063,
+   "x": 591,
+   "y": 654,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 125915323,
+   "name": "MRjacksy",
+   "power": 128635609,
+   "x": 629,
+   "y": 480,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 43768929,
+   "name": "NuRi 龙",
+   "power": 124786854,
+   "x": 683,
+   "y": 542,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 22226412,
+   "name": "义ʟᴜᴋᴇ",
+   "power": 123938030,
+   "x": 537,
+   "y": 642,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 84266337,
+   "name": "LINCEXMIAW",
+   "power": 122978548,
+   "x": 171,
+   "y": 724,
+   "alliance": "Dum6",
+   "alliance_id": 8817548
+  },
+  {
+   "id": 44393886,
+   "name": "DADDY HR BLACK",
+   "power": 120671078,
+   "x": 566,
+   "y": 697,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 12496936,
+   "name": "ᵃⁿᵍ Thor",
+   "power": 119660996,
+   "x": 545,
+   "y": 615,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 180611348,
+   "name": "XhedgeX",
+   "power": 118838698,
+   "x": 558,
+   "y": 629,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 80338007,
+   "name": "Mad乂Pharaoh",
+   "power": 118506256,
+   "x": 361,
+   "y": 795,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 61626485,
+   "name": "tedd",
+   "power": 117381780,
+   "x": 546,
+   "y": 568,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 15201096,
+   "name": "ɢᴠᴏ  Macro",
+   "power": 113594318,
+   "x": 570,
+   "y": 604,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 57841018,
+   "name": "ᵏˢ Imperius",
+   "power": 113074871,
+   "x": 540,
+   "y": 632,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 121038633,
+   "name": "ᴘ ᴀ i ɴ",
+   "power": 112169029,
+   "x": 515,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 43538654,
+   "name": "义Bagy",
+   "power": 111875965,
+   "x": 544,
+   "y": 611,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 11453030,
+   "name": "UghMan",
+   "power": 111806947,
+   "x": 523,
+   "y": 618,
+   "alliance": "KS26",
+   "alliance_id": 6999883
+  },
+  {
+   "id": 65236578,
+   "name": "乄callmeHH",
+   "power": 111770179,
+   "x": 511,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 42037402,
+   "name": "Kalitov",
+   "power": 111493324,
+   "x": 512,
+   "y": 552,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 81371949,
+   "name": "ᴮˢ Alexandr",
+   "power": 111150550,
+   "x": 537,
+   "y": 392,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 187152965,
+   "name": "ᵏˢBeasty",
+   "power": 111134201,
+   "x": 539,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 187152986,
+   "name": "ᵏˢBeauty",
+   "power": 110830162,
+   "x": 537,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 56880803,
+   "name": "wargod あ",
+   "power": 110814683,
+   "x": 516,
+   "y": 688,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 61601205,
+   "name": "ᴮᴮ HŌSS",
+   "power": 108891974,
+   "x": 529,
+   "y": 636,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 181889772,
+   "name": "Siɴ",
+   "power": 108468382,
+   "x": 540,
+   "y": 575,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 15241524,
+   "name": "FluffyPrime",
+   "power": 106607425,
+   "x": 552,
+   "y": 618,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 172860385,
+   "name": "UnDeaDﾠ",
+   "power": 106082903,
+   "x": 713,
+   "y": 708,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 84427607,
+   "name": "Quarks",
+   "power": 105852371,
+   "x": 516,
+   "y": 570,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 9497618,
+   "name": "Snorlax乂아현",
+   "power": 105788554,
+   "x": 570,
+   "y": 654,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 12575917,
+   "name": "TugyCimoşBonny",
+   "power": 105527821,
+   "x": 748,
+   "y": 623,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 63917907,
+   "name": "Von Es0x",
+   "power": 104932940,
+   "x": 549,
+   "y": 594,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 36763906,
+   "name": "Mandie Korr ⽕",
+   "power": 104841431,
+   "x": 510,
+   "y": 552,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 106233852,
+   "name": "NamNT",
+   "power": 104519377,
+   "x": 609,
+   "y": 627,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 76825380,
+   "name": "ᴷˢDubai Baby",
+   "power": 104439537,
+   "x": 554,
+   "y": 618,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 41726928,
+   "name": "StealthTea",
+   "power": 104380207,
+   "x": 557,
+   "y": 654,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 122967445,
+   "name": "乂ᴴᴸZeN乂",
+   "power": 104128691,
+   "x": 605,
+   "y": 687,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 24801096,
+   "name": "ᵏˢJoGurt",
+   "power": 104059320,
+   "x": 541,
+   "y": 620,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 14631932,
+   "name": "sic 吉 利",
+   "power": 103882490,
+   "x": 655,
+   "y": 715,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 59191248,
+   "name": "JJexe",
+   "power": 103547825,
+   "x": 544,
+   "y": 573,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 189481599,
+   "name": "ˢᴹCrash",
+   "power": 102899297,
+   "x": 536,
+   "y": 615,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 177603616,
+   "name": "ʙᴇ 乂 ᴠɴ",
+   "power": 102592889,
+   "x": 549,
+   "y": 589,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 62714394,
+   "name": "RVoid",
+   "power": 102377057,
+   "x": 558,
+   "y": 627,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 24390030,
+   "name": "Mr Click",
+   "power": 101876224,
+   "x": 516,
+   "y": 611,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 12138267,
+   "name": "ᵍᵛᵒ Macro",
+   "power": 100660948,
+   "x": 572,
+   "y": 604,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 181897443,
+   "name": "Vyseone",
+   "power": 100213697,
+   "x": 555,
+   "y": 627,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 123397041,
+   "name": "bLn",
+   "power": 100118339,
+   "x": 519,
+   "y": 597,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 181325981,
+   "name": "Docmen",
+   "power": 99881103,
+   "x": 525,
+   "y": 603,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 72369540,
+   "name": "Jōi Bōi  x҉",
+   "power": 99793964,
+   "x": 536,
+   "y": 647,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 125893923,
+   "name": "Parazzi xzy",
+   "power": 99294535,
+   "x": 495,
+   "y": 590,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 141033775,
+   "name": "Roberto Rice",
+   "power": 99150465,
+   "x": 553,
+   "y": 584,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 36177397,
+   "name": "fj0r1",
+   "power": 98267090,
+   "x": 549,
+   "y": 570,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 168962034,
+   "name": "Hedgey f",
+   "power": 98137614,
+   "x": 485,
+   "y": 567,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 167561628,
+   "name": "ᴵᵐVELVETEEN",
+   "power": 97680832,
+   "x": 527,
+   "y": 660,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 81418285,
+   "name": "ㄴStanupwindㄱ",
+   "power": 97610603,
+   "x": 269,
+   "y": 897,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 167694678,
+   "name": "ᴵᵐACS",
+   "power": 97358403,
+   "x": 528,
+   "y": 651,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 129791806,
+   "name": "Crystal ツ",
+   "power": 97312041,
+   "x": 547,
+   "y": 637,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 106971166,
+   "name": "Gaiseric77",
+   "power": 96408099,
+   "x": 521,
+   "y": 589,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 47165892,
+   "name": "ƑE丹尺Philii",
+   "power": 95540339,
+   "x": 540,
+   "y": 606,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 17983642,
+   "name": "ᵏˢImperius",
+   "power": 95120510,
+   "x": 538,
+   "y": 632,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 180690388,
+   "name": "Ṭimekeeper",
+   "power": 94774005,
+   "x": 540,
+   "y": 595,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 35363908,
+   "name": "Caᴍi",
+   "power": 94335195,
+   "x": 508,
+   "y": 570,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 66962606,
+   "name": "ᴰᵃʳk ヽWolf",
+   "power": 93638040,
+   "x": 477,
+   "y": 602,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 166376005,
+   "name": "유타 YutaA",
+   "power": 93584531,
+   "x": 529,
+   "y": 582,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 177985077,
+   "name": "乂Qin乂",
+   "power": 92757460,
+   "x": 575,
+   "y": 648,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 62087397,
+   "name": "Lazy girl",
+   "power": 92281429,
+   "x": 522,
+   "y": 627,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 140929400,
+   "name": "xDaMeqee",
+   "power": 91584258,
+   "x": 519,
+   "y": 631,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 33612909,
+   "name": "Pekka Da Vinci",
+   "power": 91430026,
+   "x": 600,
+   "y": 648,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 187559868,
+   "name": "父 Itàchi",
+   "power": 90129426,
+   "x": 574,
+   "y": 644,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 163160130,
+   "name": "LTH1810",
+   "power": 89937400,
+   "x": 666,
+   "y": 647,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 194922302,
+   "name": "MutedRiYan",
+   "power": 89567217,
+   "x": 603,
+   "y": 653,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 139352331,
+   "name": "NaRa 愛",
+   "power": 89125478,
+   "x": 681,
+   "y": 541,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 177378834,
+   "name": "Vespyr",
+   "power": 88893644,
+   "x": 510,
+   "y": 490,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 180888737,
+   "name": "Ché Ló",
+   "power": 88428773,
+   "x": 607,
+   "y": 629,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 47450866,
+   "name": "Úrsula",
+   "power": 86700973,
+   "x": 593,
+   "y": 655,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 173625852,
+   "name": "ᴿᴵ Folklore",
+   "power": 86671012,
+   "x": 506,
+   "y": 657,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 189147278,
+   "name": "ˢᵐBat  x҉",
+   "power": 86353098,
+   "x": 519,
+   "y": 690,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 14360461,
+   "name": "DEITY GREGOR",
+   "power": 84138574,
+   "x": 510,
+   "y": 554,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 47481132,
+   "name": "Tony boi",
+   "power": 83799625,
+   "x": 537,
+   "y": 639,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 181884610,
+   "name": "Kasu X Redjohn",
+   "power": 83041597,
+   "x": 693,
+   "y": 570,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 195977591,
+   "name": "JAMBO",
+   "power": 82962830,
+   "x": 510,
+   "y": 599,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 59247844,
+   "name": "ImpFiller",
+   "power": 81487499,
+   "x": 477,
+   "y": 549,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 92849951,
+   "name": "ᵏˢRedjohn",
+   "power": 81229864,
+   "x": 691,
+   "y": 569,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 98976292,
+   "name": "Quackhead",
+   "power": 80663498,
+   "x": 579,
+   "y": 659,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 123632767,
+   "name": "sakugame",
+   "power": 78578358,
+   "x": 539,
+   "y": 656,
+   "alliance": "KS26",
+   "alliance_id": 6999883
+  },
+  {
+   "id": 197761224,
+   "name": "Yamil Angura",
+   "power": 76266425,
+   "x": 574,
+   "y": 610,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 181339894,
+   "name": "BOBOBOM",
+   "power": 76262216,
+   "x": 391,
+   "y": 363,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 177401462,
+   "name": "ᴰᶜTTTTT",
+   "power": 76251291,
+   "x": 520,
+   "y": 527,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 181566082,
+   "name": "Lazy saku",
+   "power": 76242469,
+   "x": 536,
+   "y": 652,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 177753013,
+   "name": "Deeww",
+   "power": 68003052,
+   "x": 581,
+   "y": 374,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 173033473,
+   "name": "Zander Snow",
+   "power": 60721418,
+   "x": 180,
+   "y": 703,
+   "alliance": "usr",
+   "alliance_id": 7798939
+  },
+  {
+   "id": 181810641,
+   "name": "Lily Rei",
+   "power": 59159113,
+   "x": 486,
+   "y": 534,
+   "alliance": "KS26",
+   "alliance_id": 6999883
+  },
+  {
+   "id": 130335909,
+   "name": "Mrjacksysfarm1",
+   "power": 58362378,
+   "x": 628,
+   "y": 483,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 171143946,
+   "name": "Dcq",
+   "power": 57257341,
+   "x": 117,
+   "y": 665,
+   "alliance": "JJ26",
+   "alliance_id": 7002385
+  },
+  {
+   "id": 105214067,
+   "name": "선덕",
+   "power": 56873830,
+   "x": 299,
+   "y": 892,
+   "alliance": "V26V",
+   "alliance_id": 8010884
+  },
+  {
+   "id": 194926633,
+   "name": "RiriYan",
+   "power": 56619757,
+   "x": 600,
+   "y": 653,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 161100152,
+   "name": "Big doggg",
+   "power": 55687606,
+   "x": 429,
+   "y": 237,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 49507891,
+   "name": "Godlight1",
+   "power": 54130970,
+   "x": 30,
+   "y": 1125,
+   "alliance": "KsT",
+   "alliance_id": 7007454
+  },
+  {
+   "id": 60252602,
+   "name": "JJexeAsec",
+   "power": 49625539,
+   "x": 540,
+   "y": 570,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 137007131,
+   "name": "Pharaoh Rally 1",
+   "power": 47705435,
+   "x": 783,
+   "y": 598,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 71342876,
+   "name": "Red X Blade",
+   "power": 46716047,
+   "x": 570,
+   "y": 600,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 168243930,
+   "name": "Pharaoh Rally 2",
+   "power": 45596882,
+   "x": 360,
+   "y": 799,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 62197058,
+   "name": "mini lazygirl 0",
+   "power": 44775984,
+   "x": 522,
+   "y": 625,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 165034873,
+   "name": "メIT4CHIメ",
+   "power": 44660430,
+   "x": 302,
+   "y": 1129,
+   "alliance": "JJ26",
+   "alliance_id": 7002385
+  },
+  {
+   "id": 137413791,
+   "name": "Pharaoh Rally 3",
+   "power": 44558424,
+   "x": 505,
+   "y": 795,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 127026359,
+   "name": "bLnq",
+   "power": 41828170,
+   "x": 519,
+   "y": 595,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 178310650,
+   "name": "Tidak Aktif",
+   "power": 41511288,
+   "x": 82,
+   "y": 865,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 79718473,
+   "name": "Blade x Imp 4",
+   "power": 41311985,
+   "x": 853,
+   "y": 493,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 84435338,
+   "name": "Vespyr Farm",
+   "power": 40599034,
+   "x": 609,
+   "y": 591,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 85537673,
+   "name": "Bobobom Fill",
+   "power": 40316475,
+   "x": 571,
+   "y": 609,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 188312794,
+   "name": "LittleBeasty",
+   "power": 39526373,
+   "x": 645,
+   "y": 582,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 108252525,
+   "name": "Gaiseric Farm",
+   "power": 39059823,
+   "x": 825,
+   "y": 360,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 171168008,
+   "name": "Hello33",
+   "power": 38985325,
+   "x": 120,
+   "y": 659,
+   "alliance": "JJ26",
+   "alliance_id": 7002385
+  },
+  {
+   "id": 7578021,
+   "name": "AgusFiller",
+   "power": 38952108,
+   "x": 588,
+   "y": 655,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 119626819,
+   "name": "Khanhvan",
+   "power": 38242574,
+   "x": 282,
+   "y": 1078,
+   "alliance": "V26V",
+   "alliance_id": 8010884
+  },
+  {
+   "id": 188312797,
+   "name": "Littlebeauty",
+   "power": 37833107,
+   "x": 642,
+   "y": 582,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 165136641,
+   "name": "Pharaoh Rally 4",
+   "power": 37318908,
+   "x": 360,
+   "y": 793,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 125711395,
+   "name": "HH Fill",
+   "power": 36862327,
+   "x": 633,
+   "y": 850,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 141434780,
+   "name": "Rice Camp",
+   "power": 36566226,
+   "x": 550,
+   "y": 586,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 177881453,
+   "name": "Şøũł",
+   "power": 36555922,
+   "x": 957,
+   "y": 1050,
+   "alliance": "V26V",
+   "alliance_id": 8010884
+  },
+  {
+   "id": 138351205,
+   "name": "sic一針見血",
+   "power": 36464595,
+   "x": 656,
+   "y": 712,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 105538766,
+   "name": "sicA",
+   "power": 36125251,
+   "x": 657,
+   "y": 716,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 105543911,
+   "name": "sicM",
+   "power": 36057531,
+   "x": 655,
+   "y": 717,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 79720031,
+   "name": "Blade x Imp 3",
+   "power": 35461079,
+   "x": 853,
+   "y": 491,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 180422269,
+   "name": "BabyFish",
+   "power": 34633727,
+   "x": 633,
+   "y": 636,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 45505522,
+   "name": "fj0r1 spot",
+   "power": 34534908,
+   "x": 550,
+   "y": 569,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 181907785,
+   "name": "vinega4l",
+   "power": 34495530,
+   "x": 155,
+   "y": 725,
+   "alliance": "DA-S",
+   "alliance_id": 7003472
+  },
+  {
+   "id": 181612601,
+   "name": "Not kylin",
+   "power": 34489833,
+   "x": 62,
+   "y": 1061,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 157228253,
+   "name": "TTTTTacheR",
+   "power": 33951382,
+   "x": 524,
+   "y": 526,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 135655598,
+   "name": "Mrjacksyfarm2",
+   "power": 32977792,
+   "x": 748,
+   "y": 837,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 153263025,
+   "name": "Macro6",
+   "power": 32833470,
+   "x": 78,
+   "y": 678,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 123885062,
+   "name": "Zen F1",
+   "power": 32565320,
+   "x": 603,
+   "y": 688,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 28282173,
+   "name": "BLOOd",
+   "power": 32516311,
+   "x": 597,
+   "y": 594,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 181886893,
+   "name": "Reino d Aljezur",
+   "power": 32492716,
+   "x": 190,
+   "y": 1170,
+   "alliance": "JJ26",
+   "alliance_id": 7002385
+  },
+  {
+   "id": 57638822,
+   "name": "StealthTea Farm",
+   "power": 32448941,
+   "x": 560,
+   "y": 654,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 181867935,
+   "name": "Conqueror101",
+   "power": 32259805,
+   "x": 924,
+   "y": 613,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 4421367,
+   "name": "Dead Poetic",
+   "power": 32159144,
+   "x": 517,
+   "y": 567,
+   "alliance": "KS26",
+   "alliance_id": 6999883
+  },
+  {
+   "id": 181916437,
+   "name": "nayulu",
+   "power": 32082133,
+   "x": 241,
+   "y": 865,
+   "alliance": "KsT",
+   "alliance_id": 7007454
+  },
+  {
+   "id": 181381112,
+   "name": "Redjohn rally2",
+   "power": 31941511,
+   "x": 872,
+   "y": 291,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 174184323,
+   "name": "CH25 Folklore",
+   "power": 31716371,
+   "x": 508,
+   "y": 656,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 164134296,
+   "name": "Dubaibaby F11 S",
+   "power": 31653664,
+   "x": 792,
+   "y": 663,
+   "alliance": "Aw26",
+   "alliance_id": 6999968
+  },
+  {
+   "id": 157954006,
+   "name": "FlufftimusFarm8",
+   "power": 31433339,
+   "x": 606,
+   "y": 599,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 181888455,
+   "name": "Javatar",
+   "power": 31417076,
+   "x": 1044,
+   "y": 83,
+   "alliance": "Btl",
+   "alliance_id": 7003209
+  },
+  {
+   "id": 85656727,
+   "name": "85Alex85 fer 1",
+   "power": 31211521,
+   "x": 538,
+   "y": 394,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 113577275,
+   "name": "Blade x Imp 1",
+   "power": 30982687,
+   "x": 820,
+   "y": 99,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 72837364,
+   "name": "tugbafarmfiller",
+   "power": 30938743,
+   "x": 746,
+   "y": 623,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 181965217,
+   "name": "MadV filler1",
+   "power": 30846952,
+   "x": 709,
+   "y": 642,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 181880216,
+   "name": "Dcking777",
+   "power": 30844056,
+   "x": 751,
+   "y": 294,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 176790985,
+   "name": "ohooho",
+   "power": 30672976,
+   "x": 1084,
+   "y": 959,
+   "alliance": "AE26",
+   "alliance_id": 7003794
+  },
+  {
+   "id": 178560361,
+   "name": "Deeww Filler",
+   "power": 30672464,
+   "x": 584,
+   "y": 374,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 95066361,
+   "name": "Jambodoesforts",
+   "power": 30619005,
+   "x": 309,
+   "y": 635,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 130067639,
+   "name": "Redjohn rally",
+   "power": 30405731,
+   "x": 869,
+   "y": 288,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 85480855,
+   "name": "Quarks ᵉˣ 2",
+   "power": 30296951,
+   "x": 541,
+   "y": 612,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 105202460,
+   "name": "Quackhead1",
+   "power": 30289884,
+   "x": 577,
+   "y": 665,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 6984480,
+   "name": "TuggyBotfarm2",
+   "power": 30018711,
+   "x": 652,
+   "y": 857,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 165919886,
+   "name": "RVoid 8",
+   "power": 29945863,
+   "x": 654,
+   "y": 585,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 130984867,
+   "name": "RVoid 6",
+   "power": 29904524,
+   "x": 600,
+   "y": 655,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 125721415,
+   "name": "RVoid 4",
+   "power": 29625042,
+   "x": 555,
+   "y": 555,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 148140511,
+   "name": "RVoid 7",
+   "power": 29428671,
+   "x": 564,
+   "y": 681,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 165521285,
+   "name": "Kalî",
+   "power": 29184478,
+   "x": 513,
+   "y": 542,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 49870429,
+   "name": "Blood farm0",
+   "power": 28921542,
+   "x": 516,
+   "y": 583,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 54738871,
+   "name": "AzGeda",
+   "power": 28859876,
+   "x": 668,
+   "y": 239,
+   "alliance": "GV26",
+   "alliance_id": 7000116
+  },
+  {
+   "id": 178080960,
+   "name": "TUĞRULHAN",
+   "power": 28858984,
+   "x": 190,
+   "y": 509,
+   "alliance": "V26V",
+   "alliance_id": 8010884
+  },
+  {
+   "id": 66928853,
+   "name": "Lazyfarm 7",
+   "power": 28693304,
+   "x": 464,
+   "y": 566,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 181880508,
+   "name": "James  Brodacz",
+   "power": 28681227,
+   "x": 580,
+   "y": 1172,
+   "alliance": "ILL",
+   "alliance_id": 7002036
+  },
+  {
+   "id": 181855305,
+   "name": "Дим Дим",
+   "power": 28635935,
+   "x": 103,
+   "y": 887,
+   "alliance": "DH26",
+   "alliance_id": 7000620
+  },
+  {
+   "id": 62088620,
+   "name": "mini lazygirl 5",
+   "power": 28585944,
+   "x": 520,
+   "y": 627,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 86884204,
+   "name": "Quarks ᵉˣ 1",
+   "power": 28519886,
+   "x": 514,
+   "y": 570,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 70848183,
+   "name": "RVoid 1",
+   "power": 28457146,
+   "x": 606,
+   "y": 618,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 67699627,
+   "name": "mini Lazygirl 1",
+   "power": 28378210,
+   "x": 522,
+   "y": 629,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 25270924,
+   "name": "BLOOD 00",
+   "power": 28032433,
+   "x": 568,
+   "y": 573,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 110111811,
+   "name": "طارق ابن زياد 2",
+   "power": 27986083,
+   "x": 185,
+   "y": 182,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 85611941,
+   "name": "ʜᴇx CAMEL F",
+   "power": 27725429,
+   "x": 171,
+   "y": 722,
+   "alliance": "AE26",
+   "alliance_id": 7003794
+  },
+  {
+   "id": 136481232,
+   "name": "bLn F5",
+   "power": 27469630,
+   "x": 537,
+   "y": 696,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 125266788,
+   "name": "RVoid 3",
+   "power": 27329336,
+   "x": 582,
+   "y": 580,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 177673953,
+   "name": "CR Hoang x҉26",
+   "power": 27317539,
+   "x": 483,
+   "y": 970,
+   "alliance": "AE26",
+   "alliance_id": 7003794
+  },
+  {
+   "id": 27432191,
+   "name": "Blood 30",
+   "power": 27286922,
+   "x": 558,
+   "y": 573,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 183880093,
+   "name": "RVoid 9",
+   "power": 27070095,
+   "x": 626,
+   "y": 546,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 113628663,
+   "name": "Blade x Imp 2",
+   "power": 27025795,
+   "x": 820,
+   "y": 96,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 181885928,
+   "name": "حسان515",
+   "power": 27000412,
+   "x": 116,
+   "y": 1081,
+   "alliance": "GV26",
+   "alliance_id": 7000116
+  },
+  {
+   "id": 93298327,
+   "name": "Bagy fill",
+   "power": 26734279,
+   "x": 546,
+   "y": 609,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 195584439,
+   "name": "RiriYannF",
+   "power": 26591711,
+   "x": 596,
+   "y": 656,
+   "alliance": "KS26",
+   "alliance_id": 6999883
+  },
+  {
+   "id": 181321372,
+   "name": "RoxKyy1",
+   "power": 26458376,
+   "x": 938,
+   "y": 668,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 128407795,
+   "name": "Alex85 fer4",
+   "power": 26411563,
+   "x": 538,
+   "y": 396,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 163649652,
+   "name": "LTH1810 F2",
+   "power": 26373025,
+   "x": 668,
+   "y": 648,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 100656410,
+   "name": "RVoid 2",
+   "power": 26204238,
+   "x": 602,
+   "y": 591,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 103386614,
+   "name": "85Alex85 fer 2",
+   "power": 26203010,
+   "x": 542,
+   "y": 394,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 182611259,
+   "name": "Conqueror fil1",
+   "power": 26172273,
+   "x": 363,
+   "y": 922,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 170171068,
+   "name": "Snorlax F8",
+   "power": 26026630,
+   "x": 461,
+   "y": 768,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 110730601,
+   "name": "Alex85 Fer 3",
+   "power": 25877905,
+   "x": 540,
+   "y": 393,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 83866668,
+   "name": "Snorlax F3",
+   "power": 25876926,
+   "x": 453,
+   "y": 767,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 124514788,
+   "name": "mini lazygirl 4",
+   "power": 25845829,
+   "x": 450,
+   "y": 345,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 130179173,
+   "name": "RVoid 5",
+   "power": 25719691,
+   "x": 569,
+   "y": 587,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 143178362,
+   "name": "Alex fer 8",
+   "power": 25714193,
+   "x": 541,
+   "y": 391,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 181876418,
+   "name": "华夏儿女龙",
+   "power": 25411346,
+   "x": 26,
+   "y": 840,
+   "alliance": "CHin",
+   "alliance_id": 7096859
+  },
+  {
+   "id": 141302158,
+   "name": "Mrjacksyfarm3",
+   "power": 25353277,
+   "x": 729,
+   "y": 807,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 18348269,
+   "name": "AgusFill3",
+   "power": 25305528,
+   "x": 505,
+   "y": 813,
+   "alliance": "26GS",
+   "alliance_id": 6999993
+  },
+  {
+   "id": 135042069,
+   "name": "JoGurt I2",
+   "power": 25303591,
+   "x": 593,
+   "y": 600,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 108201696,
+   "name": "mini Lazygirl 2",
+   "power": 25206672,
+   "x": 380,
+   "y": 373,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 26743686,
+   "name": "Efsane3",
+   "power": 25206618,
+   "x": 573,
+   "y": 566,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 108213642,
+   "name": "mini lazygirl 3",
+   "power": 25155403,
+   "x": 265,
+   "y": 151,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 197564553,
+   "name": "RVoid 10",
+   "power": 25099612,
+   "x": 519,
+   "y": 491,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 110888169,
+   "name": "Vize x҉26",
+   "power": 25052236,
+   "x": 606,
+   "y": 594,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 75411167,
+   "name": "fjori corn",
+   "power": 24996338,
+   "x": 546,
+   "y": 570,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 99635187,
+   "name": "Nuri X Redjohn",
+   "power": 24954157,
+   "x": 865,
+   "y": 289,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 119676982,
+   "name": "Mini tedd 1",
+   "power": 24933339,
+   "x": 540,
+   "y": 573,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 59668560,
+   "name": "Efsane4",
+   "power": 24933211,
+   "x": 576,
+   "y": 565,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 67266453,
+   "name": "ᴰᵃʳkヽWolf2",
+   "power": 24872088,
+   "x": 625,
+   "y": 505,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 159615537,
+   "name": "bLN F1",
+   "power": 24558396,
+   "x": 626,
+   "y": 528,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 159643682,
+   "name": "bLN F2",
+   "power": 24555856,
+   "x": 678,
+   "y": 633,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 185626,
+   "name": "KingPhillip",
+   "power": 24426365,
+   "x": 902,
+   "y": 680,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 106022858,
+   "name": "Alex fer 6",
+   "power": 24350794,
+   "x": 542,
+   "y": 396,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 108680753,
+   "name": "SNorlax F2",
+   "power": 24338968,
+   "x": 461,
+   "y": 771,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 190932974,
+   "name": "mrjacksyfarm9",
+   "power": 24333712,
+   "x": 726,
+   "y": 804,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 198408954,
+   "name": "RVoid 11",
+   "power": 24310409,
+   "x": 465,
+   "y": 420,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 135240073,
+   "name": "Lazyfarm 4",
+   "power": 24161975,
+   "x": 632,
+   "y": 512,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 181428817,
+   "name": "Hask",
+   "power": 24161701,
+   "x": 715,
+   "y": 1163,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 181640725,
+   "name": "千he RIP",
+   "power": 23983593,
+   "x": 792,
+   "y": 113,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 181391850,
+   "name": "a n d I n x҉26",
+   "power": 23965293,
+   "x": 578,
+   "y": 60,
+   "alliance": "AE26",
+   "alliance_id": 7003794
+  },
+  {
+   "id": 198465242,
+   "name": "RVoid 12",
+   "power": 23950470,
+   "x": 401,
+   "y": 432,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 177604238,
+   "name": "ʙᴇ ᴠɴ F1",
+   "power": 23798919,
+   "x": 300,
+   "y": 569,
+   "alliance": "26GS",
+   "alliance_id": 6999993
+  },
+  {
+   "id": 135276752,
+   "name": "Lazyfarm 3",
+   "power": 23690202,
+   "x": 676,
+   "y": 570,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 101865543,
+   "name": "Quackhead2",
+   "power": 23673309,
+   "x": 599,
+   "y": 538,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 145206450,
+   "name": "85Alex85 fer 5",
+   "power": 23584523,
+   "x": 540,
+   "y": 397,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 149795333,
+   "name": "bLN ff",
+   "power": 23532189,
+   "x": 588,
+   "y": 477,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 80526428,
+   "name": "Lazyfarm 6",
+   "power": 23531355,
+   "x": 693,
+   "y": 388,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 80361703,
+   "name": "Lazyfarm 5",
+   "power": 23507983,
+   "x": 371,
+   "y": 177,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 130955784,
+   "name": "Ursulagay",
+   "power": 23396044,
+   "x": 302,
+   "y": 1164,
+   "alliance": "Ursu",
+   "alliance_id": 8548134
+  },
+  {
+   "id": 135262978,
+   "name": "Lazyfarm 2",
+   "power": 23276114,
+   "x": 488,
+   "y": 499,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 202507584,
+   "name": "Farm vali",
+   "power": 23038749,
+   "x": 750,
+   "y": 392,
+   "alliance": "JJ26",
+   "alliance_id": 7002385
+  },
+  {
+   "id": 100087936,
+   "name": "ʙᴀɢʏ Farm3",
+   "power": 22921542,
+   "x": 511,
+   "y": 528,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 177454624,
+   "name": "TTTTTarcher",
+   "power": 22867831,
+   "x": 633,
+   "y": 632,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 109992344,
+   "name": "Itachi Filler2",
+   "power": 22836097,
+   "x": 570,
+   "y": 640,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 59201149,
+   "name": "Pekka Ra Vinci",
+   "power": 22817940,
+   "x": 867,
+   "y": 289,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 177746309,
+   "name": "TTTTTcavaL",
+   "power": 22767883,
+   "x": 565,
+   "y": 469,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 187562328,
+   "name": "Itachi Filler",
+   "power": 22678957,
+   "x": 660,
+   "y": 813,
+   "alliance": "Qwak",
+   "alliance_id": 7000003
+  },
+  {
+   "id": 87221507,
+   "name": "ᴰᵃʳkヽWolf4",
+   "power": 22620355,
+   "x": 705,
+   "y": 629,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 18087496,
+   "name": "Imperius Fort1",
+   "power": 22551520,
+   "x": 661,
+   "y": 873,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 144074026,
+   "name": "Zen Farm2",
+   "power": 22527783,
+   "x": 605,
+   "y": 689,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 3085666,
+   "name": "ㄴ3526COUNCILㄱ",
+   "power": 22423438,
+   "x": 943,
+   "y": 1168,
+   "alliance": "KS26",
+   "alliance_id": 6999883
+  },
+  {
+   "id": 135244907,
+   "name": "Lazyfarm 1",
+   "power": 22366863,
+   "x": 545,
+   "y": 460,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 159681001,
+   "name": "bLN x Redjohn",
+   "power": 22360242,
+   "x": 567,
+   "y": 601,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 161426538,
+   "name": "Alex fer 9",
+   "power": 22349248,
+   "x": 539,
+   "y": 391,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 86410010,
+   "name": "ᴰᵃʳkヽWolf3",
+   "power": 22326248,
+   "x": 595,
+   "y": 475,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 191223611,
+   "name": "Qin filler2",
+   "power": 22235169,
+   "x": 508,
+   "y": 779,
+   "alliance": "26GS",
+   "alliance_id": 6999993
+  },
+  {
+   "id": 80968361,
+   "name": "ᴰᵃʳkヽWolf5",
+   "power": 22118653,
+   "x": 542,
+   "y": 707,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 99752336,
+   "name": "Quackhead3",
+   "power": 21962828,
+   "x": 634,
+   "y": 515,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 146335380,
+   "name": "JoGurt I3",
+   "power": 21842464,
+   "x": 589,
+   "y": 599,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 50999415,
+   "name": "Filler Úrsu 01",
+   "power": 21684793,
+   "x": 531,
+   "y": 799,
+   "alliance": "26GS",
+   "alliance_id": 6999993
+  },
+  {
+   "id": 177746026,
+   "name": "TTTTTcaval",
+   "power": 21407238,
+   "x": 463,
+   "y": 619,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 202206003,
+   "name": "RVoid 13",
+   "power": 21353838,
+   "x": 444,
+   "y": 346,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 161425102,
+   "name": "Alex85 fer 7",
+   "power": 21266573,
+   "x": 538,
+   "y": 390,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 181927554,
+   "name": "javierthor",
+   "power": 21125916,
+   "x": 659,
+   "y": 1044,
+   "alliance": "PYDR",
+   "alliance_id": 7003531
+  },
+  {
+   "id": 181827805,
+   "name": "dav 1968",
+   "power": 21002125,
+   "x": 62,
+   "y": 804,
+   "alliance": "ESDA",
+   "alliance_id": 6999988
+  },
+  {
+   "id": 96887908,
+   "name": "YamilJamfill",
+   "power": 20788828,
+   "x": 562,
+   "y": 782,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 159675297,
+   "name": "bLN F3",
+   "power": 20736069,
+   "x": 548,
+   "y": 687,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 146335577,
+   "name": "JoGurt I1",
+   "power": 20716285,
+   "x": 593,
+   "y": 598,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 181882404,
+   "name": "zYnxx҉26",
+   "power": 20629327,
+   "x": 243,
+   "y": 959,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 178542474,
+   "name": "Agöny 웃",
+   "power": 20569461,
+   "x": 1024,
+   "y": 651,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 75678093,
+   "name": "CORTEZ1",
+   "power": 20550838,
+   "x": 638,
+   "y": 235,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 62660462,
+   "name": "Filler Úrsu 02",
+   "power": 20534809,
+   "x": 237,
+   "y": 805,
+   "alliance": "26GS",
+   "alliance_id": 6999993
+  },
+  {
+   "id": 181936578,
+   "name": "Smoothjr504",
+   "power": 20488606,
+   "x": 1097,
+   "y": 15,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 187663793,
+   "name": "Agus2Fill",
+   "power": 20429429,
+   "x": 507,
+   "y": 813,
+   "alliance": "26GS",
+   "alliance_id": 6999993
+  },
+  {
+   "id": 27925141,
+   "name": "BLOOD09",
+   "power": 20402654,
+   "x": 575,
+   "y": 573,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 204709435,
+   "name": "RVoid 14",
+   "power": 20378271,
+   "x": 443,
+   "y": 404,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 189448873,
+   "name": "bLn new F",
+   "power": 20274912,
+   "x": 638,
+   "y": 661,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 192554376,
+   "name": "Qin filler",
+   "power": 20196923,
+   "x": 363,
+   "y": 773,
+   "alliance": "26GS",
+   "alliance_id": 6999993
+  },
+  {
+   "id": 205023124,
+   "name": "RVoid 15",
+   "power": 20054100,
+   "x": 498,
+   "y": 391,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 92752920,
+   "name": "redjonchildmind",
+   "power": 20026790,
+   "x": 792,
+   "y": 810,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 75972012,
+   "name": "BLOOD333",
+   "power": 20021729,
+   "x": 594,
+   "y": 592,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 173420350,
+   "name": "DunhillHitam",
+   "power": 20009017,
+   "x": 332,
+   "y": 752,
+   "alliance": "26LF",
+   "alliance_id": 6999975
+  },
+  {
+   "id": 96137956,
+   "name": "Athēnå",
+   "power": 19993727,
+   "x": 425,
+   "y": 21,
+   "alliance": "26RD",
+   "alliance_id": 6999924
+  },
+  {
+   "id": 47715512,
+   "name": "AuriDuckFiller",
+   "power": 19824448,
+   "x": 479,
+   "y": 813,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 205416487,
+   "name": "RVoid 16",
+   "power": 19803605,
+   "x": 541,
+   "y": 365,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 49382478,
+   "name": "kinderJëy XIII",
+   "power": 19572780,
+   "x": 286,
+   "y": 551,
+   "alliance": "XZ26",
+   "alliance_id": 7000311
+  },
+  {
+   "id": 179233029,
+   "name": "ᴰᴴAŞIK",
+   "power": 19473964,
+   "x": 900,
+   "y": 717,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 52821226,
+   "name": "kinderJëy XII",
+   "power": 19435921,
+   "x": 859,
+   "y": 123,
+   "alliance": "XZ26",
+   "alliance_id": 7000311
+  },
+  {
+   "id": 103134286,
+   "name": "Filler Úrsu 03",
+   "power": 19205929,
+   "x": 460,
+   "y": 837,
+   "alliance": "26GS",
+   "alliance_id": 6999993
+  },
+  {
+   "id": 4566051,
+   "name": "Fruitlab",
+   "power": 19085551,
+   "x": 99,
+   "y": 302,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 205841130,
+   "name": "RVoid 17",
+   "power": 18923021,
+   "x": 558,
+   "y": 360,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 181917281,
+   "name": "Governor181917281",
+   "power": 18904221,
+   "x": 575,
+   "y": 237,
+   "alliance": "V26V",
+   "alliance_id": 8010884
+  },
+  {
+   "id": 189826051,
+   "name": "bLn new ff2",
+   "power": 18894427,
+   "x": 675,
+   "y": 585,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 168497882,
+   "name": "YutaAFarm1",
+   "power": 18641391,
+   "x": 778,
+   "y": 834,
+   "alliance": "G2F6",
+   "alliance_id": 7110799
+  },
+  {
+   "id": 146512863,
+   "name": "YutaAFarm6",
+   "power": 18560230,
+   "x": 783,
+   "y": 836,
+   "alliance": "G2F6",
+   "alliance_id": 7110799
+  },
+  {
+   "id": 155023787,
+   "name": "Imperius F1",
+   "power": 18472061,
+   "x": 512,
+   "y": 854,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 102256579,
+   "name": "Waylay F1",
+   "power": 18452968,
+   "x": 686,
+   "y": 806,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 165382224,
+   "name": "LTH1810 SS",
+   "power": 18288792,
+   "x": 475,
+   "y": 814,
+   "alliance": "26GS",
+   "alliance_id": 6999993
+  },
+  {
+   "id": 191176358,
+   "name": "AROMAX",
+   "power": 18282562,
+   "x": 231,
+   "y": 237,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 149511279,
+   "name": "FlufftimusFarm1",
+   "power": 18276243,
+   "x": 127,
+   "y": 763,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 175214557,
+   "name": "sdroksu",
+   "power": 18257995,
+   "x": 184,
+   "y": 754,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 181909710,
+   "name": "EUS 0",
+   "power": 18081942,
+   "x": 331,
+   "y": 990,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 115424451,
+   "name": "Imperius F9",
+   "power": 18048572,
+   "x": 518,
+   "y": 856,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 68246085,
+   "name": "viN",
+   "power": 18033089,
+   "x": 368,
+   "y": 815,
+   "alliance": "26LF",
+   "alliance_id": 6999975
+  },
+  {
+   "id": 129454569,
+   "name": "Imperius F6",
+   "power": 18010704,
+   "x": 510,
+   "y": 855,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 108144455,
+   "name": "Waylay F2",
+   "power": 17972314,
+   "x": 695,
+   "y": 813,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 25821090,
+   "name": "JoGurt I7",
+   "power": 17962911,
+   "x": 182,
+   "y": 663,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 73802545,
+   "name": "Tuggybotfarm3",
+   "power": 17858505,
+   "x": 654,
+   "y": 854,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 208649668,
+   "name": "RVoid 18",
+   "power": 17749664,
+   "x": 554,
+   "y": 331,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 60718102,
+   "name": "Imperius Fort2",
+   "power": 17625254,
+   "x": 514,
+   "y": 858,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 129443752,
+   "name": "ES26 r5",
+   "power": 17608908,
+   "x": 679,
+   "y": 900,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 129643505,
+   "name": "Lil Nuri 2",
+   "power": 17203436,
+   "x": 478,
+   "y": 576,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 140207590,
+   "name": "Lil NaRa",
+   "power": 17069671,
+   "x": 284,
+   "y": 1172,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 89218314,
+   "name": "Blood 222",
+   "power": 16881009,
+   "x": 581,
+   "y": 576,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 141931478,
+   "name": "Pharaoh War S",
+   "power": 16828332,
+   "x": 785,
+   "y": 596,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 181872034,
+   "name": "Astropix",
+   "power": 16820944,
+   "x": 33,
+   "y": 689,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 140522991,
+   "name": "Thorfin fill r",
+   "power": 16812428,
+   "x": 901,
+   "y": 922,
+   "alliance": "DT26",
+   "alliance_id": 7008416
+  },
+  {
+   "id": 121396261,
+   "name": "aLFath",
+   "power": 16523518,
+   "x": 494,
+   "y": 818,
+   "alliance": "26LF",
+   "alliance_id": 6999975
+  },
+  {
+   "id": 121397520,
+   "name": "aLFatih",
+   "power": 16513353,
+   "x": 406,
+   "y": 629,
+   "alliance": "26LF",
+   "alliance_id": 6999975
+  },
+  {
+   "id": 99316311,
+   "name": "Imperius F4",
+   "power": 16405625,
+   "x": 512,
+   "y": 857,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 154780339,
+   "name": "AK 2  26",
+   "power": 16397012,
+   "x": 336,
+   "y": 619,
+   "alliance": "26LF",
+   "alliance_id": 6999975
+  },
+  {
+   "id": 149178855,
+   "name": "Pharaoh War G",
+   "power": 16374119,
+   "x": 359,
+   "y": 783,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 51549460,
+   "name": "kinderJëy I",
+   "power": 16368975,
+   "x": 847,
+   "y": 986,
+   "alliance": "XZ26",
+   "alliance_id": 7000311
+  },
+  {
+   "id": 69231607,
+   "name": "dEviN",
+   "power": 16313162,
+   "x": 493,
+   "y": 754,
+   "alliance": "26LF",
+   "alliance_id": 6999975
+  },
+  {
+   "id": 71866598,
+   "name": "dEv1",
+   "power": 16279488,
+   "x": 309,
+   "y": 598,
+   "alliance": "26LF",
+   "alliance_id": 6999975
+  },
+  {
+   "id": 153695491,
+   "name": "Waylay F3",
+   "power": 16279453,
+   "x": 802,
+   "y": 559,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 170646585,
+   "name": "YutaAFarm9",
+   "power": 16159481,
+   "x": 614,
+   "y": 507,
+   "alliance": "G2F6",
+   "alliance_id": 7110799
+  },
+  {
+   "id": 155093185,
+   "name": "AK 1  26",
+   "power": 16016203,
+   "x": 522,
+   "y": 798,
+   "alliance": "26LF",
+   "alliance_id": 6999975
+  },
+  {
+   "id": 169528391,
+   "name": "Dragon Moon 21",
+   "power": 16006183,
+   "x": 478,
+   "y": 661,
+   "alliance": "KS26",
+   "alliance_id": 6999883
+  },
+  {
+   "id": 135876824,
+   "name": "Waylay F4",
+   "power": 15830960,
+   "x": 892,
+   "y": 693,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 181855225,
+   "name": "Leerooy74",
+   "power": 15491476,
+   "x": 53,
+   "y": 944,
+   "alliance": "V26V",
+   "alliance_id": 8010884
+  },
+  {
+   "id": 165583149,
+   "name": "YutaAFarm8",
+   "power": 15361516,
+   "x": 618,
+   "y": 506,
+   "alliance": "G2F6",
+   "alliance_id": 7110799
+  },
+  {
+   "id": 173922870,
+   "name": "Pharaoh War Z",
+   "power": 15340104,
+   "x": 358,
+   "y": 798,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 165365479,
+   "name": "Mandielorian",
+   "power": 15282151,
+   "x": 513,
+   "y": 540,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 175888112,
+   "name": "Nie Vy",
+   "power": 15242858,
+   "x": 790,
+   "y": 1087,
+   "alliance": "G2F6",
+   "alliance_id": 7110799
+  },
+  {
+   "id": 139336191,
+   "name": "ʙᴇ ᴠɴ F5",
+   "power": 15164883,
+   "x": 418,
+   "y": 836,
+   "alliance": "26DW",
+   "alliance_id": 8792724
+  },
+  {
+   "id": 209403180,
+   "name": "ᴬᵈDragon",
+   "power": 15139729,
+   "x": 498,
+   "y": 1052,
+   "alliance": "G2F6",
+   "alliance_id": 7110799
+  },
+  {
+   "id": 214989040,
+   "name": "RVoid 19",
+   "power": 15056217,
+   "x": 591,
+   "y": 305,
+   "alliance": "LR26",
+   "alliance_id": 7000069
+  },
+  {
+   "id": 182545440,
+   "name": "m1xed b0y fj0r1",
+   "power": 15028348,
+   "x": 571,
+   "y": 549,
+   "alliance": "26LS",
+   "alliance_id": 6999899
+  },
+  {
+   "id": 175908965,
+   "name": "Nie Qw",
+   "power": 14672932,
+   "x": 384,
+   "y": 1132,
+   "alliance": "G2F6",
+   "alliance_id": 7110799
+  },
+  {
+   "id": 130197504,
+   "name": "Imperius F10",
+   "power": 14605995,
+   "x": 516,
+   "y": 855,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 106986084,
+   "name": "Waylay F5",
+   "power": 14472871,
+   "x": 674,
+   "y": 810,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 130255781,
+   "name": "Imperius F11",
+   "power": 14445709,
+   "x": 516,
+   "y": 857,
+   "alliance": "ES26",
+   "alliance_id": 7000105
+  },
+  {
+   "id": 110340594,
+   "name": "Waylay F6",
+   "power": 14137957,
+   "x": 741,
+   "y": 829,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 171489652,
+   "name": "Parazzi filler",
+   "power": 14003523,
+   "x": 479,
+   "y": 597,
+   "alliance": "Qwak",
+   "alliance_id": 7000003
+  },
+  {
+   "id": 38975469,
+   "name": "MaverickF29",
+   "power": 13740409,
+   "x": 175,
+   "y": 550,
+   "alliance": "XZ26",
+   "alliance_id": 7000311
+  },
+  {
+   "id": 82549035,
+   "name": "sebatin",
+   "power": 13712311,
+   "x": 634,
+   "y": 1028,
+   "alliance": "Dc26",
+   "alliance_id": 7063991
+  },
+  {
+   "id": 104425085,
+   "name": "Waylay F7",
+   "power": 13624403,
+   "x": 601,
+   "y": 774,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 59667365,
+   "name": "Waylay F8",
+   "power": 13551631,
+   "x": 912,
+   "y": 462,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 19169312,
+   "name": "Waylay F9",
+   "power": 13542940,
+   "x": 672,
+   "y": 822,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 161610075,
+   "name": "Maverick1",
+   "power": 13522556,
+   "x": 198,
+   "y": 268,
+   "alliance": "XZ26",
+   "alliance_id": 7000311
+  },
+  {
+   "id": 152268590,
+   "name": "MaverickF28",
+   "power": 13461631,
+   "x": 694,
+   "y": 136,
+   "alliance": "XZ26",
+   "alliance_id": 7000311
+  },
+  {
+   "id": 111585422,
+   "name": "Thorfin 3526 KK",
+   "power": 13398900,
+   "x": 274,
+   "y": 287,
+   "alliance": "DT26",
+   "alliance_id": 7008416
+  },
+  {
+   "id": 158176056,
+   "name": "riezkyyy",
+   "power": 13291393,
+   "x": 1054,
+   "y": 1019,
+   "alliance": "Dc26",
+   "alliance_id": 7063991
+  },
+  {
+   "id": 181907547,
+   "name": "Remigiusz",
+   "power": 13011521,
+   "x": 894,
+   "y": 570,
+   "alliance": "BB26",
+   "alliance_id": 7004430
+  },
+  {
+   "id": 143183514,
+   "name": "Pharaoh War D",
+   "power": 12905962,
+   "x": 311,
+   "y": 635,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 149908487,
+   "name": "ᵈˢBLD",
+   "power": 12877146,
+   "x": 294,
+   "y": 674,
+   "alliance": "26LF",
+   "alliance_id": 6999975
+  },
+  {
+   "id": 180515822,
+   "name": "Pharaoh War F",
+   "power": 12725443,
+   "x": 503,
+   "y": 796,
+   "alliance": "IG26",
+   "alliance_id": 6999970
+  },
+  {
+   "id": 211431145,
+   "name": "Lily Farm 雪ミク",
+   "power": 11906302,
+   "x": 462,
+   "y": 430,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 103524175,
+   "name": "DH FARM 11",
+   "power": 11315376,
+   "x": 473,
+   "y": 1052,
+   "alliance": "Dc26",
+   "alliance_id": 7063991
+  },
+  {
+   "id": 199384959,
+   "name": "Waylay F10",
+   "power": 11056594,
+   "x": 1138,
+   "y": 747,
+   "alliance": "",
+   "alliance_id": 0
+  },
+  {
+   "id": 68377738,
+   "name": "Es0x Goldgrube",
+   "power": 8879100,
+   "x": 274,
+   "y": 927,
+   "alliance": "JJ26",
+   "alliance_id": 7002385
+  }
+ ]
+}
