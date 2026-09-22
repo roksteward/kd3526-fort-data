@@ -3,20 +3,21 @@
   "tag": "IG26",
   "name": "Indomie Goreng 3526"
  },
- "updated": 1790078821,
+ "updated": 1790079071,
  "level": 15,
  "grade": "Green",
- "points": 2375840,
+ "points": 241120,
  "max": 2500000,
  "today": "2026-09-22",
- "fills_today": 2,
+ "fills_today": 3,
  "fill_times": [
   1790038830,
-  1790065985
+  1790065985,
+  1790078863
  ],
  "counting_since": 1790016734,
  "days": {
-  "2026-09-22": 2,
+  "2026-09-22": 3,
   "2026-09-21": 2
  }
 }
