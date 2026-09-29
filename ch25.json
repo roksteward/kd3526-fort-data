@@ -2,7 +2,7 @@
  "kingdom": 3526,
  "city_hall": 25,
  "scanned": 1790655100,
- "published": 1790655112,
+ "published": 1790655273,
  "governors_seen": 1445,
  "count": 359,
  "power_total": 17538635736,
@@ -181,7 +181,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/29281737/2025-11-01/CB4886FD72659A02CF43E1C4E840D15F_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_130.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_130.png"
   },
   {
    "id": 17190764,
@@ -193,7 +193,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/15638673/2026-08-22/C5C0AFBD55EB1B640D1C96E9231676BF_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_160.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_160.png"
   },
   {
    "id": 2251922,
@@ -217,7 +217,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/36885263/2026-07-17/5309415C65628A40054250CCD1DA5D75_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 15201096,
@@ -277,7 +277,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/26372870/2026-09-20/6BDD1A1C69D548B53A6BB40C4A4619C2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 123397041,
@@ -301,7 +301,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/54318917/2024-08-12/A63B0678B8740AD45065E7CC6FF94AD2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_235.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_235.png"
   },
   {
    "id": 12138267,
@@ -313,7 +313,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/10265114/2026-08-23/C657CFEAA3ACDBDEF9C410BCC5A26AFB_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 56592507,
@@ -325,7 +325,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/4176362/2026-07-11/69137177DF89F0C42A85F004279CF086_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_214.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_214.png"
   },
   {
    "id": 62087397,
@@ -337,7 +337,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/50950886/2025-09-20/AF680D9A55FADE4981AA3520488BD781_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 177401462,
@@ -361,7 +361,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/4195079/21/02/20/34251104da60bd7c_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_63.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_63.png"
   },
   {
    "id": 62870564,
@@ -373,7 +373,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/51576439/2026-08-21/8EDCF6433BE99E429BC7975788AD7A9E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_62.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_62.png"
   },
   {
    "id": 146834648,
@@ -385,7 +385,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/205706563/2026-09-03/CF5AB387756723E829091D0A0F46A07E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 3274469,
@@ -397,7 +397,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3106484/2026-09-10/3524C9CF48E6201A51B91FF731122034_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_156.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_156.png"
   },
   {
    "id": 125915323,
@@ -409,7 +409,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/100722609/2025-08-01/46BD613EF75EEE974815C561A3A86340_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_242.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_242.png"
   },
   {
    "id": 22226412,
@@ -421,7 +421,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/20212585/2026-02-25/CB58B68C057D64596C586D023FD6B9FF_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
   },
   {
    "id": 84266337,
@@ -432,7 +432,7 @@
    "y": 724,
    "alliance": "Dum6",
    "alliance_id": 8817548,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
    "frame": "null"
   },
   {
@@ -444,8 +444,8 @@
    "y": 697,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_171.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_171.png"
   },
   {
    "id": 12496936,
@@ -457,7 +457,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/9437855/2026-09-24/BFF2680F6D9E57390835153F0CE610F9_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_52.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_52.png"
   },
   {
    "id": 80338007,
@@ -469,7 +469,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/65349024/2026-05-14/900F8AA24CCF7E70B067FB85B2854D7B_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 61626485,
@@ -481,7 +481,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/49208624/2026-06-01/66F66B32A0780510ABFC9B60ECA1828E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_215.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_215.png"
   },
   {
    "id": 180611348,
@@ -493,7 +493,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/78516334/2024-06-28/26F9A6703416F9ED3D856AAE2CE8617E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 56880803,
@@ -505,7 +505,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/46697941/2026-05-18/2C54F484C6B2AC4818C2A44655B51E5E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 57841018,
@@ -517,7 +517,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/47533538/2026-08-22/4032B73C59D71B315F1B482A29677E78_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_235.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_235.png"
   },
   {
    "id": 121038633,
@@ -529,7 +529,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/25537178/2026-08-24/D0C82A534DCB88C64EA8F8037BF20187_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 11453030,
@@ -541,7 +541,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/1251699/2026-03-31/D32CD8AD5C3D003DCDB1562FBD33914E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_120.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_120.png"
   },
   {
    "id": 42037402,
@@ -553,7 +553,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/35623069/2025-04-02/D830971E90942200CF23B929EEE967A7_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_66.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_66.png"
   },
   {
    "id": 187152965,
@@ -565,7 +565,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226196346/2025-06-15/8246264FE2F5A91F4C801170BBFD9244_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_249.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_249.png"
   },
   {
    "id": 187152986,
@@ -577,7 +577,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226226898/2025-06-15/2E649E4810272F9A9D19A0970D0A01E3_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_249.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_249.png"
   },
   {
    "id": 65236578,
@@ -589,7 +589,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/53407084/2026-08-15/1C472BB691CC10C05278D34E804C0F8B_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 12575917,
@@ -601,7 +601,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/6493015/2026-08-27/AB05954A9E29F914484E2AA43FA405A2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 61601205,
@@ -613,7 +613,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/50555991/2026-04-08/C48DA2AC13C71F8CFB690A7767628F3E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_26.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_26.png"
   },
   {
    "id": 172860385,
@@ -625,7 +625,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/220803732/2025-09-29/811B177B999650E54FCBE9F8A7DB5CC2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_224.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_224.png"
   },
   {
    "id": 189481599,
@@ -637,7 +637,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/230719216/2026-09-04/8C5B10A65A596CD978762E7FB962A4A1_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_240.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_240.png"
   },
   {
    "id": 15241524,
@@ -649,7 +649,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/13821596/2026-03-08/F81AF05679956670F9AE671D011F82DD_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_35.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_35.png"
   },
   {
    "id": 84427607,
@@ -661,7 +661,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/68586066/2026-09-24/9211A9341C2D4FB8BC70C58C1777E89C_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 9497618,
@@ -673,7 +673,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/8723590/2026-05-19/45A1F5978D792A00280754D7296F44FC_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_35.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_35.png"
   },
   {
    "id": 36763906,
@@ -685,7 +685,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/31476543/2025-12-26/6FFEBAC5AA3B930412F5F34FFB9B3567_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_51.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_51.png"
   },
   {
    "id": 63917907,
@@ -697,7 +697,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/52411230/2024-08-08/77C8133942FCADAAA0E1EE8D249572C2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 36177397,
@@ -720,7 +720,7 @@
    "y": 654,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1019.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1019.png",
    "frame": "null"
   },
   {
@@ -733,7 +733,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/21931112/2026-09-25/4E48E6BBF3620B219B167B181B837E36_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_178.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_178.png"
   },
   {
    "id": 106233852,
@@ -745,7 +745,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/85899078/2026-07-09/F6025A49B3B0E2E326869AEC903C845A_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_230.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_230.png"
   },
   {
    "id": 24801096,
@@ -757,7 +757,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/22336657/2025-12-29/5EC532E6F8197CBBF4F56033E0B3CFA8_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_120.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_120.png"
   },
   {
    "id": 122967445,
@@ -769,7 +769,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/99096641/2024-09-11/12E047188D51E27DFECC84B4B3641719_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_178.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_178.png"
   },
   {
    "id": 14631932,
@@ -781,7 +781,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/13231803/2026-01-05/CB18E1C8AEC0DC065D1955C1AA136CAD_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
   },
   {
    "id": 59191248,
@@ -793,7 +793,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48609078/2026-08-01/63E50EB969BE5D272D0A67BEC8C43B65_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
   },
   {
    "id": 177603616,
@@ -805,7 +805,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/23872325/2026-09-05/D5B38EB9E865E0B7F7A5BED0329A8455_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_203.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_203.png"
   },
   {
    "id": 62714394,
@@ -817,7 +817,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/51450597/2025-06-07/F9B63BEC3FBADCA776BEC693C45C3B02_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 141033775,
@@ -841,7 +841,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/24390030/21/11/19/6201673ddde8dc6a_640x640.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_136.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_136.png"
   },
   {
    "id": 181897443,
@@ -853,7 +853,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226079505/2025-06-07/62C9C4D3F8F0216CB4C4145141689C2E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_186.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_186.png"
   },
   {
    "id": 181325981,
@@ -864,7 +864,7 @@
    "y": 603,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head05.png",
    "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
@@ -877,7 +877,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/57105090/2026-03-21/45931E60E541579E3A5204C5F0AF2EF9_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
   },
   {
    "id": 181339894,
@@ -889,7 +889,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225726477/2025-09-14/EAFD590D551D409FB478E0057CDB85CB_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 167694678,
@@ -901,7 +901,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/218066429/2026-01-31/9414EADDE7A5F3833914BABEBD6AB741_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_43.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_43.png"
   },
   {
    "id": 125893923,
@@ -925,7 +925,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/168962034/23/10/13/9464c1e8ee4a4cc2_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 81418285,
@@ -937,7 +937,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66162113/2026-04-22/C2F1EE43245690BA1CE5E8DF05989BF3_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 129791806,
@@ -949,7 +949,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/97639694/2026-01-04/53E43EF3671FEB92485A4299BDC52252_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_26.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_26.png"
   },
   {
    "id": 17983642,
@@ -961,7 +961,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16363532/2026-08-02/BB8EBA534F4AAD3FAE8116E4E9FBE987_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 167561628,
@@ -973,7 +973,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/217967631/2026-03-28/2F4BAD4B0ACCAC60C0AD950A76D61E0A_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_7.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_7.png"
   },
   {
    "id": 106971166,
@@ -985,7 +985,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/85070397/2025-07-28/746C9312DEC1C493501432EDB65719A0_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
   },
   {
    "id": 33612909,
@@ -1009,7 +1009,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/28340447/2025-05-11/CB79B9E9D46344DC5BDDA44E2DDB083E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 180690388,
@@ -1021,7 +1021,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225354342/2025-11-12/EE8F1DCBA8DD27A7D8F5E5FE376E4735_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_237.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_237.png"
   },
   {
    "id": 35363908,
@@ -1033,7 +1033,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/30549131/2025-02-25/963E408863B4E2CC1AFD4D14612063FC_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_26.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_26.png"
   },
   {
    "id": 66962606,
@@ -1045,7 +1045,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/54808506/2024-10-31/443572EE4D3686D170B6FDF42B32874F_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_192.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_192.png"
   },
   {
    "id": 166376005,
@@ -1057,7 +1057,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/203205116/2026-03-29/37F5BF74901D34D3592621239F2B3C5B_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_178.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_178.png"
   },
   {
    "id": 177985077,
@@ -1069,7 +1069,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/223747596/2026-04-09/84DDEB4895FAF8ACE965AACE1086524D_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_252.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_252.png"
   },
   {
    "id": 140929400,
@@ -1081,7 +1081,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/140929400/230224/027B9B224E478FFAE53B3E9C7E8B98C3_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 189147278,
@@ -1093,7 +1093,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/228540206/2026-03-09/99FD27ABB883439CF57756713D6B11CA_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_241.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_241.png"
   },
   {
    "id": 163160130,
@@ -1105,7 +1105,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/23663644/2025-11-09/FBC86DB37005E152CF17341FB5C72ED6_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_223.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_223.png"
   },
   {
    "id": 187559868,
@@ -1117,7 +1117,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/41031387/2026-08-27/BC876A97FCCEC6462612F38562060E5E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 177378834,
@@ -1153,7 +1153,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/106892650/2026-03-18/22A1ECEE5482741300ACC3AE19471752_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_227.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_227.png"
   },
   {
    "id": 81371949,
@@ -1177,7 +1177,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39536876/2026-09-03/DB33F3EFE1E4438E58753EB43A981A30_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 180888737,
@@ -1189,7 +1189,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24862710/2026-08-22/434EB998AFE438C106A6D17FE9AFBD67_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 173625852,
@@ -1200,7 +1200,7 @@
    "y": 657,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_SP_01.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_SP_01.png",
    "frame": "null"
   },
   {
@@ -1213,7 +1213,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/14360461/22/08/01/a78ec73912dd9e67_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 195977591,
@@ -1225,7 +1225,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/235075947/2025-06-04/875676243780957B055CCC965EB3D5DD_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_249.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_249.png"
   },
   {
    "id": 47481132,
@@ -1237,7 +1237,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39559663/2026-09-17/967CA4B91D24B8C4C399898C21C05B7E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181884610,
@@ -1249,7 +1249,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226080354/2026-09-04/8581238130864C0F9859A25D8A1952AB_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 59247844,
@@ -1261,7 +1261,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-22/ABFD57E423CDB2FD44CD72798414FDE9_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 98976292,
@@ -1273,7 +1273,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/80371512/2026-05-04/7A93DA1F312C14F5C7C26E33572495F1_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 92849951,
@@ -1285,7 +1285,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/75391227/2026-08-25/DF793A72BCCFB19E29D2A2056F616D51_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_203.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_203.png"
   },
   {
    "id": 123632767,
@@ -1297,7 +1297,7 @@
    "alliance": "KS26",
    "alliance_id": 6999883,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/1706436/2025-02-19/59027717377299B08B3F6D4888178546_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_171.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_171.png"
   },
   {
    "id": 181566082,
@@ -1321,7 +1321,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/106986913/2026-02-26/0162B3EA6ACE4AA51A025CEB206E7430_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_233.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_233.png"
   },
   {
    "id": 177753013,
@@ -1333,7 +1333,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/223605429/2025-11-15/3414E0E9B7BD27EC962AF84B11EE1B7C_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 173033473,
@@ -1344,8 +1344,8 @@
    "y": 703,
    "alliance": "usr",
    "alliance_id": 7798939,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head18.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head18.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 194926633,
@@ -1369,7 +1369,7 @@
    "alliance": "KS26",
    "alliance_id": 6999883,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16561320/2026-07-22/5719129FED9A00947F5324AD8BFE75FA_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 130335909,
@@ -1380,7 +1380,7 @@
    "y": 483,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_SP_01.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_SP_01.png",
    "frame": "null"
   },
   {
@@ -1392,8 +1392,8 @@
    "y": 665,
    "alliance": "JJ26",
    "alliance_id": 7002385,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head03.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head03.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 105214067,
@@ -1405,7 +1405,7 @@
    "alliance": "V26V",
    "alliance_id": 8010884,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/427619/2025-12-06/9CB3D2D90BDFAD1A5F2E83243DA820F4_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_105.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_105.png"
   },
   {
    "id": 49507891,
@@ -1416,8 +1416,8 @@
    "y": 1125,
    "alliance": "KsT",
    "alliance_id": 7007454,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 71342876,
@@ -1429,7 +1429,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/71342876/23/07/09/ef165dbc72ecee98_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 60252602,
@@ -1441,7 +1441,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48609078/2025-10-09/72FC238E403DEE98CBC176D0AB220E1A_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 137007131,
@@ -1453,7 +1453,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/104863555/2024-11-08/4EDC3F2BFD5AA109B9E52CBB1853D4CD_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 168243930,
@@ -1464,8 +1464,8 @@
    "y": 799,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head15.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head15.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 62197058,
@@ -1476,8 +1476,8 @@
    "y": 625,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_131.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_131.png"
   },
   {
    "id": 137413791,
@@ -1489,7 +1489,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/200691483/2026-04-15/1F2B8B41751AC2F51676D6C1F9A71484_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 165034873,
@@ -1501,7 +1501,7 @@
    "alliance": "JJ26",
    "alliance_id": 7002385,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/165034873/23/08/05/144c6ba0b9d3b48f_600x600.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
   },
   {
    "id": 178310650,
@@ -1512,8 +1512,8 @@
    "y": 865,
    "alliance": "26DW",
    "alliance_id": 8792724,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
   },
   {
    "id": 127026359,
@@ -1524,8 +1524,8 @@
    "y": 595,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head18.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head18.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 79718473,
@@ -1536,7 +1536,7 @@
    "y": 493,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
    "frame": "null"
   },
   {
@@ -1549,7 +1549,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/84435338/21/06/05/84c8def1913fbcd9_471x471.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_56.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_56.png"
   },
   {
    "id": 85537673,
@@ -1561,7 +1561,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/69501045/2025-08-11/3E31637E44AAD114D6845701D58D756D_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 188312794,
@@ -1573,7 +1573,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/226196346/2024-10-13/8F7727B3CD1DF6A57543B608222A0967_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 171168008,
@@ -1584,8 +1584,8 @@
    "y": 659,
    "alliance": "JJ26",
    "alliance_id": 7002385,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 7578021,
@@ -1597,7 +1597,7 @@
    "alliance": "26GS",
    "alliance_id": 6999993,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3106484/2026-08-31/3C3DC3EBC2F5BF49E1FC6EC777A039C2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_190.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_190.png"
   },
   {
    "id": 108252525,
@@ -1609,7 +1609,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/108252525/22/01/17/601a5cafb7add0ad_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 119626819,
@@ -1620,8 +1620,8 @@
    "y": 1078,
    "alliance": "V26V",
    "alliance_id": 8010884,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head03.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head03.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 188312797,
@@ -1633,7 +1633,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/226226898/2024-10-13/627AAD140ABB8276BDC19F59CE5F8D11_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 165136641,
@@ -1645,7 +1645,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/216671625/2026-07-25/5792AB7CDF309BCD7D10F1BE259214F1_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 125711395,
@@ -1656,8 +1656,8 @@
    "y": 850,
    "alliance": "ES26",
    "alliance_id": 7000105,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head15.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head15.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 138351205,
@@ -1669,7 +1669,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/138351205/231210/82DC6E04E559590DBBA8726F2B82F6A2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 177881453,
@@ -1681,7 +1681,7 @@
    "alliance": "V26V",
    "alliance_id": 8010884,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/29651334/2024-10-05/C33B7061A8B90B46720745372FF24F91_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 105538766,
@@ -1693,7 +1693,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/105538766/231210/51A73D6A0755D04C6BF0CFE5B2DAAA14_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 141434780,
@@ -1705,7 +1705,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/141434780/221019/3728CB0DA7BAC7BD2E8A86885E0574C8_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 105543911,
@@ -1717,7 +1717,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/105543911/231210/2158165E343A617385ECAC727493757A_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 79720031,
@@ -1728,8 +1728,8 @@
    "y": 491,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head07.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head07.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 45505522,
@@ -1741,7 +1741,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/45505522/231207/A99848E315180E4F2A8E3B5A743A6ED3_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 180422269,
@@ -1753,7 +1753,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24831864/2026-01-30/76AB117A791E33928C26E428EC26D0B9_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181612601,
@@ -1765,7 +1765,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/216612883/2026-01-25/8606D08612C99895BC041E7F1590CE42_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181907785,
@@ -1776,7 +1776,7 @@
    "y": 725,
    "alliance": "DA-S",
    "alliance_id": 7003472,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
    "frame": "null"
   },
   {
@@ -1788,8 +1788,8 @@
    "y": 526,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 135655598,
@@ -1801,7 +1801,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/135655598/23/07/10/f9bb6340f8e58063_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 153263025,
@@ -1813,7 +1813,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/209766909/2026-06-11/E0A0679D53F11EB7EB64AB992985F9B9_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 57638822,
@@ -1824,8 +1824,8 @@
    "y": 654,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 123885062,
@@ -1836,7 +1836,7 @@
    "y": 688,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
    "frame": "null"
   },
   {
@@ -1849,7 +1849,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/28282173/20/08/21/65790bdbe5fa0c7a_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_9.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_9.png"
   },
   {
    "id": 181886893,
@@ -1860,8 +1860,8 @@
    "y": 1170,
    "alliance": "JJ26",
    "alliance_id": 7002385,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head18.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head18.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 4421367,
@@ -1872,7 +1872,7 @@
    "y": 567,
    "alliance": "KS26",
    "alliance_id": 6999883,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1005.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1005.png",
    "frame": "null"
   },
   {
@@ -1885,7 +1885,7 @@
    "alliance": "Btl",
    "alliance_id": 7003209,
    "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/226059150/2024-06-22/FFD71522A539AE9A5A47204BBD0868FE_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 164134296,
@@ -1896,8 +1896,8 @@
    "y": 663,
    "alliance": "Aw26",
    "alliance_id": 6999968,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181916437,
@@ -1908,8 +1908,8 @@
    "y": 865,
    "alliance": "KsT",
    "alliance_id": 7007454,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head19.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head19.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 174184323,
@@ -1920,8 +1920,8 @@
    "y": 656,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181381112,
@@ -1933,7 +1933,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225780444/2026-08-31/6D02CF47895100EB0C66F3E4DA4A7DCB_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 157954006,
@@ -1945,7 +1945,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/29307610/2026-02-19/FF6A5BC4373861032458700ABC401DEE_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 113577275,
@@ -1957,7 +1957,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/92179196/2026-08-22/03EBD005C409C37CF359020A8D25F34E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 72837364,
@@ -1981,7 +1981,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/223854506/2025-02-25/3414E0E9B7BD27EC962AF84B11EE1B7C_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 181965217,
@@ -1993,7 +1993,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226109725/2025-08-01/D1C665D1FCEF84848A2FEC24560D3C13_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181880216,
@@ -2004,8 +2004,8 @@
    "y": 294,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head15.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head15.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 95066361,
@@ -2017,7 +2017,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/74076865/2026-02-14/DA09AAB6F0B70777070DF08456E49B4B_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 176790985,
@@ -2028,8 +2028,8 @@
    "y": 959,
    "alliance": "AE26",
    "alliance_id": 7003794,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
   },
   {
    "id": 85480855,
@@ -2041,7 +2041,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/69453521/2025-04-17/1972C55BDD2F03CF8D06A51563D0BF21_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 105202460,
@@ -2053,7 +2053,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/105202460/22/08/18/11d815414aa530af_127x127.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 130067639,
@@ -2065,7 +2065,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225396141/2025-10-22/38ABC73C2CCE7D327AD64D1CBF86B6C0_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 6984480,
@@ -2077,7 +2077,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/6493015/2026-07-01/642F8412F447A30166D1533F534EF590_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 165919886,
@@ -2089,7 +2089,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/51450597/2024-07-31/EC71525424A7169AC336F20E774300DB_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_174.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_174.png"
   },
   {
    "id": 130984867,
@@ -2101,7 +2101,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/130984867/230713/689C74C7CF1450CE1CF612CC7B8DBCA4_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_144.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_144.png"
   },
   {
    "id": 125721415,
@@ -2113,7 +2113,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/125721415/23/10/06/5a17236011de8129_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_137.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_137.png"
   },
   {
    "id": 148140511,
@@ -2125,7 +2125,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/148140511/23/10/06/c48b9a2e23dc24bf_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 165521285,
@@ -2137,7 +2137,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/165521285/23/08/12/13d586bc70d19372_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_3.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_3.png"
   },
   {
    "id": 85656727,
@@ -2149,7 +2149,7 @@
    "alliance": "LR26",
    "alliance_id": 7000069,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181880508,
@@ -2160,8 +2160,8 @@
    "y": 1172,
    "alliance": "ILL",
    "alliance_id": 7002036,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head09.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head09.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 54738871,
@@ -2173,7 +2173,7 @@
    "alliance": "GV26",
    "alliance_id": 7000116,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/44931423/2026-08-26/63148FF2292C9EF958D9DDB0395FD259_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 49870429,
@@ -2185,7 +2185,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/49870429/23/04/19/4f17f8d3894606fb_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_14.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_14.png"
   },
   {
    "id": 178080960,
@@ -2196,8 +2196,8 @@
    "y": 509,
    "alliance": "V26V",
    "alliance_id": 8010884,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head21.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head21.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 66928853,
@@ -2208,8 +2208,8 @@
    "y": 566,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181855305,
@@ -2220,8 +2220,8 @@
    "y": 887,
    "alliance": "DH26",
    "alliance_id": 7000620,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 62088620,
@@ -2232,8 +2232,8 @@
    "y": 627,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head20.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head20.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 86884204,
@@ -2244,7 +2244,7 @@
    "y": 570,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
    "frame": "null"
   },
   {
@@ -2257,7 +2257,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/70848183/230713/BFC06C78C2ACFEAC17899AEDCD4C4281_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 67699627,
@@ -2268,8 +2268,8 @@
    "y": 629,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 25270924,
@@ -2281,7 +2281,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/25270924/23/04/12/0311bc060bd52c8f_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 50840836,
@@ -2293,7 +2293,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/42067297/2025-12-05/7DA0C47FCEEA4F1EBFCC43738CFC1A46_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 85611941,
@@ -2304,8 +2304,8 @@
    "y": 722,
    "alliance": "AE26",
    "alliance_id": 7003794,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head17.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head17.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 136481232,
@@ -2316,8 +2316,8 @@
    "y": 696,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 125266788,
@@ -2329,7 +2329,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/125266788/230713/391CAA762A5928A33E424A8762CF676D_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_131.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_131.png"
   },
   {
    "id": 177673953,
@@ -2341,7 +2341,7 @@
    "alliance": "AE26",
    "alliance_id": 7003794,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/24579148/2024-07-25/0486468929B9CD89F8572925D0A9838A_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
   },
   {
    "id": 27432191,
@@ -2353,7 +2353,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/27432191/20/07/28/3307791712447de4_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181885928,
@@ -2364,8 +2364,8 @@
    "y": 1081,
    "alliance": "GV26",
    "alliance_id": 7000116,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head06.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head06.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 195584439,
@@ -2389,7 +2389,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/51450597/2024-07-31/1A6A5155727C217B3F048A50E5DFD6C4_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 113628663,
@@ -2400,8 +2400,8 @@
    "y": 96,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head14.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head14.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 93298327,
@@ -2424,7 +2424,7 @@
    "y": 648,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
    "frame": "null"
   },
   {
@@ -2437,7 +2437,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/100656410/230713/64F5B27E3D1BB4E099E9C40D60B2416C_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_111.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_111.png"
   },
   {
    "id": 182611259,
@@ -2448,8 +2448,8 @@
    "y": 922,
    "alliance": "26DW",
    "alliance_id": 8792724,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 170171068,
@@ -2461,7 +2461,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/102110955/2024-11-26/5510166D0E212AA2C0937C6D750096BD_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
   },
   {
    "id": 124514788,
@@ -2472,8 +2472,8 @@
    "y": 345,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 83866668,
@@ -2485,7 +2485,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/8723590/2025-08-19/419CF53E83E88AF48266565FA97A888E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 130179173,
@@ -2497,7 +2497,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/130179173/230713/CB29B67A25157F85239FFF440A4BCD11_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_152.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_152.png"
   },
   {
    "id": 181876418,
@@ -2509,7 +2509,7 @@
    "alliance": "CHin",
    "alliance_id": 7096859,
    "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/226052794/2024-05-26/6996647D4F693D4D0353CC8EBD9741CA_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
   },
   {
    "id": 135042069,
@@ -2521,7 +2521,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/103039133/2026-02-17/37CA48B58A28AA5C0DFB9E165F66D695_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_129.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_129.png"
   },
   {
    "id": 18348269,
@@ -2533,7 +2533,7 @@
    "alliance": "26GS",
    "alliance_id": 6999993,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3106484/2026-08-31/0D4F56EBAED92EBBC4932E78B6A2F3F1_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 108201696,
@@ -2545,7 +2545,7 @@
    "alliance": "LR26",
    "alliance_id": 7000069,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/108201696/21/11/26/c6734f999d3093e2_720x720.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 141302158,
@@ -2557,7 +2557,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/141302158/22/10/15/1460c0da806b84a4_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 108213642,
@@ -2569,7 +2569,7 @@
    "alliance": "LR26",
    "alliance_id": 7000069,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/108213642/21/11/26/1016f7baea2eeca6_720x720.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 110888169,
@@ -2581,7 +2581,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/110888169/23/09/05/6e7d254a28cb8ae8_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 26743686,
@@ -2593,7 +2593,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/26743686/23/02/16/cd3f57dc4c1c9ece_512x512.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 197564553,
@@ -2605,7 +2605,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/51450597/2026-01-19/8BB753497162F61C4CD1A1DB5FF11F86_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 75411167,
@@ -2616,8 +2616,8 @@
    "y": 570,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 99635187,
@@ -2628,8 +2628,8 @@
    "y": 289,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 67266453,
@@ -2641,7 +2641,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/67266453/21/10/02/5c9a3c2956322fb1_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 59668560,
@@ -2653,7 +2653,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3396027/2025-11-25/ED4925A45414CCCBB20DA2DAA70D6ED8_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_3.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_3.png"
   },
   {
    "id": 159615537,
@@ -2664,8 +2664,8 @@
    "y": 528,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 159643682,
@@ -2676,8 +2676,8 @@
    "y": 633,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 185626,
@@ -2688,7 +2688,7 @@
    "y": 930,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head11.png",
    "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
@@ -2701,7 +2701,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/213039762/2025-01-11/3C46FAB579F455690A75DE1E25F692B4_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 198408954,
@@ -2712,8 +2712,8 @@
    "y": 420,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 108680753,
@@ -2725,7 +2725,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/8723590/2025-08-19/32E5B1238D0F851153A6B92F0C93981E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 190932974,
@@ -2737,7 +2737,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/100722609/2024-12-04/74D28DB3781DC5C58FC9B828157D9C28_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 135240073,
@@ -2748,8 +2748,8 @@
    "y": 512,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head13.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head13.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 198465242,
@@ -2760,8 +2760,8 @@
    "y": 432,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head14.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head14.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 181391850,
@@ -2773,7 +2773,7 @@
    "alliance": "AE26",
    "alliance_id": 7003794,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225764935/2026-08-27/DE62DC4AB5FF390E37E306811E4287A1_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_61.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_61.png"
   },
   {
    "id": 177604238,
@@ -2796,8 +2796,8 @@
    "y": 570,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 101865543,
@@ -2809,7 +2809,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/80371512/2026-05-03/9CFBFC5BBA9BBE0E672CD10CDDECD5C5_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 80526428,
@@ -2820,8 +2820,8 @@
    "y": 388,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 80361703,
@@ -2832,8 +2832,8 @@
    "y": 177,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 149795333,
@@ -2844,8 +2844,8 @@
    "y": 477,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 135262978,
@@ -2856,8 +2856,8 @@
    "y": 499,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 130955784,
@@ -2868,8 +2868,8 @@
    "y": 1164,
    "alliance": "Ursu",
    "alliance_id": 8548134,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 202507584,
@@ -2880,8 +2880,8 @@
    "y": 392,
    "alliance": "JJ26",
    "alliance_id": 7002385,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 128407795,
@@ -2893,7 +2893,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 110730601,
@@ -2905,7 +2905,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 3085666,
@@ -2917,7 +2917,7 @@
    "alliance": "KS26",
    "alliance_id": 6999883,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226023606/2025-11-10/338D579844F0865089F57500B3AD182C_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_46.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_46.png"
   },
   {
    "id": 177454624,
@@ -2928,7 +2928,7 @@
    "y": 632,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
    "frame": "null"
   },
   {
@@ -2940,8 +2940,8 @@
    "y": 528,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_95.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_95.png"
   },
   {
    "id": 177746309,
@@ -2952,7 +2952,7 @@
    "y": 469,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
    "frame": "null"
   },
   {
@@ -2965,7 +2965,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/109992344/22/04/12/6fbb1663e7330269_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 59201149,
@@ -2989,7 +2989,7 @@
    "alliance": "Qwak",
    "alliance_id": 7000003,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/228749544/2025-04-22/EDDBA6BAD40AA9644FF09259F79AADF1_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_190.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_190.png"
   },
   {
    "id": 143178362,
@@ -3001,7 +3001,7 @@
    "alliance": "LR26",
    "alliance_id": 7000069,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 87221507,
@@ -3013,7 +3013,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/87221507/21/10/02/a1da007d571c2be1_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 103386614,
@@ -3025,7 +3025,7 @@
    "alliance": "LR26",
    "alliance_id": 7000069,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 18087496,
@@ -3037,7 +3037,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16363532/2026-02-17/6921E0BA25D491119F9F40B0DFADCAF1_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 144074026,
@@ -3060,8 +3060,8 @@
    "y": 460,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head20.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head20.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 86410010,
@@ -3073,7 +3073,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/86410010/21/10/02/cc7163e5f2b60052_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 191223611,
@@ -3084,8 +3084,8 @@
    "y": 779,
    "alliance": "26GS",
    "alliance_id": 6999993,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head09.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_14.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head09.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_14.png"
   },
   {
    "id": 159681001,
@@ -3096,8 +3096,8 @@
    "y": 601,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 80968361,
@@ -3109,7 +3109,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/80968361/21/10/02/eed8bdbc490f559d_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 106022858,
@@ -3121,7 +3121,7 @@
    "alliance": "LR26",
    "alliance_id": 7000069,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 99752336,
@@ -3133,7 +3133,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/80371512/2026-05-03/64904059380A82BF09AB5ECE3CC78F14_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 146335380,
@@ -3145,7 +3145,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/103039133/2026-02-17/F299C7AC4E702400894A588FCECDC24B_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 50999415,
@@ -3157,7 +3157,7 @@
    "alliance": "26GS",
    "alliance_id": 6999993,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39536876/2026-08-31/B63812627EB0F753CF02423EF62F0E6E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 177746026,
@@ -3168,8 +3168,8 @@
    "y": 619,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 202206003,
@@ -3180,8 +3180,8 @@
    "y": 346,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head03.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head03.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 145206450,
@@ -3193,7 +3193,7 @@
    "alliance": "LR26",
    "alliance_id": 7000069,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 181827805,
@@ -3204,8 +3204,8 @@
    "y": 804,
    "alliance": "ESDA",
    "alliance_id": 6999988,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181927554,
@@ -3216,8 +3216,8 @@
    "y": 1044,
    "alliance": "PYDR",
    "alliance_id": 7003531,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 27925141,
@@ -3228,7 +3228,7 @@
    "y": 573,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head02.png",
    "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
@@ -3241,7 +3241,7 @@
    "alliance": "26LS",
    "alliance_id": 6999899,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/103039133/2026-02-17/1C779D5F002E360B38B0A6E8021B1D2D_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 96887908,
@@ -3253,7 +3253,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/74076865/2026-02-14/DA09AAB6F0B70777070DF08456E49B4B_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 159675297,
@@ -3264,8 +3264,8 @@
    "y": 687,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 75678093,
@@ -3277,7 +3277,7 @@
    "alliance": "LR26",
    "alliance_id": 7000069,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/57481721/2026-09-16/E2007B6DDA2F927D4C5E61E8C5F7601B_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181433680,
@@ -3301,7 +3301,7 @@
    "alliance": "26GS",
    "alliance_id": 6999993,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3106484/2026-08-31/0D4F56EBAED92EBBC4932E78B6A2F3F1_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_29.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_29.png"
   },
   {
    "id": 181882404,
@@ -3313,7 +3313,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/226080034/2024-06-03/F630B4F93A249DA82372E99621C5EA00_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
   },
   {
    "id": 62660462,
@@ -3325,7 +3325,7 @@
    "alliance": "26GS",
    "alliance_id": 6999993,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39536876/2026-08-31/D665C8F7DA07F21DA0F8E10E64E47CDE_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 178542474,
@@ -3337,7 +3337,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/221824549/2024-05-24/96BBA01DC5BD583EAA6593F1004F34AD_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 181936578,
@@ -3349,7 +3349,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226088014/2026-03-09/9718095F2F21562BD8A72623091CA513_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 204709435,
@@ -3360,8 +3360,8 @@
    "y": 404,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 189448873,
@@ -3372,8 +3372,8 @@
    "y": 661,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 161426538,
@@ -3385,7 +3385,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 192554376,
@@ -3396,8 +3396,8 @@
    "y": 773,
    "alliance": "26GS",
    "alliance_id": 6999993,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head06.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head06.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 205023124,
@@ -3408,8 +3408,8 @@
    "y": 391,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head18.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head18.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 75972012,
@@ -3433,7 +3433,7 @@
    "alliance": "26LF",
    "alliance_id": 6999975,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/219997956/2025-10-06/DB6B296EAB5DBE5D62933F2DAFB09CF2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 96137956,
@@ -3445,7 +3445,7 @@
    "alliance": "26RD",
    "alliance_id": 6999924,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/53169247/2026-06-21/359D285E3CE533BB93DA20FC0EE24B07_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 47715512,
@@ -3457,7 +3457,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/47715512/22/03/15/af0c72080f6236c9_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 205416487,
@@ -3468,8 +3468,8 @@
    "y": 365,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head21.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head21.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 181259725,
@@ -3505,7 +3505,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/200750777/2024-09-03/F7470AB0E38712CB3B42467E92F077C1_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 52821226,
@@ -3529,7 +3529,7 @@
    "alliance": "26GS",
    "alliance_id": 6999993,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39536876/2026-08-31/06D01D7F76B677467F16D91A31DCEE14_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 4566051,
@@ -3541,7 +3541,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/4566051/20/01/31/e63d2480787f22a5_200x200.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 205841130,
@@ -3552,8 +3552,8 @@
    "y": 360,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head09.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head09.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 189826051,
@@ -3564,8 +3564,8 @@
    "y": 727,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head06.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head06.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181917281,
@@ -3576,8 +3576,8 @@
    "y": 237,
    "alliance": "V26V",
    "alliance_id": 8010884,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 168497882,
@@ -3589,7 +3589,7 @@
    "alliance": "G2F6",
    "alliance_id": 7110799,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/203205116/2025-05-30/1EE94922DD21D2DB31B46F18836E4233_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 155023787,
@@ -3601,7 +3601,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16363532/2026-02-17/86F6AD0D0D2E28D17385A07C6FC9068D_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 146512863,
@@ -3613,7 +3613,7 @@
    "alliance": "G2F6",
    "alliance_id": 7110799,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/98259043/2026-02-04/F60465D00595A2E260BB6AC006AE2A51_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 161425102,
@@ -3625,7 +3625,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 165382224,
@@ -3637,7 +3637,7 @@
    "alliance": "26GS",
    "alliance_id": 6999993,
    "avatar": "https://imimg.lilithcdn.com/llc_avatar/165382224/23/09/10/402301a38684c710_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 191176358,
@@ -3649,7 +3649,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/231854665/2025-12-10/205BE21C9043CB178ABC68886821D871_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 149511279,
@@ -3661,7 +3661,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/149511279/240327/C0AACA344C3E7E5EF03C99EAB3C0EACE_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_14.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_14.png"
   },
   {
    "id": 175214557,
@@ -3672,8 +3672,8 @@
    "y": 754,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head06.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head06.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 181829300,
@@ -3685,7 +3685,7 @@
    "alliance": "V26V",
    "alliance_id": 8010884,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226028757/2025-07-14/A4545D06662B03D960A83DFF46A54F50_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 115424451,
@@ -3697,7 +3697,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/86F6AD0D0D2E28D17385A07C6FC9068D_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 129454569,
@@ -3709,7 +3709,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/BF657FBA3FA116345FA756EB2893DA33_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 68246085,
@@ -3720,8 +3720,8 @@
    "y": 815,
    "alliance": "26LF",
    "alliance_id": 6999975,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 25821090,
@@ -3733,7 +3733,7 @@
    "alliance": "26DW",
    "alliance_id": 8792724,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/25821090/21/12/28/6fcfbf70ac22f424_800x800.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_237.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_237.png"
   },
   {
    "id": 73802545,
@@ -3745,7 +3745,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/73802545/23/09/05/aad56e1bfa10eca8_579x579.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 208649668,
@@ -3756,8 +3756,8 @@
    "y": 331,
    "alliance": "LR26",
    "alliance_id": 7000069,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head17.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head17.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 129443752,
@@ -3769,7 +3769,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/7E2E9EAC422E3321C1D5B4AC9B68C719_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 60718102,
@@ -3781,7 +3781,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/0C32041FFE5E07F6CC272281FDA1D6E4_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 141931478,
@@ -3792,8 +3792,8 @@
    "y": 596,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 129643505,
@@ -3804,8 +3804,8 @@
    "y": 576,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head07.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head07.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 89218314,
@@ -3828,8 +3828,8 @@
    "y": 1172,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_174.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_174.png"
   },
   {
    "id": 173922870,
@@ -3840,8 +3840,8 @@
    "y": 798,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 140522991,
@@ -3853,7 +3853,7 @@
    "alliance": "DT26",
    "alliance_id": 7008416,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/201922326/2026-02-11/A3B395398B4862379898F3CACDC6F19E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_152.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_152.png"
   },
   {
    "id": 149178855,
@@ -3865,7 +3865,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/207269136/2026-06-27/8590EDB7120DFA0A1AF66CFA9BE79AAD_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 121396261,
@@ -3877,7 +3877,7 @@
    "alliance": "26LF",
    "alliance_id": 6999975,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/98027255/2026-06-01/11AA392A36F329E77D8A26BDC091E9F3_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 121397520,
@@ -3889,7 +3889,7 @@
    "alliance": "26LF",
    "alliance_id": 6999975,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/98027255/2026-06-01/235DAECEA819A90F4392A16FEC7CD15D_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 99316311,
@@ -3901,7 +3901,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16363532/2026-02-17/AC23D79EBF99472C05EC9F6868FC79EA_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 92752920,
@@ -3912,8 +3912,8 @@
    "y": 810,
    "alliance": "ZAWW",
    "alliance_id": 8712955,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 154780339,
@@ -3925,7 +3925,7 @@
    "alliance": "26LF",
    "alliance_id": 6999975,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/203412043/2025-05-12/DB6B296EAB5DBE5D62933F2DAFB09CF2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 87021455,
@@ -3936,8 +3936,8 @@
    "y": 632,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181679842,
@@ -3949,7 +3949,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/89589788/2024-05-23/7664718F5CB3B7EAAF5BA261EC5906F8_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
   },
   {
    "id": 51549460,
@@ -3973,7 +3973,7 @@
    "alliance": "26LF",
    "alliance_id": 6999975,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/55190321/2026-07-30/D88FF9DF14F0E5D579D82FAAFC64A4CA_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 71866598,
@@ -3985,7 +3985,7 @@
    "alliance": "26LF",
    "alliance_id": 6999975,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/55190321/2026-07-01/D88FF9DF14F0E5D579D82FAAFC64A4CA_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 170646585,
@@ -3997,7 +3997,7 @@
    "alliance": "G2F6",
    "alliance_id": 7110799,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/216860493/2026-02-01/DA2EA2E575A374AD46D08AAD9139F600_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 169528391,
@@ -4009,7 +4009,7 @@
    "alliance": "KS26",
    "alliance_id": 6999883,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/583783/2026-09-05/6A8A4430EE732783721C4647ADD84932_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 155093185,
@@ -4021,7 +4021,7 @@
    "alliance": "26LF",
    "alliance_id": 6999975,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/203412043/2025-05-12/DB6B296EAB5DBE5D62933F2DAFB09CF2_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181855225,
@@ -4032,8 +4032,8 @@
    "y": 944,
    "alliance": "V26V",
    "alliance_id": 8010884,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head08.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head08.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181877417,
@@ -4057,7 +4057,7 @@
    "alliance": "G2F6",
    "alliance_id": 7110799,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/216860493/2026-02-01/801FD1DD56E98E2B3CB0AAAE09BE2916_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 165365479,
@@ -4069,7 +4069,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/165365479/230816/A27FE5F4DB8296E3DAE26E7495350281_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_253.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_253.png"
   },
   {
    "id": 209403180,
@@ -4093,7 +4093,7 @@
    "alliance": "G2F6",
    "alliance_id": 7110799,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24424458/2026-01-26/89F5E90F885C9F5BCC8A7A5261D47144_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 214989040,
@@ -4116,8 +4116,8 @@
    "y": 549,
    "alliance": "26LS",
    "alliance_id": 6999899,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 139336191,
@@ -4128,8 +4128,8 @@
    "y": 836,
    "alliance": "26DW",
    "alliance_id": 8792724,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head20.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head20.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 113308801,
@@ -4141,7 +4141,7 @@
    "alliance": "XZ26",
    "alliance_id": 7000311,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-06-29/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 175908965,
@@ -4153,7 +4153,7 @@
    "alliance": "G2F6",
    "alliance_id": 7110799,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24424458/2025-10-16/D9F10BE207F8A6BA2F9EE3D47E00D685_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 130197504,
@@ -4165,7 +4165,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/467B7CB54D83F5CE99BBA775CDEFE618_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 130255781,
@@ -4177,7 +4177,7 @@
    "alliance": "ES26",
    "alliance_id": 7000105,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/5F6C1B2B744620BA9BB621AA9588B909_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 135469155,
@@ -4189,7 +4189,7 @@
    "alliance": "XZ26",
    "alliance_id": 7000311,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-04-24/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 171489652,
@@ -4201,7 +4201,7 @@
    "alliance": "Qwak",
    "alliance_id": 7000003,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24304783/2025-08-12/F8D6E4D331269530D56BD37966A02001_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 180515822,
@@ -4213,7 +4213,7 @@
    "alliance": "IG26",
    "alliance_id": 6999970,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/224638909/2026-09-09/6F07FC2DE714F41ECC21D697E7BEDD32_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 82549035,
@@ -4224,8 +4224,8 @@
    "y": 1028,
    "alliance": "Dc26",
    "alliance_id": 7063991,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head07.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_74.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head07.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_74.png"
   },
   {
    "id": 38975469,
@@ -4237,7 +4237,7 @@
    "alliance": "XZ26",
    "alliance_id": 7000311,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-04-24/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 161610075,
@@ -4249,7 +4249,7 @@
    "alliance": "XZ26",
    "alliance_id": 7000311,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-02-04/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 152268590,
@@ -4261,7 +4261,7 @@
    "alliance": "XZ26",
    "alliance_id": 7000311,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-04-24/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 111585422,
@@ -4273,7 +4273,7 @@
    "alliance": "DT26",
    "alliance_id": 7008416,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/90412037/2026-02-05/DB4111BC07282FEA6A88EBD8E5BFDD88_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_46.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_46.png"
   },
   {
    "id": 158176056,
@@ -4285,7 +4285,7 @@
    "alliance": "Dc26",
    "alliance_id": 7063991,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/201922326/2026-02-11/A3B395398B4862379898F3CACDC6F19E_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_152.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_152.png"
   },
   {
    "id": 143183514,
@@ -4296,8 +4296,8 @@
    "y": 635,
    "alliance": "IG26",
    "alliance_id": 6999970,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181907547,
@@ -4309,7 +4309,7 @@
    "alliance": "BB26",
    "alliance_id": 7004430,
    "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/226083477/2024-06-06/B36F087DC587004A41213D2BDBD538E9_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 149908487,
@@ -4321,7 +4321,7 @@
    "alliance": "26LF",
    "alliance_id": 6999975,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/204725555/2026-02-01/1CB1A4275CBDCF6388226FB781B5EF70_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
   },
   {
    "id": 108144455,
@@ -4332,8 +4332,8 @@
    "y": 813,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 102256579,
@@ -4344,8 +4344,8 @@
    "y": 748,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head21.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head21.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 211431145,
@@ -4357,7 +4357,7 @@
    "alliance": "",
    "alliance_id": 0,
    "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16561320/2026-03-16/56C272C7FFC22F7EE11D1A90785D9B0B_250x250.jpg",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 110340594,
@@ -4368,8 +4368,8 @@
    "y": 829,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 103524175,
@@ -4380,8 +4380,8 @@
    "y": 1052,
    "alliance": "Dc26",
    "alliance_id": 7063991,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head07.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head07.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 106986084,
@@ -4392,8 +4392,8 @@
    "y": 810,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 104425085,
@@ -4404,8 +4404,8 @@
    "y": 774,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 59667365,
@@ -4416,8 +4416,8 @@
    "y": 462,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 153695491,
@@ -4428,8 +4428,8 @@
    "y": 559,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 19169312,
@@ -4440,8 +4440,8 @@
    "y": 822,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head04.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head04.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 135876824,
@@ -4452,8 +4452,8 @@
    "y": 693,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 199384959,
@@ -4464,8 +4464,8 @@
    "y": 747,
    "alliance": "",
    "alliance_id": 0,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 68377738,
@@ -4476,8 +4476,8 @@
    "y": 927,
    "alliance": "JJ26",
    "alliance_id": 7002385,
-   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
-   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   }
  ]
 }
