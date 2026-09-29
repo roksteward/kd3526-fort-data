@@ -1,72 +1,73 @@
 {
  "kingdom": 3526,
  "city_hall": 25,
- "scanned": 1790109485,
- "published": 1790110139,
- "governors_seen": 1447,
- "count": 358,
- "power_total": 16838180573,
- "no_alliance": 46,
+ "scanned": 1790655100,
+ "published": 1790655112,
+ "governors_seen": 1445,
+ "count": 359,
+ "power_total": 17538635736,
+ "no_alliance": 44,
+ "with_picture": 355,
  "alliances": [
   {
    "tag": "IG26",
-   "count": 132,
-   "power": 10955038213
+   "count": 131,
+   "power": 11721578633
   },
   {
    "tag": "26LS",
-   "count": 49,
-   "power": 1284304404
+   "count": 48,
+   "power": 1258026126
   },
   {
    "tag": "LR26",
    "count": 25,
-   "power": 578630174
+   "power": 568164952
   },
   {
    "tag": "26DW",
    "count": 14,
-   "power": 380453524
+   "power": 371429753
   },
   {
    "tag": "ES26",
    "count": 14,
-   "power": 282388270
+   "power": 283579116
   },
   {
    "tag": "26GS",
-   "count": 9,
-   "power": 191680291
+   "count": 11,
+   "power": 247118362
   },
   {
    "tag": "26LF",
    "count": 9,
-   "power": 148961988
+   "power": 149079424
+  },
+  {
+   "tag": "XZ26",
+   "count": 8,
+   "power": 125482901
   },
   {
    "tag": "KS26",
    "count": 7,
-   "power": 346724894
+   "power": 263449510
   },
   {
-   "tag": "G2F6",
+   "tag": "V26V",
    "count": 7,
-   "power": 113778137
+   "power": 213746949
   },
   {
    "tag": "JJ26",
    "count": 6,
-   "power": 205313661
+   "power": 207480660
   },
   {
-   "tag": "V26V",
+   "tag": "G2F6",
    "count": 6,
-   "power": 194927007
-  },
-  {
-   "tag": "XZ26",
-   "count": 6,
-   "power": 96102272
+   "power": 98702408
   },
   {
    "tag": "AE26",
@@ -76,7 +77,7 @@
   {
    "tag": "Dc26",
    "count": 3,
-   "power": 38319080
+   "power": 38403080
   },
   {
    "tag": "KsT",
@@ -86,57 +87,57 @@
   {
    "tag": "GV26",
    "count": 2,
-   "power": 55860288
+   "power": 56226485
   },
   {
    "tag": "Qwak",
    "count": 2,
-   "power": 36682480
+   "power": 36883996
   },
   {
    "tag": "DT26",
    "count": 2,
-   "power": 30211328
+   "power": 30262528
   },
   {
    "tag": "Dum6",
    "count": 1,
-   "power": 122978548
+   "power": 123230178
   },
   {
    "tag": "usr",
    "count": 1,
-   "power": 60721418
+   "power": 61134225
   },
   {
    "tag": "DA-S",
    "count": 1,
-   "power": 34495530
-  },
-  {
-   "tag": "Aw26",
-   "count": 1,
-   "power": 31653664
+   "power": 34349109
   },
   {
    "tag": "Btl",
    "count": 1,
-   "power": 31417076
+   "power": 32345548
+  },
+  {
+   "tag": "Aw26",
+   "count": 1,
+   "power": 32090764
   },
   {
    "tag": "ILL",
    "count": 1,
-   "power": 28681227
+   "power": 29003215
   },
   {
    "tag": "DH26",
    "count": 1,
-   "power": 28635935
+   "power": 28749967
   },
   {
    "tag": "CHin",
    "count": 1,
-   "power": 25411346
+   "power": 25515676
   },
   {
    "tag": "Ursu",
@@ -144,19 +145,24 @@
    "power": 23396044
   },
   {
-   "tag": "PYDR",
-   "count": 1,
-   "power": 21125916
-  },
-  {
    "tag": "ESDA",
    "count": 1,
-   "power": 21002125
+   "power": 21347767
+  },
+  {
+   "tag": "PYDR",
+   "count": 1,
+   "power": 21322806
   },
   {
    "tag": "26RD",
    "count": 1,
    "power": 19993727
+  },
+  {
+   "tag": "ZAWW",
+   "count": 1,
+   "power": 16474570
   },
   {
    "tag": "BB26",
@@ -166,3226 +172,4312 @@
  ],
  "accounts": [
   {
-   "id": 3578288,
-   "name": "乄Tunga乄",
-   "power": 176939272,
-   "x": 569,
-   "y": 634,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
    "id": 33357125,
    "name": "ㄴSonny ㄱ",
-   "power": 169068303,
-   "x": 512,
-   "y": 602,
+   "power": 235579953,
+   "ch": 25,
+   "x": 514,
+   "y": 601,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 34184453,
-   "name": "Atummys",
-   "power": 167031535,
-   "x": 512,
-   "y": 600,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 66312276,
-   "name": "ᴮᴬᴰBlade",
-   "power": 158882079,
-   "x": 563,
-   "y": 600,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 56592507,
-   "name": "DeadPoetic",
-   "power": 157919315,
-   "x": 520,
-   "y": 567,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/29281737/2025-11-01/CB4886FD72659A02CF43E1C4E840D15F_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_130.png"
   },
   {
    "id": 17190764,
    "name": "Vize x҉",
-   "power": 143151901,
-   "x": 515,
-   "y": 552,
+   "power": 205745370,
+   "ch": 25,
+   "x": 522,
+   "y": 559,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 4195079,
-   "name": "Fruitdealer",
-   "power": 140590235,
-   "x": 542,
-   "y": 567,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 62870564,
-   "name": "Madvillainy",
-   "power": 138574013,
-   "x": 518,
-   "y": 585,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 146834648,
-   "name": "Manual Rowan",
-   "power": 135273510,
-   "x": 546,
-   "y": 618,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/15638673/2026-08-22/C5C0AFBD55EB1B640D1C96E9231676BF_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_160.png"
   },
   {
    "id": 2251922,
    "name": "BloodツCrown",
-   "power": 131268980,
+   "power": 205041444,
+   "ch": 25,
    "x": 513,
    "y": 583,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 3274469,
-   "name": "Just Agus",
-   "power": 129950063,
-   "x": 591,
-   "y": 654,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 125915323,
-   "name": "MRjacksy",
-   "power": 128635609,
-   "x": 629,
-   "y": 480,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/2106376/2026-07-30/89B715CCA9858AEBE260B804D41FE270_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_256.png"
   },
   {
    "id": 43768929,
    "name": "NuRi 龙",
-   "power": 124786854,
+   "power": 192753117,
+   "ch": 25,
    "x": 683,
    "y": 542,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 22226412,
-   "name": "义ʟᴜᴋᴇ",
-   "power": 123938030,
-   "x": 537,
-   "y": 642,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 84266337,
-   "name": "LINCEXMIAW",
-   "power": 122978548,
-   "x": 171,
-   "y": 724,
-   "alliance": "Dum6",
-   "alliance_id": 8817548
-  },
-  {
-   "id": 44393886,
-   "name": "DADDY HR BLACK",
-   "power": 120671078,
-   "x": 566,
-   "y": 697,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 12496936,
-   "name": "ᵃⁿᵍ Thor",
-   "power": 119660996,
-   "x": 545,
-   "y": 615,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 180611348,
-   "name": "XhedgeX",
-   "power": 118838698,
-   "x": 558,
-   "y": 629,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 80338007,
-   "name": "Mad乂Pharaoh",
-   "power": 118506256,
-   "x": 361,
-   "y": 795,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 61626485,
-   "name": "tedd",
-   "power": 117381780,
-   "x": 546,
-   "y": 568,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/36885263/2026-07-17/5309415C65628A40054250CCD1DA5D75_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 15201096,
    "name": "ɢᴠᴏ  Macro",
-   "power": 113594318,
-   "x": 570,
-   "y": 604,
+   "power": 184105914,
+   "ch": 25,
+   "x": 506,
+   "y": 515,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 57841018,
-   "name": "ᵏˢ Imperius",
-   "power": 113074871,
-   "x": 540,
-   "y": 632,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 121038633,
-   "name": "ᴘ ᴀ i ɴ",
-   "power": 112169029,
-   "x": 515,
-   "y": 585,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/8186421/2026-08-28/65BB32F21A84450A46BB5D8AFC2687C2_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_256.png"
   },
   {
    "id": 43538654,
    "name": "义Bagy",
-   "power": 111875965,
-   "x": 544,
-   "y": 611,
+   "power": 182138687,
+   "ch": 25,
+   "x": 602,
+   "y": 582,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/49256/2026-09-27/7CE91047BEF60F39E5AC745979DD8C19_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_256.png"
   },
   {
-   "id": 11453030,
-   "name": "UghMan",
-   "power": 111806947,
-   "x": 523,
-   "y": 618,
-   "alliance": "KS26",
-   "alliance_id": 6999883
-  },
-  {
-   "id": 65236578,
-   "name": "乄callmeHH",
-   "power": 111770179,
-   "x": 511,
-   "y": 585,
+   "id": 3578288,
+   "name": "乄Tunga乄",
+   "power": 181908384,
+   "ch": 25,
+   "x": 570,
+   "y": 632,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 42037402,
-   "name": "Kalitov",
-   "power": 111493324,
-   "x": 512,
-   "y": 552,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 81371949,
-   "name": "ᴮˢ Alexandr",
-   "power": 111150550,
-   "x": 537,
-   "y": 392,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 187152965,
-   "name": "ᵏˢBeasty",
-   "power": 111134201,
-   "x": 539,
-   "y": 585,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 187152986,
-   "name": "ᵏˢBeauty",
-   "power": 110830162,
-   "x": 537,
-   "y": 585,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 56880803,
-   "name": "wargod あ",
-   "power": 110814683,
-   "x": 516,
-   "y": 688,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 61601205,
-   "name": "ᴮᴮ HŌSS",
-   "power": 108891974,
-   "x": 529,
-   "y": 636,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3396027/2026-08-29/352553C46DDE49554B3FDDD78B6610E9_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_257.png"
   },
   {
    "id": 181889772,
    "name": "Siɴ",
-   "power": 108468382,
-   "x": 540,
-   "y": 575,
+   "power": 171892892,
+   "ch": 25,
+   "x": 547,
+   "y": 614,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/37134921/2026-09-27/B867879A94C0745B750F80A928D1C74F_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_257.png"
   },
   {
-   "id": 15241524,
-   "name": "FluffyPrime",
-   "power": 106607425,
-   "x": 552,
-   "y": 618,
+   "id": 34184453,
+   "name": "Atummys",
+   "power": 167354030,
+   "ch": 25,
+   "x": 512,
+   "y": 600,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 172860385,
-   "name": "UnDeaDﾠ",
-   "power": 106082903,
-   "x": 713,
-   "y": 708,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 84427607,
-   "name": "Quarks",
-   "power": 105852371,
-   "x": 516,
-   "y": 570,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 9497618,
-   "name": "Snorlax乂아현",
-   "power": 105788554,
-   "x": 570,
-   "y": 654,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 12575917,
-   "name": "TugyCimoşBonny",
-   "power": 105527821,
-   "x": 748,
-   "y": 623,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 63917907,
-   "name": "Von Es0x",
-   "power": 104932940,
-   "x": 549,
-   "y": 594,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 36763906,
-   "name": "Mandie Korr ⽕",
-   "power": 104841431,
-   "x": 510,
-   "y": 552,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 106233852,
-   "name": "NamNT",
-   "power": 104519377,
-   "x": 609,
-   "y": 627,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 76825380,
-   "name": "ᴷˢDubai Baby",
-   "power": 104439537,
-   "x": 554,
-   "y": 618,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 41726928,
-   "name": "StealthTea",
-   "power": 104380207,
-   "x": 557,
-   "y": 654,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 122967445,
-   "name": "乂ᴴᴸZeN乂",
-   "power": 104128691,
-   "x": 605,
-   "y": 687,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 24801096,
-   "name": "ᵏˢJoGurt",
-   "power": 104059320,
-   "x": 541,
-   "y": 620,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 14631932,
-   "name": "sic 吉 利",
-   "power": 103882490,
-   "x": 655,
-   "y": 715,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 59191248,
-   "name": "JJexe",
-   "power": 103547825,
-   "x": 544,
-   "y": 573,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 189481599,
-   "name": "ˢᴹCrash",
-   "power": 102899297,
-   "x": 536,
-   "y": 615,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 177603616,
-   "name": "ʙᴇ 乂 ᴠɴ",
-   "power": 102592889,
-   "x": 549,
-   "y": 589,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 62714394,
-   "name": "RVoid",
-   "power": 102377057,
-   "x": 558,
-   "y": 627,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 24390030,
-   "name": "Mr Click",
-   "power": 101876224,
-   "x": 516,
-   "y": 611,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 12138267,
-   "name": "ᵍᵛᵒ Macro",
-   "power": 100660948,
-   "x": 572,
-   "y": 604,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 181897443,
-   "name": "Vyseone",
-   "power": 100213697,
-   "x": 555,
-   "y": 627,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/26372870/2026-09-20/6BDD1A1C69D548B53A6BB40C4A4619C2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 123397041,
    "name": "bLn",
-   "power": 100118339,
-   "x": 519,
-   "y": 597,
+   "power": 165705457,
+   "ch": 25,
+   "x": 520,
+   "y": 593,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/99363978/2026-01-24/8FA6524A15B75B9224B3394D029A343B_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_257.png"
   },
   {
-   "id": 181325981,
-   "name": "Docmen",
-   "power": 99881103,
-   "x": 525,
-   "y": 603,
+   "id": 66312276,
+   "name": "ᴮᴬᴰBlade",
+   "power": 165436598,
+   "ch": 25,
+   "x": 599,
+   "y": 612,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/54318917/2024-08-12/A63B0678B8740AD45065E7CC6FF94AD2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_235.png"
   },
   {
-   "id": 72369540,
-   "name": "Jōi Bōi  x҉",
-   "power": 99793964,
+   "id": 12138267,
+   "name": "ᵍᵛᵒ Macro",
+   "power": 161357048,
+   "ch": 25,
+   "x": 508,
+   "y": 515,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/10265114/2026-08-23/C657CFEAA3ACDBDEF9C410BCC5A26AFB_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+  },
+  {
+   "id": 56592507,
+   "name": "DeadPoetic",
+   "power": 158077334,
+   "ch": 25,
+   "x": 520,
+   "y": 567,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/4176362/2026-07-11/69137177DF89F0C42A85F004279CF086_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_214.png"
+  },
+  {
+   "id": 62087397,
+   "name": "Lazy girl",
+   "power": 152468026,
+   "ch": 25,
+   "x": 522,
+   "y": 627,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/50950886/2025-09-20/AF680D9A55FADE4981AA3520488BD781_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 177401462,
+   "name": "ᴰᶜTTTTT",
+   "power": 141103431,
+   "ch": 25,
+   "x": 520,
+   "y": 527,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/1646900/2026-08-19/8176219D76BA15AFE729EE3214381EAC_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_255.png"
+  },
+  {
+   "id": 4195079,
+   "name": "Fruitdealer",
+   "power": 140465285,
+   "ch": 25,
+   "x": 542,
+   "y": 567,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/4195079/21/02/20/34251104da60bd7c_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_63.png"
+  },
+  {
+   "id": 62870564,
+   "name": "Madvillainy",
+   "power": 138745187,
+   "ch": 25,
+   "x": 518,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/51576439/2026-08-21/8EDCF6433BE99E429BC7975788AD7A9E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_62.png"
+  },
+  {
+   "id": 146834648,
+   "name": "Manual Rowan",
+   "power": 135699456,
+   "ch": 25,
+   "x": 546,
+   "y": 618,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/205706563/2026-09-03/CF5AB387756723E829091D0A0F46A07E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 3274469,
+   "name": "Just Agus",
+   "power": 130200847,
+   "ch": 25,
+   "x": 590,
+   "y": 654,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3106484/2026-09-10/3524C9CF48E6201A51B91FF731122034_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_156.png"
+  },
+  {
+   "id": 125915323,
+   "name": "MRjacksy",
+   "power": 128840801,
+   "ch": 25,
+   "x": 629,
+   "y": 480,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/100722609/2025-08-01/46BD613EF75EEE974815C561A3A86340_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_242.png"
+  },
+  {
+   "id": 22226412,
+   "name": "义ʟᴜᴋᴇ",
+   "power": 124097660,
+   "ch": 25,
+   "x": 537,
+   "y": 642,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/20212585/2026-02-25/CB58B68C057D64596C586D023FD6B9FF_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
+  },
+  {
+   "id": 84266337,
+   "name": "LINCEXMIAW",
+   "power": 123230178,
+   "ch": 25,
+   "x": 171,
+   "y": 724,
+   "alliance": "Dum6",
+   "alliance_id": 8817548,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
+   "frame": "null"
+  },
+  {
+   "id": 44393886,
+   "name": "DADDY HR BLACK",
+   "power": 120798468,
+   "ch": 25,
+   "x": 566,
+   "y": 697,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_171.png"
+  },
+  {
+   "id": 12496936,
+   "name": "十Michael十",
+   "power": 120744926,
+   "ch": 25,
+   "x": 545,
+   "y": 615,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/9437855/2026-09-24/BFF2680F6D9E57390835153F0CE610F9_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_52.png"
+  },
+  {
+   "id": 80338007,
+   "name": "Mad乂Pharaoh",
+   "power": 119712170,
+   "ch": 25,
+   "x": 361,
+   "y": 795,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/65349024/2026-05-14/900F8AA24CCF7E70B067FB85B2854D7B_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+  },
+  {
+   "id": 61626485,
+   "name": "tedd",
+   "power": 117624580,
+   "ch": 25,
+   "x": 546,
+   "y": 568,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/49208624/2026-06-01/66F66B32A0780510ABFC9B60ECA1828E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_215.png"
+  },
+  {
+   "id": 180611348,
+   "name": "XhedgeX",
+   "power": 117422988,
+   "ch": 25,
+   "x": 558,
+   "y": 629,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/78516334/2024-06-28/26F9A6703416F9ED3D856AAE2CE8617E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 56880803,
+   "name": "wargod あ",
+   "power": 115882516,
+   "ch": 25,
+   "x": 548,
+   "y": 619,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/46697941/2026-05-18/2C54F484C6B2AC4818C2A44655B51E5E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+  },
+  {
+   "id": 57841018,
+   "name": "ᵏˢ Imperius",
+   "power": 114839975,
+   "ch": 25,
+   "x": 540,
+   "y": 632,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/47533538/2026-08-22/4032B73C59D71B315F1B482A29677E78_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_235.png"
+  },
+  {
+   "id": 121038633,
+   "name": "ᴘ ᴀ i ɴ",
+   "power": 112312959,
+   "ch": 25,
+   "x": 515,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/25537178/2026-08-24/D0C82A534DCB88C64EA8F8037BF20187_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 11453030,
+   "name": "UghMan",
+   "power": 111985441,
+   "ch": 25,
+   "x": 523,
+   "y": 618,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/1251699/2026-03-31/D32CD8AD5C3D003DCDB1562FBD33914E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_120.png"
+  },
+  {
+   "id": 42037402,
+   "name": "Kalitov",
+   "power": 111889264,
+   "ch": 25,
+   "x": 512,
+   "y": 552,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/35623069/2025-04-02/D830971E90942200CF23B929EEE967A7_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_66.png"
+  },
+  {
+   "id": 187152965,
+   "name": "ᵏˢBeasty",
+   "power": 111363985,
+   "ch": 25,
+   "x": 539,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226196346/2025-06-15/8246264FE2F5A91F4C801170BBFD9244_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_249.png"
+  },
+  {
+   "id": 187152986,
+   "name": "ᵏˢBeauty",
+   "power": 111044856,
+   "ch": 25,
+   "x": 537,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226226898/2025-06-15/2E649E4810272F9A9D19A0970D0A01E3_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_249.png"
+  },
+  {
+   "id": 65236578,
+   "name": "乄callmeHH",
+   "power": 110979184,
+   "ch": 25,
+   "x": 511,
+   "y": 585,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/53407084/2026-08-15/1C472BB691CC10C05278D34E804C0F8B_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 12575917,
+   "name": "TugyCimoşBonny",
+   "power": 109518871,
+   "ch": 25,
+   "x": 748,
+   "y": 623,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/6493015/2026-08-27/AB05954A9E29F914484E2AA43FA405A2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+  },
+  {
+   "id": 61601205,
+   "name": "ᴮᴮ HŌSS",
+   "power": 109185554,
+   "ch": 25,
+   "x": 529,
+   "y": 636,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/50555991/2026-04-08/C48DA2AC13C71F8CFB690A7767628F3E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_26.png"
+  },
+  {
+   "id": 172860385,
+   "name": "UnDeaDﾠ",
+   "power": 108144962,
+   "ch": 25,
+   "x": 756,
+   "y": 630,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/220803732/2025-09-29/811B177B999650E54FCBE9F8A7DB5CC2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_224.png"
+  },
+  {
+   "id": 189481599,
+   "name": "ˢᴹCrash",
+   "power": 107983497,
+   "ch": 25,
    "x": 536,
-   "y": 647,
+   "y": 615,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/230719216/2026-09-04/8C5B10A65A596CD978762E7FB962A4A1_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_240.png"
   },
   {
-   "id": 125893923,
-   "name": "Parazzi xzy",
-   "power": 99294535,
-   "x": 495,
-   "y": 590,
+   "id": 15241524,
+   "name": "FluffyPrime",
+   "power": 106939675,
+   "ch": 25,
+   "x": 552,
+   "y": 618,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/13821596/2026-03-08/F81AF05679956670F9AE671D011F82DD_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_35.png"
   },
   {
-   "id": 141033775,
-   "name": "Roberto Rice",
-   "power": 99150465,
-   "x": 553,
-   "y": 584,
+   "id": 84427607,
+   "name": "Quarks",
+   "power": 106042057,
+   "ch": 25,
+   "x": 516,
+   "y": 570,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/68586066/2026-09-24/9211A9341C2D4FB8BC70C58C1777E89C_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+  },
+  {
+   "id": 9497618,
+   "name": "Snorlax乂아현",
+   "power": 105909144,
+   "ch": 25,
+   "x": 570,
+   "y": 654,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/8723590/2026-05-19/45A1F5978D792A00280754D7296F44FC_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_35.png"
+  },
+  {
+   "id": 36763906,
+   "name": "Mandie Korr ⽕",
+   "power": 104939839,
+   "ch": 25,
+   "x": 510,
+   "y": 552,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/31476543/2025-12-26/6FFEBAC5AA3B930412F5F34FFB9B3567_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_51.png"
+  },
+  {
+   "id": 63917907,
+   "name": "Von Es0x",
+   "power": 104919385,
+   "ch": 25,
+   "x": 549,
+   "y": 594,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/52411230/2024-08-08/77C8133942FCADAAA0E1EE8D249572C2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
   },
   {
    "id": 36177397,
    "name": "fj0r1",
-   "power": 98267090,
+   "power": 104638960,
+   "ch": 25,
    "x": 549,
    "y": 570,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/31091251/2026-03-22/D0E379EC737369F175E7F39EC5C009B7_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_257.png"
+  },
+  {
+   "id": 41726928,
+   "name": "StealthTea",
+   "power": 104589107,
+   "ch": 25,
+   "x": 557,
+   "y": 654,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1019.png",
+   "frame": "null"
+  },
+  {
+   "id": 76825380,
+   "name": "ᴷˢ Z Ø R A",
+   "power": 104468707,
+   "ch": 25,
+   "x": 554,
+   "y": 618,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/21931112/2026-09-25/4E48E6BBF3620B219B167B181B837E36_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_178.png"
+  },
+  {
+   "id": 106233852,
+   "name": "NamNT",
+   "power": 104454921,
+   "ch": 25,
+   "x": 542,
+   "y": 615,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/85899078/2026-07-09/F6025A49B3B0E2E326869AEC903C845A_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_230.png"
+  },
+  {
+   "id": 24801096,
+   "name": "ᵏˢJoGurt",
+   "power": 104373720,
+   "ch": 25,
+   "x": 541,
+   "y": 620,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/22336657/2025-12-29/5EC532E6F8197CBBF4F56033E0B3CFA8_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_120.png"
+  },
+  {
+   "id": 122967445,
+   "name": "乂ᴴᴸZeN乂",
+   "power": 104129625,
+   "ch": 25,
+   "x": 605,
+   "y": 687,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/99096641/2024-09-11/12E047188D51E27DFECC84B4B3641719_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_178.png"
+  },
+  {
+   "id": 14631932,
+   "name": "sic 吉 利",
+   "power": 103663018,
+   "ch": 25,
+   "x": 655,
+   "y": 715,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/13231803/2026-01-05/CB18E1C8AEC0DC065D1955C1AA136CAD_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
+  },
+  {
+   "id": 59191248,
+   "name": "JJexe",
+   "power": 103604615,
+   "ch": 25,
+   "x": 544,
+   "y": 573,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48609078/2026-08-01/63E50EB969BE5D272D0A67BEC8C43B65_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
+  },
+  {
+   "id": 177603616,
+   "name": "ʙᴇ 乂 ᴠɴ",
+   "power": 102739059,
+   "ch": 25,
+   "x": 549,
+   "y": 589,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/23872325/2026-09-05/D5B38EB9E865E0B7F7A5BED0329A8455_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_203.png"
+  },
+  {
+   "id": 62714394,
+   "name": "RVoid",
+   "power": 102356827,
+   "ch": 25,
+   "x": 558,
+   "y": 627,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/51450597/2025-06-07/F9B63BEC3FBADCA776BEC693C45C3B02_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+  },
+  {
+   "id": 141033775,
+   "name": "Roberto Rice",
+   "power": 102311089,
+   "ch": 25,
+   "x": 553,
+   "y": 584,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/200501527/2026-09-01/7D24D59DDD8A49169DBF976F2EFA9CD8_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
+  },
+  {
+   "id": 24390030,
+   "name": "Mr Click",
+   "power": 102093501,
+   "ch": 25,
+   "x": 516,
+   "y": 611,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/24390030/21/11/19/6201673ddde8dc6a_640x640.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_136.png"
+  },
+  {
+   "id": 181897443,
+   "name": "Vyseone",
+   "power": 101939597,
+   "ch": 25,
+   "x": 555,
+   "y": 627,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226079505/2025-06-07/62C9C4D3F8F0216CB4C4145141689C2E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_186.png"
+  },
+  {
+   "id": 181325981,
+   "name": "Docmen",
+   "power": 101011129,
+   "ch": 25,
+   "x": 521,
+   "y": 603,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
+  },
+  {
+   "id": 72369540,
+   "name": "Jōi Bōi  x҉",
+   "power": 99952574,
+   "ch": 25,
+   "x": 536,
+   "y": 647,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/57105090/2026-03-21/45931E60E541579E3A5204C5F0AF2EF9_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
+  },
+  {
+   "id": 181339894,
+   "name": "BOBOBOM",
+   "power": 99628833,
+   "ch": 25,
+   "x": 391,
+   "y": 363,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225726477/2025-09-14/EAFD590D551D409FB478E0057CDB85CB_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 167694678,
+   "name": "ᴵᵐACS",
+   "power": 99546087,
+   "ch": 25,
+   "x": 528,
+   "y": 651,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/218066429/2026-01-31/9414EADDE7A5F3833914BABEBD6AB741_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_43.png"
+  },
+  {
+   "id": 125893923,
+   "name": "Parazzi xzy",
+   "power": 99439535,
+   "ch": 25,
+   "x": 495,
+   "y": 590,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/209357726/2026-04-18/762DC4E357B3F44A4C0BFC3BB8B1A938_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_255.png"
   },
   {
    "id": 168962034,
    "name": "Hedgey f",
    "power": 98137614,
+   "ch": 25,
    "x": 485,
    "y": 567,
    "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 167561628,
-   "name": "ᴵᵐVELVETEEN",
-   "power": 97680832,
-   "x": 527,
-   "y": 660,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 0,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/168962034/23/10/13/9464c1e8ee4a4cc2_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 81418285,
    "name": "ㄴStanupwindㄱ",
    "power": 97610603,
+   "ch": 25,
    "x": 269,
    "y": 897,
    "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 167694678,
-   "name": "ᴵᵐACS",
-   "power": 97358403,
-   "x": 528,
-   "y": 651,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66162113/2026-04-22/C2F1EE43245690BA1CE5E8DF05989BF3_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 129791806,
    "name": "Crystal ツ",
-   "power": 97312041,
+   "power": 97475171,
+   "ch": 25,
    "x": 547,
    "y": 637,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 106971166,
-   "name": "Gaiseric77",
-   "power": 96408099,
-   "x": 521,
-   "y": 589,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 47165892,
-   "name": "ƑE丹尺Philii",
-   "power": 95540339,
-   "x": 540,
-   "y": 606,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/97639694/2026-01-04/53E43EF3671FEB92485A4299BDC52252_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_26.png"
   },
   {
    "id": 17983642,
    "name": "ᵏˢImperius",
-   "power": 95120510,
+   "power": 97143140,
+   "ch": 25,
    "x": 538,
    "y": 632,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16363532/2026-08-02/BB8EBA534F4AAD3FAE8116E4E9FBE987_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 180690388,
-   "name": "Ṭimekeeper",
-   "power": 94774005,
-   "x": 540,
-   "y": 595,
+   "id": 167561628,
+   "name": "ᴵᵐVELVETEEN",
+   "power": 96600610,
+   "ch": 25,
+   "x": 527,
+   "y": 660,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/217967631/2026-03-28/2F4BAD4B0ACCAC60C0AD950A76D61E0A_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_7.png"
   },
   {
-   "id": 35363908,
-   "name": "Caᴍi",
-   "power": 94335195,
-   "x": 508,
-   "y": 570,
+   "id": 106971166,
+   "name": "Gaiseric77",
+   "power": 96315369,
+   "ch": 25,
+   "x": 521,
+   "y": 589,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 66962606,
-   "name": "ᴰᵃʳk ヽWolf",
-   "power": 93638040,
-   "x": 477,
-   "y": 602,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 166376005,
-   "name": "유타 YutaA",
-   "power": 93584531,
-   "x": 529,
-   "y": 582,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 177985077,
-   "name": "乂Qin乂",
-   "power": 92757460,
-   "x": 575,
-   "y": 648,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 62087397,
-   "name": "Lazy girl",
-   "power": 92281429,
-   "x": 522,
-   "y": 627,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 140929400,
-   "name": "xDaMeqee",
-   "power": 91584258,
-   "x": 519,
-   "y": 631,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/85070397/2025-07-28/746C9312DEC1C493501432EDB65719A0_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_239.png"
   },
   {
    "id": 33612909,
    "name": "Pekka Da Vinci",
-   "power": 91430026,
-   "x": 600,
+   "power": 96310806,
+   "ch": 25,
+   "x": 565,
+   "y": 597,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/29435568/2026-05-21/8B2D14E35E787ACD922DB7E5330D60EC_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_257.png"
+  },
+  {
+   "id": 47165892,
+   "name": "ƑE丹尺Philii",
+   "power": 95644409,
+   "ch": 25,
+   "x": 540,
+   "y": 606,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/28340447/2025-05-11/CB79B9E9D46344DC5BDDA44E2DDB083E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+  },
+  {
+   "id": 180690388,
+   "name": "Ṭimekeeper",
+   "power": 94954385,
+   "ch": 25,
+   "x": 540,
+   "y": 595,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225354342/2025-11-12/EE8F1DCBA8DD27A7D8F5E5FE376E4735_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_237.png"
+  },
+  {
+   "id": 35363908,
+   "name": "Caᴍi",
+   "power": 94624935,
+   "ch": 25,
+   "x": 508,
+   "y": 570,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/30549131/2025-02-25/963E408863B4E2CC1AFD4D14612063FC_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_26.png"
+  },
+  {
+   "id": 66962606,
+   "name": "ᴰᵃʳk ヽWolf",
+   "power": 93786740,
+   "ch": 25,
+   "x": 477,
+   "y": 602,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/54808506/2024-10-31/443572EE4D3686D170B6FDF42B32874F_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_192.png"
+  },
+  {
+   "id": 166376005,
+   "name": "유타 YutaA",
+   "power": 93660431,
+   "ch": 25,
+   "x": 529,
+   "y": 582,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/203205116/2026-03-29/37F5BF74901D34D3592621239F2B3C5B_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_178.png"
+  },
+  {
+   "id": 177985077,
+   "name": "乂Qin乂",
+   "power": 92991080,
+   "ch": 25,
+   "x": 575,
    "y": 648,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/223747596/2026-04-09/84DDEB4895FAF8ACE965AACE1086524D_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_252.png"
   },
   {
-   "id": 187559868,
-   "name": "父 Itàchi",
-   "power": 90129426,
-   "x": 574,
-   "y": 644,
+   "id": 140929400,
+   "name": "xDaMeqee",
+   "power": 92098534,
+   "ch": 25,
+   "x": 519,
+   "y": 631,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 163160130,
-   "name": "LTH1810",
-   "power": 89937400,
-   "x": 666,
-   "y": 647,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 194922302,
-   "name": "MutedRiYan",
-   "power": 89567217,
-   "x": 603,
-   "y": 653,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 139352331,
-   "name": "NaRa 愛",
-   "power": 89125478,
-   "x": 681,
-   "y": 541,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 177378834,
-   "name": "Vespyr",
-   "power": 88893644,
-   "x": 510,
-   "y": 490,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 180888737,
-   "name": "Ché Ló",
-   "power": 88428773,
-   "x": 607,
-   "y": 629,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 47450866,
-   "name": "Úrsula",
-   "power": 86700973,
-   "x": 593,
-   "y": 655,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 173625852,
-   "name": "ᴿᴵ Folklore",
-   "power": 86671012,
-   "x": 506,
-   "y": 657,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/140929400/230224/027B9B224E478FFAE53B3E9C7E8B98C3_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 189147278,
    "name": "ˢᵐBat  x҉",
-   "power": 86353098,
+   "power": 91541588,
+   "ch": 25,
    "x": 519,
    "y": 690,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/228540206/2026-03-09/99FD27ABB883439CF57756713D6B11CA_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_241.png"
+  },
+  {
+   "id": 163160130,
+   "name": "LTH1810",
+   "power": 90175328,
+   "ch": 25,
+   "x": 666,
+   "y": 647,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/23663644/2025-11-09/FBC86DB37005E152CF17341FB5C72ED6_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_223.png"
+  },
+  {
+   "id": 187559868,
+   "name": "父 Itàchi",
+   "power": 90054805,
+   "ch": 25,
+   "x": 574,
+   "y": 644,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/41031387/2026-08-27/BC876A97FCCEC6462612F38562060E5E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 177378834,
+   "name": "Vespyr",
+   "power": 89827114,
+   "ch": 25,
+   "x": 544,
+   "y": 618,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1024.png",
+   "frame": "null"
+  },
+  {
+   "id": 194922302,
+   "name": "MutedRiYan",
+   "power": 89582597,
+   "ch": 25,
+   "x": 603,
+   "y": 653,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/67033381/2026-09-10/3BD00CDFDD376BF521874046621AF004_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_255.png"
+  },
+  {
+   "id": 139352331,
+   "name": "NaRa 愛",
+   "power": 89357824,
+   "ch": 25,
+   "x": 681,
+   "y": 541,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/106892650/2026-03-18/22A1ECEE5482741300ACC3AE19471752_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_227.png"
+  },
+  {
+   "id": 81371949,
+   "name": "ᴮˢ Alexandr",
+   "power": 89326176,
+   "ch": 25,
+   "x": 539,
+   "y": 634,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "null"
+  },
+  {
+   "id": 47450866,
+   "name": "Úrsula",
+   "power": 88507721,
+   "ch": 25,
+   "x": 593,
+   "y": 655,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39536876/2026-09-03/DB33F3EFE1E4438E58753EB43A981A30_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_16.png"
+  },
+  {
+   "id": 180888737,
+   "name": "Ché Ló",
+   "power": 88434603,
+   "ch": 25,
+   "x": 607,
+   "y": 629,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24862710/2026-08-22/434EB998AFE438C106A6D17FE9AFBD67_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 173625852,
+   "name": "ᴿᴵ Folklore",
+   "power": 86707362,
+   "ch": 25,
+   "x": 506,
+   "y": 657,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_SP_01.png",
+   "frame": "null"
   },
   {
    "id": 14360461,
    "name": "DEITY GREGOR",
-   "power": 84138574,
+   "power": 84214264,
+   "ch": 25,
    "x": 510,
    "y": 554,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 47481132,
-   "name": "Tony boi",
-   "power": 83799625,
-   "x": 537,
-   "y": 639,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 181884610,
-   "name": "Kasu X Redjohn",
-   "power": 83041597,
-   "x": 693,
-   "y": 570,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/14360461/22/08/01/a78ec73912dd9e67_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 195977591,
    "name": "JAMBO",
-   "power": 82962830,
+   "power": 84026162,
+   "ch": 25,
    "x": 510,
    "y": 599,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/235075947/2025-06-04/875676243780957B055CCC965EB3D5DD_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_249.png"
+  },
+  {
+   "id": 47481132,
+   "name": "Tony boi",
+   "power": 83135700,
+   "ch": 25,
+   "x": 537,
+   "y": 639,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39559663/2026-09-17/967CA4B91D24B8C4C399898C21C05B7E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 181884610,
+   "name": "Kasu X Redjohn",
+   "power": 82276697,
+   "ch": 25,
+   "x": 693,
+   "y": 568,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226080354/2026-09-04/8581238130864C0F9859A25D8A1952AB_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 59247844,
    "name": "ImpFiller",
    "power": 81487499,
+   "ch": 25,
    "x": 477,
    "y": 549,
    "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 92849951,
-   "name": "ᵏˢRedjohn",
-   "power": 81229864,
-   "x": 691,
-   "y": 569,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-22/ABFD57E423CDB2FD44CD72798414FDE9_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 98976292,
    "name": "Quackhead",
-   "power": 80663498,
+   "power": 80936071,
+   "ch": 25,
    "x": 579,
    "y": 659,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/80371512/2026-05-04/7A93DA1F312C14F5C7C26E33572495F1_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 92849951,
+   "name": "ᵏˢRedjohn",
+   "power": 80890458,
+   "ch": 25,
+   "x": 691,
+   "y": 569,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/75391227/2026-08-25/DF793A72BCCFB19E29D2A2056F616D51_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_203.png"
   },
   {
    "id": 123632767,
    "name": "sakugame",
-   "power": 78578358,
+   "power": 78574944,
+   "ch": 25,
    "x": 539,
    "y": 656,
    "alliance": "KS26",
-   "alliance_id": 6999883
-  },
-  {
-   "id": 197761224,
-   "name": "Yamil Angura",
-   "power": 76266425,
-   "x": 574,
-   "y": 610,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 181339894,
-   "name": "BOBOBOM",
-   "power": 76262216,
-   "x": 391,
-   "y": 363,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 177401462,
-   "name": "ᴰᶜTTTTT",
-   "power": 76251291,
-   "x": 520,
-   "y": 527,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999883,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/1706436/2025-02-19/59027717377299B08B3F6D4888178546_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_171.png"
   },
   {
    "id": 181566082,
    "name": "Lazy saku",
-   "power": 76242469,
+   "power": 76304032,
+   "ch": 25,
    "x": 536,
    "y": 652,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/1706436/2025-07-26/922F9F5382EEFF550A7418B14B2ACC54_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
+  },
+  {
+   "id": 197761224,
+   "name": "Yamil Angura",
+   "power": 76269098,
+   "ch": 25,
+   "x": 574,
+   "y": 610,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/106986913/2026-02-26/0162B3EA6ACE4AA51A025CEB206E7430_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_233.png"
   },
   {
    "id": 177753013,
    "name": "Deeww",
-   "power": 68003052,
-   "x": 581,
-   "y": 374,
+   "power": 68996586,
+   "ch": 25,
+   "x": 717,
+   "y": 434,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/223605429/2025-11-15/3414E0E9B7BD27EC962AF84B11EE1B7C_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 173033473,
    "name": "Zander Snow",
-   "power": 60721418,
+   "power": 61134225,
+   "ch": 25,
    "x": 180,
    "y": 703,
    "alliance": "usr",
-   "alliance_id": 7798939
-  },
-  {
-   "id": 181810641,
-   "name": "Lily Rei",
-   "power": 59159113,
-   "x": 486,
-   "y": 534,
-   "alliance": "KS26",
-   "alliance_id": 6999883
-  },
-  {
-   "id": 130335909,
-   "name": "Mrjacksysfarm1",
-   "power": 58362378,
-   "x": 628,
-   "y": 483,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 171143946,
-   "name": "Dcq",
-   "power": 57257341,
-   "x": 117,
-   "y": 665,
-   "alliance": "JJ26",
-   "alliance_id": 7002385
-  },
-  {
-   "id": 105214067,
-   "name": "선덕",
-   "power": 56873830,
-   "x": 299,
-   "y": 892,
-   "alliance": "V26V",
-   "alliance_id": 8010884
+   "alliance_id": 7798939,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head18.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 194926633,
    "name": "RiriYan",
-   "power": 56619757,
+   "power": 59383381,
+   "ch": 25,
    "x": 600,
    "y": 653,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/234352238/2026-06-09/43A7BD5F192A5455452A49C9EE4A0341_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
-   "id": 161100152,
-   "name": "Big doggg",
-   "power": 55687606,
-   "x": 429,
-   "y": 237,
-   "alliance": "",
-   "alliance_id": 0
+   "id": 181810641,
+   "name": "Lily Rei",
+   "power": 59153799,
+   "ch": 25,
+   "x": 486,
+   "y": 534,
+   "alliance": "KS26",
+   "alliance_id": 6999883,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16561320/2026-07-22/5719129FED9A00947F5324AD8BFE75FA_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 130335909,
+   "name": "Mrjacksysfarm1",
+   "power": 59064943,
+   "ch": 25,
+   "x": 628,
+   "y": 483,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_SP_01.png",
+   "frame": "null"
+  },
+  {
+   "id": 171143946,
+   "name": "Dcq",
+   "power": 58813918,
+   "ch": 25,
+   "x": 117,
+   "y": 665,
+   "alliance": "JJ26",
+   "alliance_id": 7002385,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head03.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 105214067,
+   "name": "선덕",
+   "power": 56993830,
+   "ch": 25,
+   "x": 299,
+   "y": 892,
+   "alliance": "V26V",
+   "alliance_id": 8010884,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/427619/2025-12-06/9CB3D2D90BDFAD1A5F2E83243DA820F4_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_105.png"
   },
   {
    "id": 49507891,
    "name": "Godlight1",
    "power": 54130970,
+   "ch": 25,
    "x": 30,
    "y": 1125,
    "alliance": "KsT",
-   "alliance_id": 7007454
+   "alliance_id": 7007454,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 71342876,
+   "name": "Red X Blade",
+   "power": 50576530,
+   "ch": 25,
+   "x": 619,
+   "y": 582,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/71342876/23/07/09/ef165dbc72ecee98_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 60252602,
    "name": "JJexeAsec",
    "power": 49625539,
+   "ch": 25,
    "x": 540,
    "y": 570,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48609078/2025-10-09/72FC238E403DEE98CBC176D0AB220E1A_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 137007131,
    "name": "Pharaoh Rally 1",
-   "power": 47705435,
+   "power": 47862587,
+   "ch": 25,
    "x": 783,
    "y": 598,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 71342876,
-   "name": "Red X Blade",
-   "power": 46716047,
-   "x": 570,
-   "y": 600,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/104863555/2024-11-08/4EDC3F2BFD5AA109B9E52CBB1853D4CD_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 168243930,
    "name": "Pharaoh Rally 2",
-   "power": 45596882,
+   "power": 45799598,
+   "ch": 25,
    "x": 360,
    "y": 799,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head15.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 62197058,
    "name": "mini lazygirl 0",
-   "power": 44775984,
+   "power": 44787019,
+   "ch": 25,
    "x": 522,
    "y": 625,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 165034873,
-   "name": "メIT4CHIメ",
-   "power": 44660430,
-   "x": 302,
-   "y": 1129,
-   "alliance": "JJ26",
-   "alliance_id": 7002385
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_131.png"
   },
   {
    "id": 137413791,
    "name": "Pharaoh Rally 3",
-   "power": 44558424,
-   "x": 505,
-   "y": 795,
+   "power": 44739696,
+   "ch": 25,
+   "x": 501,
+   "y": 797,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/200691483/2026-04-15/1F2B8B41751AC2F51676D6C1F9A71484_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 127026359,
-   "name": "bLnq",
-   "power": 41828170,
-   "x": 519,
-   "y": 595,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "id": 165034873,
+   "name": "メIT4CHIメ",
+   "power": 44684857,
+   "ch": 25,
+   "x": 302,
+   "y": 1129,
+   "alliance": "JJ26",
+   "alliance_id": 7002385,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/165034873/23/08/05/144c6ba0b9d3b48f_600x600.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
   },
   {
    "id": 178310650,
    "name": "Tidak Aktif",
-   "power": 41511288,
+   "power": 42878818,
+   "ch": 25,
    "x": 82,
    "y": 865,
    "alliance": "26DW",
-   "alliance_id": 8792724
+   "alliance_id": 8792724,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
+  },
+  {
+   "id": 127026359,
+   "name": "bLnq",
+   "power": 41921402,
+   "ch": 25,
+   "x": 519,
+   "y": 595,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head18.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 79718473,
    "name": "Blade x Imp 4",
-   "power": 41311985,
+   "power": 40811871,
+   "ch": 25,
    "x": 853,
    "y": 493,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
+   "frame": "null"
   },
   {
    "id": 84435338,
    "name": "Vespyr Farm",
-   "power": 40599034,
-   "x": 609,
-   "y": 591,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "power": 40635675,
+   "ch": 25,
+   "x": 541,
+   "y": 617,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/84435338/21/06/05/84c8def1913fbcd9_471x471.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_56.png"
   },
   {
    "id": 85537673,
    "name": "Bobobom Fill",
-   "power": 40316475,
-   "x": 571,
-   "y": 609,
+   "power": 40338240,
+   "ch": 25,
+   "x": 389,
+   "y": 361,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/69501045/2025-08-11/3E31637E44AAD114D6845701D58D756D_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 188312794,
    "name": "LittleBeasty",
-   "power": 39526373,
+   "power": 39613173,
+   "ch": 25,
    "x": 645,
    "y": 582,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/226196346/2024-10-13/8F7727B3CD1DF6A57543B608222A0967_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 171168008,
+   "name": "Hello33",
+   "power": 39249381,
+   "ch": 25,
+   "x": 120,
+   "y": 659,
+   "alliance": "JJ26",
+   "alliance_id": 7002385,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 7578021,
+   "name": "AgusFiller",
+   "power": 39181464,
+   "ch": 25,
+   "x": 509,
+   "y": 812,
+   "alliance": "26GS",
+   "alliance_id": 6999993,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3106484/2026-08-31/3C3DC3EBC2F5BF49E1FC6EC777A039C2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_190.png"
   },
   {
    "id": 108252525,
    "name": "Gaiseric Farm",
    "power": 39059823,
+   "ch": 25,
    "x": 825,
    "y": 360,
    "alliance": "26DW",
-   "alliance_id": 8792724
-  },
-  {
-   "id": 171168008,
-   "name": "Hello33",
-   "power": 38985325,
-   "x": 120,
-   "y": 659,
-   "alliance": "JJ26",
-   "alliance_id": 7002385
-  },
-  {
-   "id": 7578021,
-   "name": "AgusFiller",
-   "power": 38952108,
-   "x": 588,
-   "y": 655,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 8792724,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/108252525/22/01/17/601a5cafb7add0ad_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 119626819,
    "name": "Khanhvan",
-   "power": 38242574,
+   "power": 38487835,
+   "ch": 25,
    "x": 282,
    "y": 1078,
    "alliance": "V26V",
-   "alliance_id": 8010884
+   "alliance_id": 8010884,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head03.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 188312797,
    "name": "Littlebeauty",
-   "power": 37833107,
+   "power": 37913261,
+   "ch": 25,
    "x": 642,
    "y": 582,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/226226898/2024-10-13/627AAD140ABB8276BDC19F59CE5F8D11_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 165136641,
    "name": "Pharaoh Rally 4",
-   "power": 37318908,
+   "power": 37500408,
+   "ch": 25,
    "x": 360,
    "y": 793,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/216671625/2026-07-25/5792AB7CDF309BCD7D10F1BE259214F1_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 125711395,
    "name": "HH Fill",
-   "power": 36862327,
+   "power": 36903127,
+   "ch": 25,
    "x": 633,
    "y": 850,
    "alliance": "ES26",
-   "alliance_id": 7000105
+   "alliance_id": 7000105,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head15.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 141434780,
-   "name": "Rice Camp",
-   "power": 36566226,
-   "x": 550,
-   "y": 586,
+   "id": 138351205,
+   "name": "sic一針見血",
+   "power": 36641979,
+   "ch": 25,
+   "x": 656,
+   "y": 712,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/138351205/231210/82DC6E04E559590DBBA8726F2B82F6A2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 177881453,
    "name": "Şøũł",
    "power": 36555922,
+   "ch": 25,
    "x": 957,
    "y": 1050,
    "alliance": "V26V",
-   "alliance_id": 8010884
-  },
-  {
-   "id": 138351205,
-   "name": "sic一針見血",
-   "power": 36464595,
-   "x": 656,
-   "y": 712,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 8010884,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/29651334/2024-10-05/C33B7061A8B90B46720745372FF24F91_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 105538766,
    "name": "sicA",
-   "power": 36125251,
+   "power": 36463529,
+   "ch": 25,
    "x": 657,
    "y": 716,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/105538766/231210/51A73D6A0755D04C6BF0CFE5B2DAAA14_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 141434780,
+   "name": "Rice Camp",
+   "power": 36446497,
+   "ch": 25,
+   "x": 550,
+   "y": 586,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/141434780/221019/3728CB0DA7BAC7BD2E8A86885E0574C8_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 105543911,
    "name": "sicM",
-   "power": 36057531,
+   "power": 36439395,
+   "ch": 25,
    "x": 655,
    "y": 717,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/105543911/231210/2158165E343A617385ECAC727493757A_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 79720031,
    "name": "Blade x Imp 3",
-   "power": 35461079,
+   "power": 35397403,
+   "ch": 25,
    "x": 853,
    "y": 491,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head07.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+  },
+  {
+   "id": 45505522,
+   "name": "fj0r1 spot",
+   "power": 34648660,
+   "ch": 25,
+   "x": 550,
+   "y": 568,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/45505522/231207/A99848E315180E4F2A8E3B5A743A6ED3_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 180422269,
    "name": "BabyFish",
    "power": 34633727,
+   "ch": 25,
    "x": 633,
    "y": 636,
    "alliance": "26DW",
-   "alliance_id": 8792724
-  },
-  {
-   "id": 45505522,
-   "name": "fj0r1 spot",
-   "power": 34534908,
-   "x": 550,
-   "y": 569,
-   "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 181907785,
-   "name": "vinega4l",
-   "power": 34495530,
-   "x": 155,
-   "y": 725,
-   "alliance": "DA-S",
-   "alliance_id": 7003472
+   "alliance_id": 8792724,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24831864/2026-01-30/76AB117A791E33928C26E428EC26D0B9_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181612601,
    "name": "Not kylin",
    "power": 34489833,
+   "ch": 25,
    "x": 62,
    "y": 1061,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/216612883/2026-01-25/8606D08612C99895BC041E7F1590CE42_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 181907785,
+   "name": "vinega4l",
+   "power": 34349109,
+   "ch": 25,
+   "x": 155,
+   "y": 725,
+   "alliance": "DA-S",
+   "alliance_id": 7003472,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
+   "frame": "null"
   },
   {
    "id": 157228253,
    "name": "TTTTTacheR",
-   "power": 33951382,
+   "power": 34154022,
+   "ch": 25,
    "x": 524,
    "y": 526,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 135655598,
    "name": "Mrjacksyfarm2",
    "power": 32977792,
+   "ch": 25,
    "x": 748,
    "y": 837,
    "alliance": "26DW",
-   "alliance_id": 8792724
+   "alliance_id": 8792724,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/135655598/23/07/10/f9bb6340f8e58063_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 153263025,
    "name": "Macro6",
-   "power": 32833470,
-   "x": 78,
-   "y": 678,
-   "alliance": "",
-   "alliance_id": 0
+   "power": 32879457,
+   "ch": 25,
+   "x": 585,
+   "y": 573,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/209766909/2026-06-11/E0A0679D53F11EB7EB64AB992985F9B9_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 57638822,
+   "name": "StealthTea Farm",
+   "power": 32745638,
+   "ch": 25,
+   "x": 560,
+   "y": 654,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 123885062,
    "name": "Zen F1",
-   "power": 32565320,
+   "power": 32560426,
+   "ch": 25,
    "x": 603,
    "y": 688,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
+   "frame": "null"
   },
   {
    "id": 28282173,
    "name": "BLOOd",
    "power": 32516311,
+   "ch": 25,
    "x": 597,
    "y": 594,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/28282173/20/08/21/65790bdbe5fa0c7a_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_9.png"
   },
   {
    "id": 181886893,
    "name": "Reino d Aljezur",
-   "power": 32492716,
+   "power": 32496862,
+   "ch": 25,
    "x": 190,
    "y": 1170,
    "alliance": "JJ26",
-   "alliance_id": 7002385
-  },
-  {
-   "id": 57638822,
-   "name": "StealthTea Farm",
-   "power": 32448941,
-   "x": 560,
-   "y": 654,
-   "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 181867935,
-   "name": "Conqueror101",
-   "power": 32259805,
-   "x": 924,
-   "y": 613,
-   "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 7002385,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head18.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 4421367,
    "name": "Dead Poetic",
-   "power": 32159144,
-   "x": 517,
+   "power": 32384712,
+   "ch": 25,
+   "x": 518,
    "y": 567,
    "alliance": "KS26",
-   "alliance_id": 6999883
+   "alliance_id": 6999883,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1005.png",
+   "frame": "null"
+  },
+  {
+   "id": 181888455,
+   "name": "Javatar",
+   "power": 32345548,
+   "ch": 25,
+   "x": 1044,
+   "y": 83,
+   "alliance": "Btl",
+   "alliance_id": 7003209,
+   "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/226059150/2024-06-22/FFD71522A539AE9A5A47204BBD0868FE_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 164134296,
+   "name": "Z Ø R A F1 S",
+   "power": 32090764,
+   "ch": 25,
+   "x": 792,
+   "y": 663,
+   "alliance": "Aw26",
+   "alliance_id": 6999968,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181916437,
    "name": "nayulu",
    "power": 32082133,
+   "ch": 25,
    "x": 241,
    "y": 865,
    "alliance": "KsT",
-   "alliance_id": 7007454
-  },
-  {
-   "id": 181381112,
-   "name": "Redjohn rally2",
-   "power": 31941511,
-   "x": 872,
-   "y": 291,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 7007454,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head19.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 174184323,
    "name": "CH25 Folklore",
-   "power": 31716371,
+   "power": 32070810,
+   "ch": 25,
    "x": 508,
    "y": 656,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 164134296,
-   "name": "Dubaibaby F11 S",
-   "power": 31653664,
-   "x": 792,
-   "y": 663,
-   "alliance": "Aw26",
-   "alliance_id": 6999968
+   "id": 181381112,
+   "name": "Redjohn rally2",
+   "power": 32025383,
+   "ch": 25,
+   "x": 148,
+   "y": 485,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225780444/2026-08-31/6D02CF47895100EB0C66F3E4DA4A7DCB_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 157954006,
    "name": "FlufftimusFarm8",
-   "power": 31433339,
+   "power": 31430294,
+   "ch": 25,
    "x": 606,
    "y": 599,
-   "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 181888455,
-   "name": "Javatar",
-   "power": 31417076,
-   "x": 1044,
-   "y": 83,
-   "alliance": "Btl",
-   "alliance_id": 7003209
-  },
-  {
-   "id": 85656727,
-   "name": "85Alex85 fer 1",
-   "power": 31211521,
-   "x": 538,
-   "y": 394,
-   "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/29307610/2026-02-19/FF6A5BC4373861032458700ABC401DEE_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 113577275,
    "name": "Blade x Imp 1",
-   "power": 30982687,
+   "power": 31083499,
+   "ch": 25,
    "x": 820,
    "y": 99,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/92179196/2026-08-22/03EBD005C409C37CF359020A8D25F34E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 72837364,
    "name": "tugbafarmfiller",
-   "power": 30938743,
+   "power": 31059367,
+   "ch": 25,
    "x": 746,
    "y": 623,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/58080240/2026-03-09/925C77AA2EC6DC91A3671552971A84F1_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
+  },
+  {
+   "id": 178560361,
+   "name": "Deeww Filler",
+   "power": 31029788,
+   "ch": 25,
+   "x": 715,
+   "y": 434,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/223854506/2025-02-25/3414E0E9B7BD27EC962AF84B11EE1B7C_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 181965217,
    "name": "MadV filler1",
    "power": 30846952,
+   "ch": 25,
    "x": 709,
    "y": 642,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226109725/2025-08-01/D1C665D1FCEF84848A2FEC24560D3C13_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181880216,
    "name": "Dcking777",
    "power": 30844056,
+   "ch": 25,
    "x": 751,
    "y": 294,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head15.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 95066361,
+   "name": "Jambodoesforts",
+   "power": 30783129,
+   "ch": 25,
+   "x": 309,
+   "y": 635,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/74076865/2026-02-14/DA09AAB6F0B70777070DF08456E49B4B_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 176790985,
    "name": "ohooho",
    "power": 30672976,
+   "ch": 25,
    "x": 1084,
    "y": 959,
    "alliance": "AE26",
-   "alliance_id": 7003794
-  },
-  {
-   "id": 178560361,
-   "name": "Deeww Filler",
-   "power": 30672464,
-   "x": 584,
-   "y": 374,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 95066361,
-   "name": "Jambodoesforts",
-   "power": 30619005,
-   "x": 309,
-   "y": 635,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 130067639,
-   "name": "Redjohn rally",
-   "power": 30405731,
-   "x": 869,
-   "y": 288,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 7003794,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
   },
   {
    "id": 85480855,
    "name": "Quarks ᵉˣ 2",
-   "power": 30296951,
-   "x": 541,
-   "y": 612,
+   "power": 30457887,
+   "ch": 25,
+   "x": 518,
+   "y": 571,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/69453521/2025-04-17/1972C55BDD2F03CF8D06A51563D0BF21_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 105202460,
    "name": "Quackhead1",
-   "power": 30289884,
+   "power": 30442034,
+   "ch": 25,
    "x": 577,
    "y": 665,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/105202460/22/08/18/11d815414aa530af_127x127.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 130067639,
+   "name": "Redjohn rally",
+   "power": 30404027,
+   "ch": 25,
+   "x": 150,
+   "y": 484,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225396141/2025-10-22/38ABC73C2CCE7D327AD64D1CBF86B6C0_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 6984480,
    "name": "TuggyBotfarm2",
-   "power": 30018711,
+   "power": 30178987,
+   "ch": 25,
    "x": 652,
    "y": 857,
    "alliance": "ES26",
-   "alliance_id": 7000105
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/6493015/2026-07-01/642F8412F447A30166D1533F534EF590_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 165919886,
    "name": "RVoid 8",
-   "power": 29945863,
+   "power": 30037471,
+   "ch": 25,
    "x": 654,
    "y": 585,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/51450597/2024-07-31/EC71525424A7169AC336F20E774300DB_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_174.png"
   },
   {
    "id": 130984867,
    "name": "RVoid 6",
-   "power": 29904524,
+   "power": 29991085,
+   "ch": 25,
    "x": 600,
    "y": 655,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/130984867/230713/689C74C7CF1450CE1CF612CC7B8DBCA4_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_144.png"
   },
   {
    "id": 125721415,
    "name": "RVoid 4",
-   "power": 29625042,
+   "power": 29706644,
+   "ch": 25,
    "x": 555,
    "y": 555,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/125721415/23/10/06/5a17236011de8129_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_137.png"
   },
   {
    "id": 148140511,
    "name": "RVoid 7",
-   "power": 29428671,
+   "power": 29516082,
+   "ch": 25,
    "x": 564,
    "y": 681,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/148140511/23/10/06/c48b9a2e23dc24bf_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 165521285,
    "name": "Kalî",
    "power": 29184478,
+   "ch": 25,
    "x": 513,
    "y": 542,
    "alliance": "26DW",
-   "alliance_id": 8792724
+   "alliance_id": 8792724,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/165521285/23/08/12/13d586bc70d19372_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_3.png"
   },
   {
-   "id": 49870429,
-   "name": "Blood farm0",
-   "power": 28921542,
-   "x": 516,
-   "y": 583,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 54738871,
-   "name": "AzGeda",
-   "power": 28859876,
-   "x": 668,
-   "y": 239,
-   "alliance": "GV26",
-   "alliance_id": 7000116
-  },
-  {
-   "id": 178080960,
-   "name": "TUĞRULHAN",
-   "power": 28858984,
-   "x": 190,
-   "y": 509,
-   "alliance": "V26V",
-   "alliance_id": 8010884
-  },
-  {
-   "id": 66928853,
-   "name": "Lazyfarm 7",
-   "power": 28693304,
-   "x": 464,
-   "y": 566,
+   "id": 85656727,
+   "name": "85Alex85 fer 1",
+   "power": 29083656,
+   "ch": 25,
+   "x": 538,
+   "y": 394,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181880508,
    "name": "James  Brodacz",
-   "power": 28681227,
+   "power": 29003215,
+   "ch": 25,
    "x": 580,
    "y": 1172,
    "alliance": "ILL",
-   "alliance_id": 7002036
+   "alliance_id": 7002036,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head09.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 54738871,
+   "name": "AzGeda",
+   "power": 28982374,
+   "ch": 25,
+   "x": 668,
+   "y": 239,
+   "alliance": "GV26",
+   "alliance_id": 7000116,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/44931423/2026-08-26/63148FF2292C9EF958D9DDB0395FD259_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 49870429,
+   "name": "Blood farm0",
+   "power": 28896826,
+   "ch": 25,
+   "x": 516,
+   "y": 583,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/49870429/23/04/19/4f17f8d3894606fb_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_14.png"
+  },
+  {
+   "id": 178080960,
+   "name": "TUĞRULHAN",
+   "power": 28859832,
+   "ch": 25,
+   "x": 190,
+   "y": 509,
+   "alliance": "V26V",
+   "alliance_id": 8010884,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head21.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
+  },
+  {
+   "id": 66928853,
+   "name": "Lazyfarm 7",
+   "power": 28770534,
+   "ch": 25,
+   "x": 464,
+   "y": 566,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181855305,
    "name": "Дим Дим",
-   "power": 28635935,
+   "power": 28749967,
+   "ch": 25,
    "x": 103,
    "y": 887,
    "alliance": "DH26",
-   "alliance_id": 7000620
+   "alliance_id": 7000620,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 62088620,
    "name": "mini lazygirl 5",
-   "power": 28585944,
+   "power": 28714372,
+   "ch": 25,
    "x": 520,
    "y": 627,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head20.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 86884204,
    "name": "Quarks ᵉˣ 1",
-   "power": 28519886,
+   "power": 28688394,
+   "ch": 25,
    "x": 514,
    "y": 570,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
+   "frame": "null"
   },
   {
    "id": 70848183,
    "name": "RVoid 1",
-   "power": 28457146,
+   "power": 28551816,
+   "ch": 25,
    "x": 606,
    "y": 618,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/70848183/230713/BFC06C78C2ACFEAC17899AEDCD4C4281_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
   },
   {
    "id": 67699627,
    "name": "mini Lazygirl 1",
-   "power": 28378210,
+   "power": 28318543,
+   "ch": 25,
    "x": 522,
    "y": 629,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 25270924,
    "name": "BLOOD 00",
    "power": 28032433,
+   "ch": 25,
    "x": 568,
    "y": 573,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/25270924/23/04/12/0311bc060bd52c8f_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 110111811,
-   "name": "طارق ابن زياد 2",
-   "power": 27986083,
-   "x": 185,
-   "y": 182,
+   "id": 50840836,
+   "name": "Legoshi F1",
+   "power": 27737410,
+   "ch": 25,
+   "x": 339,
+   "y": 1068,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/42067297/2025-12-05/7DA0C47FCEEA4F1EBFCC43738CFC1A46_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 85611941,
    "name": "ʜᴇx CAMEL F",
    "power": 27725429,
+   "ch": 25,
    "x": 171,
    "y": 722,
    "alliance": "AE26",
-   "alliance_id": 7003794
+   "alliance_id": 7003794,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head17.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 136481232,
    "name": "bLn F5",
-   "power": 27469630,
+   "power": 27572030,
+   "ch": 25,
    "x": 537,
    "y": 696,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 125266788,
    "name": "RVoid 3",
-   "power": 27329336,
+   "power": 27369332,
+   "ch": 25,
    "x": 582,
    "y": 580,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/125266788/230713/391CAA762A5928A33E424A8762CF676D_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_131.png"
   },
   {
    "id": 177673953,
    "name": "CR Hoang x҉26",
    "power": 27317539,
+   "ch": 25,
    "x": 483,
    "y": 970,
    "alliance": "AE26",
-   "alliance_id": 7003794
+   "alliance_id": 7003794,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/24579148/2024-07-25/0486468929B9CD89F8572925D0A9838A_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
   },
   {
    "id": 27432191,
    "name": "Blood 30",
    "power": 27286922,
+   "ch": 25,
    "x": 558,
    "y": 573,
    "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 183880093,
-   "name": "RVoid 9",
-   "power": 27070095,
-   "x": 626,
-   "y": 546,
-   "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 113628663,
-   "name": "Blade x Imp 2",
-   "power": 27025795,
-   "x": 820,
-   "y": 96,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/27432191/20/07/28/3307791712447de4_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181885928,
    "name": "حسان515",
-   "power": 27000412,
+   "power": 27244111,
+   "ch": 25,
    "x": 116,
    "y": 1081,
    "alliance": "GV26",
-   "alliance_id": 7000116
-  },
-  {
-   "id": 93298327,
-   "name": "Bagy fill",
-   "power": 26734279,
-   "x": 546,
-   "y": 609,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 7000116,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head06.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 195584439,
    "name": "RiriYannF",
-   "power": 26591711,
+   "power": 27195364,
+   "ch": 25,
    "x": 596,
    "y": 656,
    "alliance": "KS26",
-   "alliance_id": 6999883
+   "alliance_id": 6999883,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/234352238/2025-08-04/AF757E6C37ED61135FFB4B34B51AE4BF_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
-   "id": 181321372,
-   "name": "RoxKyy1",
-   "power": 26458376,
-   "x": 938,
-   "y": 668,
-   "alliance": "",
-   "alliance_id": 0
+   "id": 183880093,
+   "name": "RVoid 9",
+   "power": 27152187,
+   "ch": 25,
+   "x": 626,
+   "y": 546,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/51450597/2024-07-31/1A6A5155727C217B3F048A50E5DFD6C4_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
-   "id": 128407795,
-   "name": "Alex85 fer4",
-   "power": 26411563,
-   "x": 538,
-   "y": 396,
-   "alliance": "26DW",
-   "alliance_id": 8792724
+   "id": 113628663,
+   "name": "Blade x Imp 2",
+   "power": 27102595,
+   "ch": 25,
+   "x": 820,
+   "y": 96,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head14.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_4.png"
+  },
+  {
+   "id": 93298327,
+   "name": "Bagy fill",
+   "power": 26814679,
+   "ch": 25,
+   "x": 546,
+   "y": 609,
+   "alliance": "KS26",
+   "alliance_id": 6999883,
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1024.png",
+   "frame": "null"
   },
   {
    "id": 163649652,
    "name": "LTH1810 F2",
-   "power": 26373025,
+   "power": 26442245,
+   "ch": 25,
    "x": 668,
    "y": 648,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
+   "frame": "null"
   },
   {
    "id": 100656410,
    "name": "RVoid 2",
-   "power": 26204238,
+   "power": 26284717,
+   "ch": 25,
    "x": 602,
    "y": 591,
    "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 103386614,
-   "name": "85Alex85 fer 2",
-   "power": 26203010,
-   "x": 542,
-   "y": 394,
-   "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 6999899,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/100656410/230713/64F5B27E3D1BB4E099E9C40D60B2416C_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_111.png"
   },
   {
    "id": 182611259,
    "name": "Conqueror fil1",
    "power": 26172273,
+   "ch": 25,
    "x": 363,
    "y": 922,
    "alliance": "26DW",
-   "alliance_id": 8792724
+   "alliance_id": 8792724,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 170171068,
    "name": "Snorlax F8",
    "power": 26026630,
+   "ch": 25,
    "x": 461,
    "y": 768,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/102110955/2024-11-26/5510166D0E212AA2C0937C6D750096BD_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_12.png"
   },
   {
-   "id": 110730601,
-   "name": "Alex85 Fer 3",
-   "power": 25877905,
-   "x": 540,
-   "y": 393,
-   "alliance": "26DW",
-   "alliance_id": 8792724
+   "id": 124514788,
+   "name": "mini lazygirl 4",
+   "power": 25955007,
+   "ch": 25,
+   "x": 450,
+   "y": 345,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 83866668,
    "name": "Snorlax F3",
    "power": 25876926,
+   "ch": 25,
    "x": 453,
    "y": 767,
    "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 124514788,
-   "name": "mini lazygirl 4",
-   "power": 25845829,
-   "x": 450,
-   "y": 345,
-   "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/8723590/2025-08-19/419CF53E83E88AF48266565FA97A888E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 130179173,
    "name": "RVoid 5",
-   "power": 25719691,
+   "power": 25802229,
+   "ch": 25,
    "x": 569,
    "y": 587,
    "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 143178362,
-   "name": "Alex fer 8",
-   "power": 25714193,
-   "x": 541,
-   "y": 391,
-   "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 6999899,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/130179173/230713/CB29B67A25157F85239FFF440A4BCD11_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_152.png"
   },
   {
    "id": 181876418,
    "name": "华夏儿女龙",
-   "power": 25411346,
+   "power": 25515676,
+   "ch": 25,
    "x": 26,
    "y": 840,
    "alliance": "CHin",
-   "alliance_id": 7096859
+   "alliance_id": 7096859,
+   "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/226052794/2024-05-26/6996647D4F693D4D0353CC8EBD9741CA_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
+  },
+  {
+   "id": 135042069,
+   "name": "JoGurt I2",
+   "power": 25464691,
+   "ch": 25,
+   "x": 593,
+   "y": 600,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/103039133/2026-02-17/37CA48B58A28AA5C0DFB9E165F66D695_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_129.png"
+  },
+  {
+   "id": 18348269,
+   "name": "AgusFill3",
+   "power": 25433864,
+   "ch": 25,
+   "x": 505,
+   "y": 813,
+   "alliance": "26GS",
+   "alliance_id": 6999993,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3106484/2026-08-31/0D4F56EBAED92EBBC4932E78B6A2F3F1_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 108201696,
+   "name": "mini Lazygirl 2",
+   "power": 25361610,
+   "ch": 25,
+   "x": 380,
+   "y": 373,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/108201696/21/11/26/c6734f999d3093e2_720x720.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 141302158,
    "name": "Mrjacksyfarm3",
    "power": 25353277,
+   "ch": 25,
    "x": 729,
    "y": 807,
    "alliance": "26DW",
-   "alliance_id": 8792724
-  },
-  {
-   "id": 18348269,
-   "name": "AgusFill3",
-   "power": 25305528,
-   "x": 505,
-   "y": 813,
-   "alliance": "26GS",
-   "alliance_id": 6999993
-  },
-  {
-   "id": 135042069,
-   "name": "JoGurt I2",
-   "power": 25303591,
-   "x": 593,
-   "y": 600,
-   "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 108201696,
-   "name": "mini Lazygirl 2",
-   "power": 25206672,
-   "x": 380,
-   "y": 373,
-   "alliance": "LR26",
-   "alliance_id": 7000069
-  },
-  {
-   "id": 26743686,
-   "name": "Efsane3",
-   "power": 25206618,
-   "x": 573,
-   "y": 566,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 8792724,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/141302158/22/10/15/1460c0da806b84a4_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 108213642,
    "name": "mini lazygirl 3",
-   "power": 25155403,
+   "power": 25345612,
+   "ch": 25,
    "x": 265,
    "y": 151,
    "alliance": "LR26",
-   "alliance_id": 7000069
-  },
-  {
-   "id": 197564553,
-   "name": "RVoid 10",
-   "power": 25099612,
-   "x": 519,
-   "y": 491,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 7000069,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/108213642/21/11/26/1016f7baea2eeca6_720x720.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 110888169,
    "name": "Vize x҉26",
-   "power": 25052236,
+   "power": 25318316,
+   "ch": 25,
    "x": 606,
    "y": 594,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/110888169/23/09/05/6e7d254a28cb8ae8_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 26743686,
+   "name": "Efsane3",
+   "power": 25207067,
+   "ch": 25,
+   "x": 573,
+   "y": 566,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/26743686/23/02/16/cd3f57dc4c1c9ece_512x512.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 197564553,
+   "name": "RVoid 10",
+   "power": 25188366,
+   "ch": 25,
+   "x": 519,
+   "y": 491,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/51450597/2026-01-19/8BB753497162F61C4CD1A1DB5FF11F86_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 75411167,
    "name": "fjori corn",
-   "power": 24996338,
+   "power": 25123838,
+   "ch": 25,
    "x": 546,
    "y": 570,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 99635187,
    "name": "Nuri X Redjohn",
-   "power": 24954157,
+   "power": 25045941,
+   "ch": 25,
    "x": 865,
    "y": 289,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 119676982,
-   "name": "Mini tedd 1",
-   "power": 24933339,
-   "x": 540,
-   "y": 573,
-   "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 59668560,
-   "name": "Efsane4",
-   "power": 24933211,
-   "x": 576,
-   "y": 565,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 67266453,
    "name": "ᴰᵃʳkヽWolf2",
-   "power": 24872088,
+   "power": 24948888,
+   "ch": 25,
    "x": 625,
    "y": 505,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/67266453/21/10/02/5c9a3c2956322fb1_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 59668560,
+   "name": "Efsane4",
+   "power": 24935727,
+   "ch": 25,
+   "x": 576,
+   "y": 565,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3396027/2025-11-25/ED4925A45414CCCBB20DA2DAA70D6ED8_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_3.png"
   },
   {
    "id": 159615537,
    "name": "bLN F1",
-   "power": 24558396,
+   "power": 24660796,
+   "ch": 25,
    "x": 626,
    "y": 528,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 159643682,
    "name": "bLN F2",
-   "power": 24555856,
+   "power": 24658256,
+   "ch": 25,
    "x": 678,
    "y": 633,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 185626,
    "name": "KingPhillip",
-   "power": 24426365,
-   "x": 902,
-   "y": 680,
+   "power": 24453565,
+   "ch": 25,
+   "x": 777,
+   "y": 930,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
-   "id": 106022858,
-   "name": "Alex fer 6",
-   "power": 24350794,
-   "x": 542,
-   "y": 396,
+   "id": 181640725,
+   "name": "千he RIP",
+   "power": 24399615,
+   "ch": 25,
+   "x": 792,
+   "y": 113,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/213039762/2025-01-11/3C46FAB579F455690A75DE1E25F692B4_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 198408954,
+   "name": "RVoid 11",
+   "power": 24392805,
+   "ch": 25,
+   "x": 465,
+   "y": 420,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 108680753,
    "name": "SNorlax F2",
    "power": 24338968,
+   "ch": 25,
    "x": 461,
    "y": 771,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/8723590/2025-08-19/32E5B1238D0F851153A6B92F0C93981E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 190932974,
    "name": "mrjacksyfarm9",
    "power": 24333712,
+   "ch": 25,
    "x": 726,
    "y": 804,
    "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 198408954,
-   "name": "RVoid 11",
-   "power": 24310409,
-   "x": 465,
-   "y": 420,
-   "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/100722609/2024-12-04/74D28DB3781DC5C58FC9B828157D9C28_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 135240073,
    "name": "Lazyfarm 4",
-   "power": 24161975,
+   "power": 24268986,
+   "ch": 25,
    "x": 632,
    "y": 512,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head13.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 181428817,
-   "name": "Hask",
-   "power": 24161701,
-   "x": 715,
-   "y": 1163,
-   "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 181640725,
-   "name": "千he RIP",
-   "power": 23983593,
-   "x": 792,
-   "y": 113,
-   "alliance": "",
-   "alliance_id": 0
+   "id": 198465242,
+   "name": "RVoid 12",
+   "power": 24033103,
+   "ch": 25,
+   "x": 401,
+   "y": 432,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head14.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 181391850,
    "name": "a n d I n x҉26",
    "power": 23965293,
+   "ch": 25,
    "x": 578,
    "y": 60,
    "alliance": "AE26",
-   "alliance_id": 7003794
-  },
-  {
-   "id": 198465242,
-   "name": "RVoid 12",
-   "power": 23950470,
-   "x": 401,
-   "y": 432,
-   "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7003794,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/225764935/2026-08-27/DE62DC4AB5FF390E37E306811E4287A1_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_61.png"
   },
   {
    "id": 177604238,
    "name": "ʙᴇ ᴠɴ F1",
-   "power": 23798919,
+   "power": 23925346,
+   "ch": 25,
    "x": 300,
    "y": 569,
    "alliance": "26GS",
-   "alliance_id": 6999993
+   "alliance_id": 6999993,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/23872325/2026-09-22/75F9955000869D9C7D86B8C7D1AFB10A_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
    "id": 135276752,
    "name": "Lazyfarm 3",
-   "power": 23690202,
+   "power": 23826182,
+   "ch": 25,
    "x": 676,
    "y": 570,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 101865543,
    "name": "Quackhead2",
-   "power": 23673309,
+   "power": 23801029,
+   "ch": 25,
    "x": 599,
    "y": 538,
    "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 145206450,
-   "name": "85Alex85 fer 5",
-   "power": 23584523,
-   "x": 540,
-   "y": 397,
-   "alliance": "LR26",
-   "alliance_id": 7000069
-  },
-  {
-   "id": 149795333,
-   "name": "bLN ff",
-   "power": 23532189,
-   "x": 588,
-   "y": 477,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/80371512/2026-05-03/9CFBFC5BBA9BBE0E672CD10CDDECD5C5_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 80526428,
    "name": "Lazyfarm 6",
-   "power": 23531355,
+   "power": 23686519,
+   "ch": 25,
    "x": 693,
    "y": 388,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 80361703,
    "name": "Lazyfarm 5",
-   "power": 23507983,
+   "power": 23658780,
+   "ch": 25,
    "x": 371,
    "y": 177,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 149795333,
+   "name": "bLN ff",
+   "power": 23632989,
+   "ch": 25,
+   "x": 588,
+   "y": 477,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 135262978,
+   "name": "Lazyfarm 2",
+   "power": 23454376,
+   "ch": 25,
+   "x": 488,
+   "y": 499,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 130955784,
    "name": "Ursulagay",
    "power": 23396044,
+   "ch": 25,
    "x": 302,
    "y": 1164,
    "alliance": "Ursu",
-   "alliance_id": 8548134
-  },
-  {
-   "id": 135262978,
-   "name": "Lazyfarm 2",
-   "power": 23276114,
-   "x": 488,
-   "y": 499,
-   "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 8548134,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 202507584,
    "name": "Farm vali",
-   "power": 23038749,
+   "power": 23357432,
+   "ch": 25,
    "x": 750,
    "y": 392,
    "alliance": "JJ26",
-   "alliance_id": 7002385
+   "alliance_id": 7002385,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 128407795,
+   "name": "Alex85 fer4",
+   "power": 23352740,
+   "ch": 25,
+   "x": 538,
+   "y": 396,
+   "alliance": "26DW",
+   "alliance_id": 8792724,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 110730601,
+   "name": "Alex85 Fer 3",
+   "power": 23292629,
+   "ch": 25,
+   "x": 540,
+   "y": 393,
+   "alliance": "26DW",
+   "alliance_id": 8792724,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 3085666,
+   "name": "ㄴ3526COUNCILㄱ",
+   "power": 23246129,
+   "ch": 25,
+   "x": 574,
+   "y": 628,
+   "alliance": "KS26",
+   "alliance_id": 6999883,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226023606/2025-11-10/338D579844F0865089F57500B3AD182C_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_46.png"
+  },
+  {
+   "id": 177454624,
+   "name": "TTTTTarcher",
+   "power": 22995831,
+   "ch": 25,
+   "x": 633,
+   "y": 632,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1020.png",
+   "frame": "null"
   },
   {
    "id": 100087936,
    "name": "ʙᴀɢʏ Farm3",
    "power": 22921542,
+   "ch": 25,
    "x": 511,
    "y": 528,
    "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 177454624,
-   "name": "TTTTTarcher",
-   "power": 22867831,
-   "x": 633,
-   "y": 632,
-   "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 109992344,
-   "name": "Itachi Filler2",
-   "power": 22836097,
-   "x": 570,
-   "y": 640,
-   "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 59201149,
-   "name": "Pekka Ra Vinci",
-   "power": 22817940,
-   "x": 867,
-   "y": 289,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_95.png"
   },
   {
    "id": 177746309,
    "name": "TTTTTcavaL",
-   "power": 22767883,
+   "power": 22901183,
+   "ch": 25,
    "x": 565,
    "y": 469,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head_festive_1021.png",
+   "frame": "null"
+  },
+  {
+   "id": 109992344,
+   "name": "Itachi Filler2",
+   "power": 22891481,
+   "ch": 25,
+   "x": 570,
+   "y": 640,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/109992344/22/04/12/6fbb1663e7330269_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 59201149,
+   "name": "Pekka X Redjohn",
+   "power": 22877328,
+   "ch": 25,
+   "x": 867,
+   "y": 289,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://imimg.lilithcdn.com/roc/img_player_head_festive_1024.png",
+   "frame": "null"
   },
   {
    "id": 187562328,
    "name": "Itachi Filler",
-   "power": 22678957,
+   "power": 22863141,
+   "ch": 25,
    "x": 660,
    "y": 813,
    "alliance": "Qwak",
-   "alliance_id": 7000003
+   "alliance_id": 7000003,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/228749544/2025-04-22/EDDBA6BAD40AA9644FF09259F79AADF1_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_190.png"
+  },
+  {
+   "id": 143178362,
+   "name": "Alex fer 8",
+   "power": 22826712,
+   "ch": 25,
+   "x": 541,
+   "y": 391,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 87221507,
    "name": "ᴰᵃʳkヽWolf4",
-   "power": 22620355,
+   "power": 22697155,
+   "ch": 25,
    "x": 705,
    "y": 629,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/87221507/21/10/02/a1da007d571c2be1_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 103386614,
+   "name": "85Alex85 fer 2",
+   "power": 22686750,
+   "ch": 25,
+   "x": 542,
+   "y": 394,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 18087496,
-   "name": "Imperius Fort1",
-   "power": 22551520,
+   "name": "Imperius F8",
+   "power": 22657120,
+   "ch": 25,
    "x": 661,
    "y": 873,
    "alliance": "ES26",
-   "alliance_id": 7000105
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16363532/2026-02-17/6921E0BA25D491119F9F40B0DFADCAF1_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 144074026,
    "name": "Zen Farm2",
    "power": 22527783,
+   "ch": 25,
    "x": 605,
    "y": 689,
    "alliance": "26DW",
-   "alliance_id": 8792724
-  },
-  {
-   "id": 3085666,
-   "name": "ㄴ3526COUNCILㄱ",
-   "power": 22423438,
-   "x": 943,
-   "y": 1168,
-   "alliance": "KS26",
-   "alliance_id": 6999883
+   "alliance_id": 8792724,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/144074026/23/05/03/29bedf58c7d7b35b_658x658.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_260.png"
   },
   {
    "id": 135244907,
    "name": "Lazyfarm 1",
-   "power": 22366863,
+   "power": 22473830,
+   "ch": 25,
    "x": 545,
    "y": 460,
    "alliance": "LR26",
-   "alliance_id": 7000069
-  },
-  {
-   "id": 159681001,
-   "name": "bLN x Redjohn",
-   "power": 22360242,
-   "x": 567,
-   "y": 601,
-   "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 161426538,
-   "name": "Alex fer 9",
-   "power": 22349248,
-   "x": 539,
-   "y": 391,
-   "alliance": "26DW",
-   "alliance_id": 8792724
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head20.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 86410010,
    "name": "ᴰᵃʳkヽWolf3",
-   "power": 22326248,
+   "power": 22403048,
+   "ch": 25,
    "x": 595,
    "y": 475,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/86410010/21/10/02/cc7163e5f2b60052_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 191223611,
    "name": "Qin filler2",
-   "power": 22235169,
+   "power": 22326369,
+   "ch": 25,
    "x": 508,
    "y": 779,
    "alliance": "26GS",
-   "alliance_id": 6999993
+   "alliance_id": 6999993,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head09.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_14.png"
+  },
+  {
+   "id": 159681001,
+   "name": "bLN x Redjohn",
+   "power": 22262915,
+   "ch": 25,
+   "x": 567,
+   "y": 601,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 80968361,
    "name": "ᴰᵃʳkヽWolf5",
-   "power": 22118653,
+   "power": 22195453,
+   "ch": 25,
    "x": 542,
    "y": 707,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/80968361/21/10/02/eed8bdbc490f559d_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 106022858,
+   "name": "Alex fer 6",
+   "power": 22166605,
+   "ch": 25,
+   "x": 542,
+   "y": 396,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 99752336,
    "name": "Quackhead3",
-   "power": 21962828,
+   "power": 22107428,
+   "ch": 25,
    "x": 634,
    "y": 515,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/80371512/2026-05-03/64904059380A82BF09AB5ECE3CC78F14_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 146335380,
    "name": "JoGurt I3",
-   "power": 21842464,
+   "power": 22022964,
+   "ch": 25,
    "x": 589,
    "y": 599,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/103039133/2026-02-17/F299C7AC4E702400894A588FCECDC24B_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 50999415,
    "name": "Filler Úrsu 01",
-   "power": 21684793,
+   "power": 21770193,
+   "ch": 25,
    "x": 531,
    "y": 799,
    "alliance": "26GS",
-   "alliance_id": 6999993
+   "alliance_id": 6999993,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39536876/2026-08-31/B63812627EB0F753CF02423EF62F0E6E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 177746026,
    "name": "TTTTTcaval",
-   "power": 21407238,
+   "power": 21541238,
+   "ch": 25,
    "x": 463,
    "y": 619,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 202206003,
    "name": "RVoid 13",
-   "power": 21353838,
+   "power": 21447265,
+   "ch": 25,
    "x": 444,
    "y": 346,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head03.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
-   "id": 161425102,
-   "name": "Alex85 fer 7",
-   "power": 21266573,
-   "x": 538,
-   "y": 390,
-   "alliance": "26DW",
-   "alliance_id": 8792724
-  },
-  {
-   "id": 181927554,
-   "name": "javierthor",
-   "power": 21125916,
-   "x": 659,
-   "y": 1044,
-   "alliance": "PYDR",
-   "alliance_id": 7003531
+   "id": 145206450,
+   "name": "85Alex85 fer 5",
+   "power": 21421091,
+   "ch": 25,
+   "x": 540,
+   "y": 397,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 181827805,
    "name": "dav 1968",
-   "power": 21002125,
+   "power": 21347767,
+   "ch": 25,
    "x": 62,
    "y": 804,
    "alliance": "ESDA",
-   "alliance_id": 6999988
+   "alliance_id": 6999988,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 96887908,
-   "name": "YamilJamfill",
-   "power": 20788828,
-   "x": 562,
-   "y": 782,
-   "alliance": "ES26",
-   "alliance_id": 7000105
+   "id": 181927554,
+   "name": "javierthor",
+   "power": 21322806,
+   "ch": 25,
+   "x": 659,
+   "y": 1044,
+   "alliance": "PYDR",
+   "alliance_id": 7003531,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head11.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 159675297,
-   "name": "bLN F3",
-   "power": 20736069,
-   "x": 548,
-   "y": 687,
+   "id": 27925141,
+   "name": "BLOOD09",
+   "power": 21124640,
+   "ch": 25,
+   "x": 575,
+   "y": 573,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
    "id": 146335577,
    "name": "JoGurt I1",
-   "power": 20716285,
+   "power": 20963885,
+   "ch": 25,
    "x": 593,
    "y": 598,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/103039133/2026-02-17/1C779D5F002E360B38B0A6E8021B1D2D_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 96887908,
+   "name": "YamilJamfill",
+   "power": 20816794,
+   "ch": 25,
+   "x": 562,
+   "y": 782,
+   "alliance": "ES26",
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/74076865/2026-02-14/DA09AAB6F0B70777070DF08456E49B4B_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 159675297,
+   "name": "bLN F3",
+   "power": 20812869,
+   "ch": 25,
+   "x": 548,
+   "y": 687,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 75678093,
+   "name": "CORTEZ1",
+   "power": 20729981,
+   "ch": 25,
+   "x": 518,
+   "y": 163,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/57481721/2026-09-16/E2007B6DDA2F927D4C5E61E8C5F7601B_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 181433680,
+   "name": "ᴰᴷSSG",
+   "power": 20695859,
+   "ch": 25,
+   "x": 661,
+   "y": 1174,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "",
+   "frame": ""
+  },
+  {
+   "id": 187663793,
+   "name": "Agus2Fill",
+   "power": 20670724,
+   "ch": 25,
+   "x": 507,
+   "y": 813,
+   "alliance": "26GS",
+   "alliance_id": 6999993,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/3106484/2026-08-31/0D4F56EBAED92EBBC4932E78B6A2F3F1_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_29.png"
   },
   {
    "id": 181882404,
    "name": "zYnxx҉26",
    "power": 20629327,
+   "ch": 25,
    "x": 243,
    "y": 959,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/226080034/2024-06-03/F630B4F93A249DA82372E99621C5EA00_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
+  },
+  {
+   "id": 62660462,
+   "name": "Filler Úrsu 02",
+   "power": 20617629,
+   "ch": 25,
+   "x": 237,
+   "y": 805,
+   "alliance": "26GS",
+   "alliance_id": 6999993,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39536876/2026-08-31/D665C8F7DA07F21DA0F8E10E64E47CDE_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 178542474,
    "name": "Agöny 웃",
    "power": 20569461,
+   "ch": 25,
    "x": 1024,
    "y": 651,
    "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 75678093,
-   "name": "CORTEZ1",
-   "power": 20550838,
-   "x": 638,
-   "y": 235,
-   "alliance": "LR26",
-   "alliance_id": 7000069
-  },
-  {
-   "id": 62660462,
-   "name": "Filler Úrsu 02",
-   "power": 20534809,
-   "x": 237,
-   "y": 805,
-   "alliance": "26GS",
-   "alliance_id": 6999993
+   "alliance_id": 0,
+   "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/221824549/2024-05-24/96BBA01DC5BD583EAA6593F1004F34AD_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 181936578,
    "name": "Smoothjr504",
    "power": 20488606,
+   "ch": 25,
    "x": 1097,
    "y": 15,
    "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 187663793,
-   "name": "Agus2Fill",
-   "power": 20429429,
-   "x": 507,
-   "y": 813,
-   "alliance": "26GS",
-   "alliance_id": 6999993
-  },
-  {
-   "id": 27925141,
-   "name": "BLOOD09",
-   "power": 20402654,
-   "x": 575,
-   "y": 573,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226088014/2026-03-09/9718095F2F21562BD8A72623091CA513_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 204709435,
    "name": "RVoid 14",
-   "power": 20378271,
+   "power": 20464270,
+   "ch": 25,
    "x": 443,
    "y": 404,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 189448873,
    "name": "bLn new F",
-   "power": 20274912,
+   "power": 20375712,
+   "ch": 25,
    "x": 638,
    "y": 661,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head02.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 161426538,
+   "name": "Alex fer 9",
+   "power": 20316205,
+   "ch": 25,
+   "x": 539,
+   "y": 391,
+   "alliance": "26DW",
+   "alliance_id": 8792724,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 192554376,
    "name": "Qin filler",
-   "power": 20196923,
+   "power": 20301723,
+   "ch": 25,
    "x": 363,
    "y": 773,
    "alliance": "26GS",
-   "alliance_id": 6999993
+   "alliance_id": 6999993,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head06.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 205023124,
    "name": "RVoid 15",
-   "power": 20054100,
+   "power": 20134679,
+   "ch": 25,
    "x": 498,
    "y": 391,
    "alliance": "LR26",
-   "alliance_id": 7000069
-  },
-  {
-   "id": 92752920,
-   "name": "redjonchildmind",
-   "power": 20026790,
-   "x": 792,
-   "y": 810,
-   "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head18.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 75972012,
    "name": "BLOOD333",
-   "power": 20021729,
-   "x": 594,
-   "y": 592,
+   "power": 20078329,
+   "ch": 25,
+   "x": 579,
+   "y": 577,
    "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 6999899,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/75972012/20/09/25/586f70e90502cffe_800x800.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
    "id": 173420350,
    "name": "DunhillHitam",
-   "power": 20009017,
+   "power": 20008402,
+   "ch": 25,
    "x": 332,
    "y": 752,
    "alliance": "26LF",
-   "alliance_id": 6999975
+   "alliance_id": 6999975,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/219997956/2025-10-06/DB6B296EAB5DBE5D62933F2DAFB09CF2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 96137956,
    "name": "Athēnå",
    "power": 19993727,
+   "ch": 25,
    "x": 425,
    "y": 21,
    "alliance": "26RD",
-   "alliance_id": 6999924
+   "alliance_id": 6999924,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/53169247/2026-06-21/359D285E3CE533BB93DA20FC0EE24B07_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 47715512,
    "name": "AuriDuckFiller",
-   "power": 19824448,
-   "x": 479,
-   "y": 813,
+   "power": 19967279,
+   "ch": 25,
+   "x": 258,
+   "y": 1134,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/47715512/22/03/15/af0c72080f6236c9_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 205416487,
    "name": "RVoid 16",
-   "power": 19803605,
+   "power": 19895967,
+   "ch": 25,
    "x": 541,
    "y": 365,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head21.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 181259725,
+   "name": "ᴴᴰDaniel",
+   "power": 19714715,
+   "ch": 25,
+   "x": 972,
+   "y": 508,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "",
+   "frame": ""
   },
   {
    "id": 49382478,
    "name": "kinderJëy XIII",
-   "power": 19572780,
+   "power": 19573280,
+   "ch": 25,
    "x": 286,
    "y": 551,
    "alliance": "XZ26",
-   "alliance_id": 7000311
+   "alliance_id": 7000311,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/41058486/2026-05-31/C026D720F2A395D64ACF75D04C9A4D20_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
    "id": 179233029,
    "name": "ᴰᴴAŞIK",
    "power": 19473964,
+   "ch": 25,
    "x": 900,
    "y": 717,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/200750777/2024-09-03/F7470AB0E38712CB3B42467E92F077C1_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 52821226,
    "name": "kinderJëy XII",
    "power": 19435921,
+   "ch": 25,
    "x": 859,
    "y": 123,
    "alliance": "XZ26",
-   "alliance_id": 7000311
+   "alliance_id": 7000311,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/41058486/2026-05-31/C026D720F2A395D64ACF75D04C9A4D20_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
    "id": 103134286,
    "name": "Filler Úrsu 03",
-   "power": 19205929,
+   "power": 19283929,
+   "ch": 25,
    "x": 460,
    "y": 837,
    "alliance": "26GS",
-   "alliance_id": 6999993
+   "alliance_id": 6999993,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/39536876/2026-08-31/06D01D7F76B677467F16D91A31DCEE14_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 4566051,
    "name": "Fruitlab",
-   "power": 19085551,
+   "power": 19189551,
+   "ch": 25,
    "x": 99,
    "y": 302,
    "alliance": "ES26",
-   "alliance_id": 7000105
+   "alliance_id": 7000105,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/4566051/20/01/31/e63d2480787f22a5_200x200.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 205841130,
    "name": "RVoid 17",
-   "power": 18923021,
+   "power": 19002958,
+   "ch": 25,
    "x": 558,
    "y": 360,
    "alliance": "LR26",
-   "alliance_id": 7000069
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head09.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 189826051,
+   "name": "bLn new ff2",
+   "power": 18993627,
+   "ch": 25,
+   "x": 642,
+   "y": 727,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head06.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181917281,
    "name": "Governor181917281",
    "power": 18904221,
+   "ch": 25,
    "x": 575,
    "y": 237,
    "alliance": "V26V",
-   "alliance_id": 8010884
-  },
-  {
-   "id": 189826051,
-   "name": "bLn new ff2",
-   "power": 18894427,
-   "x": 675,
-   "y": 585,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "alliance_id": 8010884,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 168497882,
    "name": "YutaAFarm1",
    "power": 18641391,
+   "ch": 25,
    "x": 778,
    "y": 834,
    "alliance": "G2F6",
-   "alliance_id": 7110799
+   "alliance_id": 7110799,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/203205116/2025-05-30/1EE94922DD21D2DB31B46F18836E4233_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 155023787,
+   "name": "Imperius F1",
+   "power": 18574461,
+   "ch": 25,
+   "x": 512,
+   "y": 854,
+   "alliance": "ES26",
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16363532/2026-02-17/86F6AD0D0D2E28D17385A07C6FC9068D_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 146512863,
    "name": "YutaAFarm6",
    "power": 18560230,
+   "ch": 25,
    "x": 783,
    "y": 836,
    "alliance": "G2F6",
-   "alliance_id": 7110799
+   "alliance_id": 7110799,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/98259043/2026-02-04/F60465D00595A2E260BB6AC006AE2A51_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 155023787,
-   "name": "Imperius F1",
-   "power": 18472061,
-   "x": 512,
-   "y": 854,
-   "alliance": "ES26",
-   "alliance_id": 7000105
-  },
-  {
-   "id": 102256579,
-   "name": "Waylay F1",
-   "power": 18452968,
-   "x": 686,
-   "y": 806,
-   "alliance": "",
-   "alliance_id": 0
+   "id": 161425102,
+   "name": "Alex85 fer 7",
+   "power": 18552414,
+   "ch": 25,
+   "x": 538,
+   "y": 390,
+   "alliance": "26DW",
+   "alliance_id": 8792724,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/66127404/2026-09-28/A38038D2E9315CE49F09096538F4AB23_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 165382224,
    "name": "LTH1810 SS",
-   "power": 18288792,
+   "power": 18339992,
+   "ch": 25,
    "x": 475,
    "y": 814,
    "alliance": "26GS",
-   "alliance_id": 6999993
+   "alliance_id": 6999993,
+   "avatar": "https://imimg.lilithcdn.com/llc_avatar/165382224/23/09/10/402301a38684c710_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 191176358,
    "name": "AROMAX",
    "power": 18282562,
+   "ch": 25,
    "x": 231,
    "y": 237,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/231854665/2025-12-10/205BE21C9043CB178ABC68886821D871_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 149511279,
    "name": "FlufftimusFarm1",
    "power": 18276243,
+   "ch": 25,
    "x": 127,
    "y": 763,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/149511279/240327/C0AACA344C3E7E5EF03C99EAB3C0EACE_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_14.png"
   },
   {
    "id": 175214557,
    "name": "sdroksu",
    "power": 18257995,
+   "ch": 25,
    "x": 184,
    "y": 754,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head06.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
-   "id": 181909710,
-   "name": "EUS 0",
-   "power": 18081942,
-   "x": 331,
-   "y": 990,
-   "alliance": "",
-   "alliance_id": 0
+   "id": 181829300,
+   "name": "Marcanus king",
+   "power": 18144582,
+   "ch": 25,
+   "x": 46,
+   "y": 1094,
+   "alliance": "V26V",
+   "alliance_id": 8010884,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/226028757/2025-07-14/A4545D06662B03D960A83DFF46A54F50_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
   },
   {
    "id": 115424451,
    "name": "Imperius F9",
-   "power": 18048572,
-   "x": 518,
-   "y": 856,
+   "power": 18105372,
+   "ch": 25,
+   "x": 397,
+   "y": 989,
    "alliance": "ES26",
-   "alliance_id": 7000105
-  },
-  {
-   "id": 68246085,
-   "name": "viN",
-   "power": 18033089,
-   "x": 368,
-   "y": 815,
-   "alliance": "26LF",
-   "alliance_id": 6999975
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/86F6AD0D0D2E28D17385A07C6FC9068D_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 129454569,
    "name": "Imperius F6",
-   "power": 18010704,
-   "x": 510,
-   "y": 855,
+   "power": 18064304,
+   "ch": 25,
+   "x": 670,
+   "y": 1020,
    "alliance": "ES26",
-   "alliance_id": 7000105
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/BF657FBA3FA116345FA756EB2893DA33_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 108144455,
-   "name": "Waylay F2",
-   "power": 17972314,
-   "x": 695,
-   "y": 813,
-   "alliance": "",
-   "alliance_id": 0
+   "id": 68246085,
+   "name": "viN",
+   "power": 18039218,
+   "ch": 25,
+   "x": 368,
+   "y": 815,
+   "alliance": "26LF",
+   "alliance_id": 6999975,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 25821090,
    "name": "JoGurt I7",
    "power": 17962911,
+   "ch": 25,
    "x": 182,
    "y": 663,
    "alliance": "26DW",
-   "alliance_id": 8792724
+   "alliance_id": 8792724,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/25821090/21/12/28/6fcfbf70ac22f424_800x800.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_237.png"
   },
   {
    "id": 73802545,
    "name": "Tuggybotfarm3",
-   "power": 17858505,
+   "power": 17958505,
+   "ch": 25,
    "x": 654,
    "y": 854,
    "alliance": "ES26",
-   "alliance_id": 7000105
+   "alliance_id": 7000105,
+   "avatar": "https://imimg.lilithcdn.com/roc/llc_avatar/73802545/23/09/05/aad56e1bfa10eca8_579x579.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 208649668,
    "name": "RVoid 18",
-   "power": 17749664,
+   "power": 17841219,
+   "ch": 25,
    "x": 554,
    "y": 331,
    "alliance": "LR26",
-   "alliance_id": 7000069
-  },
-  {
-   "id": 60718102,
-   "name": "Imperius Fort2",
-   "power": 17625254,
-   "x": 514,
-   "y": 858,
-   "alliance": "ES26",
-   "alliance_id": 7000105
+   "alliance_id": 7000069,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head17.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 129443752,
-   "name": "ES26 r5",
-   "power": 17608908,
-   "x": 679,
-   "y": 900,
+   "name": "Imperius F3",
+   "power": 17716176,
+   "ch": 25,
+   "x": 524,
+   "y": 964,
    "alliance": "ES26",
-   "alliance_id": 7000105
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/7E2E9EAC422E3321C1D5B4AC9B68C719_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 60718102,
+   "name": "Imperius F2",
+   "power": 17712958,
+   "ch": 25,
+   "x": 376,
+   "y": 1103,
+   "alliance": "ES26",
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/0C32041FFE5E07F6CC272281FDA1D6E4_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 141931478,
+   "name": "Pharaoh War S",
+   "power": 17326945,
+   "ch": 25,
+   "x": 785,
+   "y": 596,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 129643505,
    "name": "Lil Nuri 2",
    "power": 17203436,
+   "ch": 25,
    "x": 478,
    "y": 576,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head07.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 89218314,
+   "name": "Blood 222",
+   "power": 17155016,
+   "ch": 25,
+   "x": 581,
+   "y": 576,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/IM/10043/0/2106376/2024-08-08/25661BAC8498F5FC55FE75132111FBF0_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
    "id": 140207590,
    "name": "Lil NaRa",
    "power": 17069671,
+   "ch": 25,
    "x": 284,
    "y": 1172,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head22.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_174.png"
   },
   {
-   "id": 89218314,
-   "name": "Blood 222",
-   "power": 16881009,
-   "x": 581,
-   "y": 576,
-   "alliance": "26LS",
-   "alliance_id": 6999899
-  },
-  {
-   "id": 141931478,
-   "name": "Pharaoh War S",
-   "power": 16828332,
-   "x": 785,
-   "y": 596,
+   "id": 173922870,
+   "name": "Pharaoh War Z",
+   "power": 16985274,
+   "ch": 25,
+   "x": 358,
+   "y": 798,
    "alliance": "IG26",
-   "alliance_id": 6999970
-  },
-  {
-   "id": 181872034,
-   "name": "Astropix",
-   "power": 16820944,
-   "x": 33,
-   "y": 689,
-   "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 140522991,
    "name": "Thorfin fill r",
    "power": 16812428,
+   "ch": 25,
    "x": 901,
    "y": 922,
    "alliance": "DT26",
-   "alliance_id": 7008416
-  },
-  {
-   "id": 121396261,
-   "name": "aLFath",
-   "power": 16523518,
-   "x": 494,
-   "y": 818,
-   "alliance": "26LF",
-   "alliance_id": 6999975
-  },
-  {
-   "id": 121397520,
-   "name": "aLFatih",
-   "power": 16513353,
-   "x": 406,
-   "y": 629,
-   "alliance": "26LF",
-   "alliance_id": 6999975
-  },
-  {
-   "id": 99316311,
-   "name": "Imperius F4",
-   "power": 16405625,
-   "x": 512,
-   "y": 857,
-   "alliance": "ES26",
-   "alliance_id": 7000105
-  },
-  {
-   "id": 154780339,
-   "name": "AK 2  26",
-   "power": 16397012,
-   "x": 336,
-   "y": 619,
-   "alliance": "26LF",
-   "alliance_id": 6999975
+   "alliance_id": 7008416,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/201922326/2026-02-11/A3B395398B4862379898F3CACDC6F19E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_152.png"
   },
   {
    "id": 149178855,
    "name": "Pharaoh War G",
-   "power": 16374119,
+   "power": 16659808,
+   "ch": 25,
    "x": 359,
    "y": 783,
    "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/207269136/2026-06-27/8590EDB7120DFA0A1AF66CFA9BE79AAD_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 121396261,
+   "name": "aLFath",
+   "power": 16534375,
+   "ch": 25,
+   "x": 494,
+   "y": 818,
+   "alliance": "26LF",
+   "alliance_id": 6999975,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/98027255/2026-06-01/11AA392A36F329E77D8A26BDC091E9F3_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 121397520,
+   "name": "aLFatih",
+   "power": 16523912,
+   "ch": 25,
+   "x": 406,
+   "y": 629,
+   "alliance": "26LF",
+   "alliance_id": 6999975,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/98027255/2026-06-01/235DAECEA819A90F4392A16FEC7CD15D_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 99316311,
+   "name": "Imperius F4",
+   "power": 16508025,
+   "ch": 25,
+   "x": 672,
+   "y": 1020,
+   "alliance": "ES26",
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16363532/2026-02-17/AC23D79EBF99472C05EC9F6868FC79EA_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 92752920,
+   "name": "redjonchildmind",
+   "power": 16474570,
+   "ch": 25,
+   "x": 792,
+   "y": 810,
+   "alliance": "ZAWW",
+   "alliance_id": 8712955,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 154780339,
+   "name": "AK 2  26",
+   "power": 16450612,
+   "ch": 25,
+   "x": 336,
+   "y": 619,
+   "alliance": "26LF",
+   "alliance_id": 6999975,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/203412043/2025-05-12/DB6B296EAB5DBE5D62933F2DAFB09CF2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 87021455,
+   "name": "ムメイ22",
+   "power": 16444814,
+   "ch": 25,
+   "x": 231,
+   "y": 632,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 181679842,
+   "name": "ᴰᴷAnonymous",
+   "power": 16429307,
+   "ch": 25,
+   "x": 275,
+   "y": 398,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/89589788/2024-05-23/7664718F5CB3B7EAAF5BA261EC5906F8_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
   },
   {
    "id": 51549460,
    "name": "kinderJëy I",
-   "power": 16368975,
+   "power": 16386683,
+   "ch": 25,
    "x": 847,
    "y": 986,
    "alliance": "XZ26",
-   "alliance_id": 7000311
+   "alliance_id": 7000311,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/41058486/2026-05-31/C026D720F2A395D64ACF75D04C9A4D20_250x250.jpg",
+   "frame": "https://imimg.lilithcdn.com/roc/img_AvatarFrame_259.png"
   },
   {
    "id": 69231607,
    "name": "dEviN",
-   "power": 16313162,
+   "power": 16318706,
+   "ch": 25,
    "x": 493,
    "y": 754,
    "alliance": "26LF",
-   "alliance_id": 6999975
+   "alliance_id": 6999975,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/55190321/2026-07-30/D88FF9DF14F0E5D579D82FAAFC64A4CA_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 71866598,
    "name": "dEv1",
-   "power": 16279488,
+   "power": 16290050,
+   "ch": 25,
    "x": 309,
    "y": 598,
    "alliance": "26LF",
-   "alliance_id": 6999975
-  },
-  {
-   "id": 153695491,
-   "name": "Waylay F3",
-   "power": 16279453,
-   "x": 802,
-   "y": 559,
-   "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 6999975,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/55190321/2026-07-01/D88FF9DF14F0E5D579D82FAAFC64A4CA_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 170646585,
    "name": "YutaAFarm9",
    "power": 16159481,
+   "ch": 25,
    "x": 614,
    "y": 507,
    "alliance": "G2F6",
-   "alliance_id": 7110799
-  },
-  {
-   "id": 155093185,
-   "name": "AK 1  26",
-   "power": 16016203,
-   "x": 522,
-   "y": 798,
-   "alliance": "26LF",
-   "alliance_id": 6999975
+   "alliance_id": 7110799,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/216860493/2026-02-01/DA2EA2E575A374AD46D08AAD9139F600_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 169528391,
    "name": "Dragon Moon 21",
-   "power": 16006183,
-   "x": 478,
-   "y": 661,
+   "power": 16079883,
+   "ch": 25,
+   "x": 511,
+   "y": 583,
    "alliance": "KS26",
-   "alliance_id": 6999883
+   "alliance_id": 6999883,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/583783/2026-09-05/6A8A4430EE732783721C4647ADD84932_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 135876824,
-   "name": "Waylay F4",
-   "power": 15830960,
-   "x": 892,
-   "y": 693,
-   "alliance": "",
-   "alliance_id": 0
+   "id": 155093185,
+   "name": "AK 1  26",
+   "power": 16037003,
+   "ch": 25,
+   "x": 522,
+   "y": 798,
+   "alliance": "26LF",
+   "alliance_id": 6999975,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/203412043/2025-05-12/DB6B296EAB5DBE5D62933F2DAFB09CF2_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181855225,
    "name": "Leerooy74",
-   "power": 15491476,
+   "power": 15800727,
+   "ch": 25,
    "x": 53,
    "y": 944,
    "alliance": "V26V",
-   "alliance_id": 8010884
+   "alliance_id": 8010884,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head08.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 181877417,
+   "name": "khan",
+   "power": 15658138,
+   "ch": 25,
+   "x": 192,
+   "y": 661,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "",
+   "frame": ""
   },
   {
    "id": 165583149,
    "name": "YutaAFarm8",
    "power": 15361516,
+   "ch": 25,
    "x": 618,
    "y": 506,
    "alliance": "G2F6",
-   "alliance_id": 7110799
-  },
-  {
-   "id": 173922870,
-   "name": "Pharaoh War Z",
-   "power": 15340104,
-   "x": 358,
-   "y": 798,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 7110799,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/216860493/2026-02-01/801FD1DD56E98E2B3CB0AAAE09BE2916_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 165365479,
    "name": "Mandielorian",
    "power": 15282151,
+   "ch": 25,
    "x": 513,
    "y": 540,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://imv2-gl.lilithgame.com/p/10043/0/165365479/230816/A27FE5F4DB8296E3DAE26E7495350281_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_253.png"
+  },
+  {
+   "id": 209403180,
+   "name": "ᴬᵈDragon",
+   "power": 15267129,
+   "ch": 25,
+   "x": 463,
+   "y": 800,
+   "alliance": "26GS",
+   "alliance_id": 6999993,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/583783/2026-09-20/8BCE3AC61F993C0994508010CB45D503_250x250.jpg",
+   "frame": "null"
   },
   {
    "id": 175888112,
    "name": "Nie Vy",
    "power": 15242858,
+   "ch": 25,
    "x": 790,
    "y": 1087,
    "alliance": "G2F6",
-   "alliance_id": 7110799
+   "alliance_id": 7110799,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24424458/2026-01-26/89F5E90F885C9F5BCC8A7A5261D47144_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 214989040,
+   "name": "RVoid 19",
+   "power": 15236455,
+   "ch": 25,
+   "x": 591,
+   "y": 305,
+   "alliance": "LR26",
+   "alliance_id": 7000069,
+   "avatar": "",
+   "frame": ""
+  },
+  {
+   "id": 182545440,
+   "name": "m1xed b0y fj0r1",
+   "power": 15188292,
+   "ch": 25,
+   "x": 571,
+   "y": 549,
+   "alliance": "26LS",
+   "alliance_id": 6999899,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
    "id": 139336191,
    "name": "ʙᴇ ᴠɴ F5",
    "power": 15164883,
+   "ch": 25,
    "x": 418,
    "y": 836,
    "alliance": "26DW",
-   "alliance_id": 8792724
+   "alliance_id": 8792724,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head20.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 209403180,
-   "name": "ᴬᵈDragon",
-   "power": 15139729,
-   "x": 498,
-   "y": 1052,
-   "alliance": "G2F6",
-   "alliance_id": 7110799
-  },
-  {
-   "id": 214989040,
-   "name": "RVoid 19",
-   "power": 15056217,
-   "x": 591,
-   "y": 305,
-   "alliance": "LR26",
-   "alliance_id": 7000069
-  },
-  {
-   "id": 182545440,
-   "name": "m1xed b0y fj0r1",
-   "power": 15028348,
-   "x": 571,
-   "y": 549,
-   "alliance": "26LS",
-   "alliance_id": 6999899
+   "id": 113308801,
+   "name": "MaverickF33",
+   "power": 14862890,
+   "ch": 25,
+   "x": 85,
+   "y": 242,
+   "alliance": "XZ26",
+   "alliance_id": 7000311,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-06-29/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 175908965,
    "name": "Nie Qw",
-   "power": 14672932,
-   "x": 384,
+   "power": 14736932,
+   "ch": 25,
+   "x": 383,
    "y": 1132,
    "alliance": "G2F6",
-   "alliance_id": 7110799
+   "alliance_id": 7110799,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24424458/2025-10-16/D9F10BE207F8A6BA2F9EE3D47E00D685_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 130197504,
-   "name": "Imperius F10",
-   "power": 14605995,
+   "name": "Imperius F7",
+   "power": 14687327,
+   "ch": 25,
    "x": 516,
    "y": 855,
    "alliance": "ES26",
-   "alliance_id": 7000105
-  },
-  {
-   "id": 106986084,
-   "name": "Waylay F5",
-   "power": 14472871,
-   "x": 674,
-   "y": 810,
-   "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/467B7CB54D83F5CE99BBA775CDEFE618_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 130255781,
-   "name": "Imperius F11",
-   "power": 14445709,
+   "name": "Imperius F5",
+   "power": 14506409,
+   "ch": 25,
    "x": 516,
    "y": 857,
    "alliance": "ES26",
-   "alliance_id": 7000105
+   "alliance_id": 7000105,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/48654301/2026-02-17/5F6C1B2B744620BA9BB621AA9588B909_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
-   "id": 110340594,
-   "name": "Waylay F6",
-   "power": 14137957,
-   "x": 741,
-   "y": 829,
-   "alliance": "",
-   "alliance_id": 0
+   "id": 135469155,
+   "name": "MaverickF30",
+   "power": 14483531,
+   "ch": 25,
+   "x": 164,
+   "y": 90,
+   "alliance": "XZ26",
+   "alliance_id": 7000311,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-04-24/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 171489652,
    "name": "Parazzi filler",
-   "power": 14003523,
+   "power": 14020855,
+   "ch": 25,
    "x": 479,
    "y": 597,
    "alliance": "Qwak",
-   "alliance_id": 7000003
+   "alliance_id": 7000003,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/24304783/2025-08-12/F8D6E4D331269530D56BD37966A02001_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
   },
   {
-   "id": 38975469,
-   "name": "MaverickF29",
-   "power": 13740409,
-   "x": 175,
-   "y": 550,
-   "alliance": "XZ26",
-   "alliance_id": 7000311
+   "id": 180515822,
+   "name": "Pharaoh War F",
+   "power": 13936213,
+   "ch": 25,
+   "x": 503,
+   "y": 796,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/224638909/2026-09-09/6F07FC2DE714F41ECC21D697E7BEDD32_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 82549035,
    "name": "sebatin",
-   "power": 13712311,
+   "power": 13754711,
+   "ch": 25,
    "x": 634,
    "y": 1028,
    "alliance": "Dc26",
-   "alliance_id": 7063991
+   "alliance_id": 7063991,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head07.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_74.png"
   },
   {
-   "id": 104425085,
-   "name": "Waylay F7",
-   "power": 13624403,
-   "x": 601,
-   "y": 774,
-   "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 59667365,
-   "name": "Waylay F8",
-   "power": 13551631,
-   "x": 912,
-   "y": 462,
-   "alliance": "",
-   "alliance_id": 0
-  },
-  {
-   "id": 19169312,
-   "name": "Waylay F9",
-   "power": 13542940,
-   "x": 672,
-   "y": 822,
-   "alliance": "",
-   "alliance_id": 0
+   "id": 38975469,
+   "name": "MaverickF29",
+   "power": 13744409,
+   "ch": 25,
+   "x": 175,
+   "y": 550,
+   "alliance": "XZ26",
+   "alliance_id": 7000311,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-04-24/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 161610075,
    "name": "Maverick1",
-   "power": 13522556,
+   "power": 13530556,
+   "ch": 25,
    "x": 198,
    "y": 268,
    "alliance": "XZ26",
-   "alliance_id": 7000311
+   "alliance_id": 7000311,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-02-04/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 152268590,
    "name": "MaverickF28",
-   "power": 13461631,
+   "power": 13465631,
+   "ch": 25,
    "x": 694,
    "y": 136,
    "alliance": "XZ26",
-   "alliance_id": 7000311
+   "alliance_id": 7000311,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/32796298/2026-04-24/C4028AF2443FFD8D05D9308FD8CBFD27_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 111585422,
    "name": "Thorfin 3526 KK",
-   "power": 13398900,
+   "power": 13450100,
+   "ch": 25,
    "x": 274,
    "y": 287,
    "alliance": "DT26",
-   "alliance_id": 7008416
+   "alliance_id": 7008416,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/90412037/2026-02-05/DB4111BC07282FEA6A88EBD8E5BFDD88_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_46.png"
   },
   {
    "id": 158176056,
    "name": "riezkyyy",
    "power": 13291393,
+   "ch": 25,
    "x": 1054,
    "y": 1019,
    "alliance": "Dc26",
-   "alliance_id": 7063991
+   "alliance_id": 7063991,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/201922326/2026-02-11/A3B395398B4862379898F3CACDC6F19E_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_152.png"
+  },
+  {
+   "id": 143183514,
+   "name": "Pharaoh War D",
+   "power": 13192282,
+   "ch": 25,
+   "x": 311,
+   "y": 635,
+   "alliance": "IG26",
+   "alliance_id": 6999970,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 181907547,
    "name": "Remigiusz",
    "power": 13011521,
+   "ch": 25,
    "x": 894,
    "y": 570,
    "alliance": "BB26",
-   "alliance_id": 7004430
-  },
-  {
-   "id": 143183514,
-   "name": "Pharaoh War D",
-   "power": 12905962,
-   "x": 311,
-   "y": 635,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "alliance_id": 7004430,
+   "avatar": "https://static-gl.lilithgame.com/p/IM/10043/0/226083477/2024-06-06/B36F087DC587004A41213D2BDBD538E9_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_199.png"
   },
   {
    "id": 149908487,
    "name": "ᵈˢBLD",
    "power": 12877146,
+   "ch": 25,
    "x": 294,
    "y": 674,
    "alliance": "26LF",
-   "alliance_id": 6999975
+   "alliance_id": 6999975,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/204725555/2026-02-01/1CB1A4275CBDCF6388226FB781B5EF70_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_1.png"
   },
   {
-   "id": 180515822,
-   "name": "Pharaoh War F",
-   "power": 12725443,
-   "x": 503,
-   "y": 796,
-   "alliance": "IG26",
-   "alliance_id": 6999970
+   "id": 108144455,
+   "name": "Waylay F2",
+   "power": 12187236,
+   "ch": 25,
+   "x": 695,
+   "y": 813,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 102256579,
+   "name": "Waylay F1",
+   "power": 12029883,
+   "ch": 25,
+   "x": 108,
+   "y": 748,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head21.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 211431145,
    "name": "Lily Farm 雪ミク",
    "power": 11906302,
+   "ch": 25,
    "x": 462,
    "y": 430,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "https://plat-fau-global.lilithgame.com/p/astc/IM/10043/0/16561320/2026-03-16/56C272C7FFC22F7EE11D1A90785D9B0B_250x250.jpg",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 110340594,
+   "name": "Waylay F6",
+   "power": 11413393,
+   "ch": 25,
+   "x": 741,
+   "y": 829,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 103524175,
    "name": "DH FARM 11",
-   "power": 11315376,
+   "power": 11356976,
+   "ch": 25,
    "x": 473,
    "y": 1052,
    "alliance": "Dc26",
-   "alliance_id": 7063991
+   "alliance_id": 7063991,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head07.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_165.png"
+  },
+  {
+   "id": 106986084,
+   "name": "Waylay F5",
+   "power": 11177652,
+   "ch": 25,
+   "x": 674,
+   "y": 810,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 104425085,
+   "name": "Waylay F7",
+   "power": 10963714,
+   "ch": 25,
+   "x": 601,
+   "y": 774,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 59667365,
+   "name": "Waylay F8",
+   "power": 10938579,
+   "ch": 25,
+   "x": 912,
+   "y": 462,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head05.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 153695491,
+   "name": "Waylay F3",
+   "power": 10925705,
+   "ch": 25,
+   "x": 802,
+   "y": 559,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_AvatarFrame_140.png"
+  },
+  {
+   "id": 19169312,
+   "name": "Waylay F9",
+   "power": 10637980,
+   "ch": 25,
+   "x": 672,
+   "y": 822,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head04.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
+  },
+  {
+   "id": 135876824,
+   "name": "Waylay F4",
+   "power": 10238676,
+   "ch": 25,
+   "x": 892,
+   "y": 693,
+   "alliance": "",
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 199384959,
    "name": "Waylay F10",
-   "power": 11056594,
+   "power": 8993064,
+   "ch": 25,
    "x": 1138,
    "y": 747,
    "alliance": "",
-   "alliance_id": 0
+   "alliance_id": 0,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head01.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   },
   {
    "id": 68377738,
    "name": "Es0x Goldgrube",
-   "power": 8879100,
+   "power": 8878210,
+   "ch": 25,
    "x": 274,
    "y": 927,
    "alliance": "JJ26",
-   "alliance_id": 7002385
+   "alliance_id": 7002385,
+   "avatar": "http://imimg.lilithcdn.com/roc/img_player_head10.png",
+   "frame": "http://imimg.lilithcdn.com/roc/img_ProfileBg220x220_a.png"
   }
  ]
 }
